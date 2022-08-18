@@ -1,16 +1,14 @@
-[
-{
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
+[{
+  "modid": "geology",
+  "name": "Geology",
+  "description": "A mod adding realistic geological blocks and items to Minecraft.",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["CleanroomMC"],
-  "credits": "Authors of this project",
+  "authorList": ["Gliese 832 c"],
+  "credits": "Geologists for making the information I had to research for this mod available online.",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
-}
-]
+}]
