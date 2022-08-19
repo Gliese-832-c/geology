@@ -9,10 +9,12 @@ import it.unimi.dsi.fastutil.ints.*;
 import it.unimi.dsi.fastutil.longs.*;
 import it.unimi.dsi.fastutil.objects.ObjectOpenHashSet;
 
-public class CollectionHelper {
+// Code borrowed from tomdodd's NuclearCraft: Overhauled (using the appropriate license of course)
+// https://github.com/tomdodd4598/NuclearCraft
 
+public class CollectionHelper
+{
     // Lists
-
     public static <T> List<T> asList(T[] array) {
         List<T> list = new ArrayList<>();
         for (T t : array) {
