@@ -1,0 +1,8 @@
+{
+    "parent": "geology:block/rocks/rock_volcanic/amygdaloidal_basalt",
+    "textures": {
+        "topbottom": "geology:blocks/rocks/rock_volcanic/amygdaloidal_basalt_01",
+        "northsouth": "geology:blocks/rocks/rock_volcanic/amygdaloidal_basalt_02",
+        "westeast": "geology:blocks/rocks/rock_volcanic/amygdaloidal_basalt_03"
+    }
+}

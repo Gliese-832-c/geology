@@ -1,0 +1,43 @@
+{
+	"variants": {
+		"type=granite": [
+			{ "model": "geology:rocks/rock_volcanic/rhyolite_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_volcanic/rhyolite_02", "weight": 50 }
+		],
+		"type=granodiorite": [
+			{ "model": "geology:rocks/rock_volcanic/rhyolite_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_volcanic/rhyolite_02", "weight": 50 }
+		],
+		"type=diorite": [
+			{ "model": "geology:rocks/rock_volcanic/rhyolite_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_volcanic/rhyolite_02", "weight": 50 }
+		],
+		"type=gabbro": [
+			{ "model": "geology:rocks/rock_volcanic/rhyolite_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_volcanic/rhyolite_02", "weight": 50 }
+		],
+		"type=peridotite": [
+			{ "model": "geology:rocks/rock_volcanic/rhyolite_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_volcanic/rhyolite_02", "weight": 50 }
+		],
+		
+		
+		
+		"type=anorthosite": [
+			{ "model": "geology:rocks/rock_volcanic/rhyolite_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_volcanic/rhyolite_02", "weight": 50 }
+		],
+		"type=norite": [
+			{ "model": "geology:rocks/rock_volcanic/rhyolite_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_volcanic/rhyolite_02", "weight": 50 }
+		],
+		"type=dunite": [
+			{ "model": "geology:rocks/rock_volcanic/rhyolite_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_volcanic/rhyolite_02", "weight": 50 }
+		],
+		"type=kimberlite": [
+			{ "model": "geology:rocks/rock_volcanic/rhyolite_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_volcanic/rhyolite_02", "weight": 50 }
+		]
+	}
+}

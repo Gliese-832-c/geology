@@ -1,0 +1,8 @@
+{
+    "parent": "geology:block/rocks/rock_volcanic/picrite",
+    "textures": {
+        "topbottom": "geology:blocks/rocks/rock_volcanic/picrite_03",
+        "northsouth": "geology:blocks/rocks/rock_volcanic/picrite_04",
+        "westeast": "geology:blocks/rocks/rock_volcanic/picrite_01"
+    }
+}

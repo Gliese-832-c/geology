@@ -1,0 +1,39 @@
+{
+	"variants": {
+		"type=diabase": [
+			{ "model": "geology:rocks/rock_volcanic/rhyolite_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_volcanic/rhyolite_02", "weight": 50 }
+		],
+		"type=pumice": [
+			{ "model": "geology:rocks/rock_volcanic/rhyolite_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_volcanic/rhyolite_02", "weight": 50 }
+		],
+		"type=scoria": [
+			{ "model": "geology:rocks/rock_volcanic/rhyolite_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_volcanic/rhyolite_02", "weight": 50 }
+		],
+		
+		
+		
+		"type=rhyolitic_tuff": [
+			{ "model": "geology:rocks/rock_volcanic/rhyolite_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_volcanic/rhyolite_02", "weight": 50 }
+		],
+		"type=dacitic_tuff": [
+			{ "model": "geology:rocks/rock_volcanic/rhyolite_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_volcanic/rhyolite_02", "weight": 50 }
+		],
+		"type=andesitic_tuff": [
+			{ "model": "geology:rocks/rock_volcanic/rhyolite_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_volcanic/rhyolite_02", "weight": 50 }
+		],
+		"type=basaltic_tuff": [
+			{ "model": "geology:rocks/rock_volcanic/rhyolite_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_volcanic/rhyolite_02", "weight": 50 }
+		],
+		"type=komatiitic_tuff": [
+			{ "model": "geology:rocks/rock_volcanic/rhyolite_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_volcanic/rhyolite_02", "weight": 50 }
+		]
+	}
+}

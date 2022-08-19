@@ -10,14 +10,13 @@ public class BlockTypes
         RHYOLITE("rhyolite", 0, 5.0f, 30.0f, 2),
         DACITE("dacite", 1, 5.0f, 30.0f, 2),
         ANDESITE("andesite", 2, 5.0f, 30.0f, 2),
-        BASALT("basalt", 3, 5.0f, 30.0f, 2),
-        PICRITE("picrite", 4, 5.0f, 30.0f, 2),
-        OCEANITE("oceanite", 5, 5.0f, 30.0f, 2),
+        BASALTIC_ANDESITE("basaltic_andesite", 3, 5.0f, 30.0f, 2),
+        BASALT("basalt", 4, 5.0f, 30.0f, 2),
+        PICRITE("picrite", 5, 5.0f, 30.0f, 2),
 
         OBSIDIAN("obsidian", 6, 5.0f, 30.0f, 2),
-        BASALTIC_ANDESITE("basaltic_andesite", 7, 5.0f, 30.0f, 2),
-        AMYGDALOIDAL_BASALT("amygdaloidal_basalt", 8, 5.0f, 30.0f, 2),
-        KOMATIITE("komatiite", 9, 5.0f, 30.0f, 2);
+        AMYGDALOIDAL_BASALT("amygdaloidal_basalt", 7, 5.0f, 30.0f, 2),
+        KOMATIITE("komatiite", 8, 5.0f, 30.0f, 2);
 
 
         private String name;

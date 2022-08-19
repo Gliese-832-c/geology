@@ -1,0 +1,8 @@
+{
+    "parent": "geology:block/rocks/rock_volcanic/obsidian",
+    "textures": {
+        "topbottom": "geology:blocks/rocks/rock_volcanic/obsidian_02",
+        "northsouth": "geology:blocks/rocks/rock_volcanic/obsidian_03",
+        "westeast": "geology:blocks/rocks/rock_volcanic/obsidian_04"
+    }
+}
