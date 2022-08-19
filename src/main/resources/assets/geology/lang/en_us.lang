@@ -1,0 +1,41 @@
+itemGroup.geology.rocks=Geology Rocks
+itemGroup.geology.modified=Geology Rock Derivatives
+itemGroup.geology.ores=Geology Ores
+
+
+
+tile.geology.rock_volcanic.rhyolite.name=Rhyolite
+tile.geology.rock_volcanic.dacite.name=Dacite
+tile.geology.rock_volcanic.andesite.name=Andesite
+tile.geology.rock_volcanic.basalt.name=Basalt
+tile.geology.rock_volcanic.picrite.name=Picrite
+tile.geology.rock_volcanic.oceanite.name=Oceanite
+
+tile.geology.rock_volcanic.obsidian.name=Obsidian
+tile.geology.rock_volcanic.basaltic_andesite.name=Basaltic Andesite
+tile.geology.rock_volcanic.amygdaloidal_basalt.name=Amygdaloidal Basalt
+tile.geology.rock_volcanic.komatiite.name=Komatiite
+
+
+
+tile.geology.rock_plutonic.granite.name=Granite
+tile.geology.rock_plutonic.granodiorite.name=Granodiorite
+tile.geology.rock_plutonic.diorite.name=Diorite
+tile.geology.rock_plutonic.gabbro.name=Gabbro
+tile.geology.rock_plutonic.peridotite.name=Peridotite
+
+tile.geology.rock_plutonic.anorthosite.name=Anorthosite
+tile.geology.rock_plutonic.norite.name=Norite
+tile.geology.rock_plutonic.dunite.name=Dunite
+tile.geology.rock_plutonic.kimberlite.name=Kimberlite
+
+
+
+tile.geology.rock_igneous_others.diabase.name=Diabase
+tile.geology.rock_igneous_others.pumice.name=Pumice
+tile.geology.rock_igneous_others.scoria.name=Scoria
+tile.geology.rock_igneous_others.rhyolitic_tuff.name=Rhyolitic Tuff
+tile.geology.rock_igneous_others.dacitic_tuff.name=Dacitic Tuff
+tile.geology.rock_igneous_others.andesitic_tuff.name=Andesitic Tuff
+tile.geology.rock_igneous_others.basaltic_tuff.name=Basaltic Tuff
+tile.geology.rock_igneous_others.komatiitic_tuff.name=Komatiitic Tuff

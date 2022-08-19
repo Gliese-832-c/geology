@@ -9,7 +9,7 @@ public class TabGeologyModified extends CreativeTabs
 {
     public TabGeologyModified()
     {
-        super("geology.rocks");
+        super("geology.modified");
     }
 
     @Override
