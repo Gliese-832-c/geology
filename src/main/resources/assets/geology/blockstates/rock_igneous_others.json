@@ -1,9 +1,5 @@
 {
 	"variants": {
-		"type=diabase": [
-			{ "model": "geology:rocks/rock_volcanic/rhyolite_01", "weight": 50 },
-			{ "model": "geology:rocks/rock_volcanic/rhyolite_02", "weight": 50 }
-		],
 		"type=pumice": [
 			{ "model": "geology:rocks/rock_volcanic/rhyolite_01", "weight": 50 },
 			{ "model": "geology:rocks/rock_volcanic/rhyolite_02", "weight": 50 }

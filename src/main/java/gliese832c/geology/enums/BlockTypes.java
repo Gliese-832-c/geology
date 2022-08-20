@@ -93,9 +93,11 @@ public class BlockTypes
         PERIDOTITE("peridotite", 4, 5.0f, 30.0f, 2),
 
         ANORTHOSITE("anorthosite", 5, 5.0f, 30.0f, 2),
-        NORITE("norite", 6, 5.0f, 30.0f, 2),
-        DUNITE("dunite", 7, 5.0f, 30.0f, 2),
-        KIMBERLITE("kimberlite", 8, 5.0f, 30.0f, 2);
+        DIABASE("diabase", 6, 5.0f, 30.0f, 2),
+        NORITE("norite", 7, 5.0f, 30.0f, 2),
+        TROCTOLITE("troctolite", 8, 5.0f, 30.0f, 2),
+        DUNITE("dunite", 9, 5.0f, 30.0f, 2),
+        KIMBERLITE("kimberlite", 10, 5.0f, 30.0f, 2);
 
 
         private String name;
@@ -165,16 +167,14 @@ public class BlockTypes
 
     public enum RockIgneousTypes implements IStringSerializable, IBlockMetaEnum
     {
-        DIABASE("diabase", 0, 5.0f, 30.0f, 2),
+        PUMICE("pumice", 0, 5.0f, 30.0f, 2),
+        SCORIA("scoria", 1, 5.0f, 30.0f, 2),
 
-        PUMICE("pumice", 1, 5.0f, 30.0f, 2),
-        SCORIA("scoria", 2, 5.0f, 30.0f, 2),
-
-        RHYOLITIC_TUFF("rhyolitic_tuff", 3, 5.0f, 30.0f, 2),
-        DACITIC_TUFF("dacitic_tuff", 4, 5.0f, 30.0f, 2),
-        ANDESITIC_TUFF("andesitic_tuff", 5, 5.0f, 30.0f, 2),
-        BASALTIC_TUFF("basaltic_tuff", 6, 5.0f, 30.0f, 2),
-        KOMATIITIC_TUFF("komatiitic_tuff", 7, 5.0f, 30.0f, 2);
+        RHYOLITIC_TUFF("rhyolitic_tuff", 2, 5.0f, 30.0f, 2),
+        DACITIC_TUFF("dacitic_tuff", 3, 5.0f, 30.0f, 2),
+        ANDESITIC_TUFF("andesitic_tuff", 4, 5.0f, 30.0f, 2),
+        BASALTIC_TUFF("basaltic_tuff", 5, 5.0f, 30.0f, 2),
+        KOMATIITIC_TUFF("komatiitic_tuff", 6, 5.0f, 30.0f, 2);
 
 
         private String name;

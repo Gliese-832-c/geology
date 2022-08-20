@@ -1,0 +1,8 @@
+{
+    "parent": "geology:block/rocks/rock_plutonic/dunite",
+    "textures": {
+        "topbottom": "geology:blocks/rocks/rock_plutonic/dunite_02",
+        "northsouth": "geology:blocks/rocks/rock_plutonic/dunite_03",
+        "westeast": "geology:blocks/rocks/rock_plutonic/dunite_04"
+    }
+}

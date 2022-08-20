@@ -1,0 +1,8 @@
+{
+    "parent": "geology:block/rocks/rock_plutonic/anorthosite",
+    "textures": {
+        "topbottom": "geology:blocks/rocks/rock_plutonic/anorthosite_01",
+        "northsouth": "geology:blocks/rocks/rock_plutonic/anorthosite_02",
+        "westeast": "geology:blocks/rocks/rock_plutonic/anorthosite_03"
+    }
+}

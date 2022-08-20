@@ -1,0 +1,8 @@
+{
+    "parent": "geology:block/rocks/rock_plutonic/granodiorite",
+    "textures": {
+        "topbottom": "geology:blocks/rocks/rock_plutonic/granodiorite_03",
+        "northsouth": "geology:blocks/rocks/rock_plutonic/granodiorite_04",
+        "westeast": "geology:blocks/rocks/rock_plutonic/granodiorite_01"
+    }
+}

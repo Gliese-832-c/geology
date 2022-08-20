@@ -1,0 +1,8 @@
+{
+    "parent": "geology:block/rocks/rock_plutonic/norite",
+    "textures": {
+        "topbottom": "geology:blocks/rocks/rock_plutonic/norite_02",
+        "northsouth": "geology:blocks/rocks/rock_plutonic/norite_03",
+        "westeast": "geology:blocks/rocks/rock_plutonic/norite_04"
+    }
+}

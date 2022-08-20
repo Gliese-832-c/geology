@@ -24,13 +24,14 @@ tile.geology.rock_plutonic.gabbro.name=Gabbro
 tile.geology.rock_plutonic.peridotite.name=Peridotite
 
 tile.geology.rock_plutonic.anorthosite.name=Anorthosite
+tile.geology.rock_plutonic.diabase.name=Diabase
 tile.geology.rock_plutonic.norite.name=Norite
+tile.geology.rock_plutonic.troctolite.name=Troctolite
 tile.geology.rock_plutonic.dunite.name=Dunite
 tile.geology.rock_plutonic.kimberlite.name=Kimberlite
 
 
 
-tile.geology.rock_igneous_others.diabase.name=Diabase
 tile.geology.rock_igneous_others.pumice.name=Pumice
 tile.geology.rock_igneous_others.scoria.name=Scoria
 
