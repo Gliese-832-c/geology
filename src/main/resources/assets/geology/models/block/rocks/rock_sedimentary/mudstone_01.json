@@ -1,0 +1,8 @@
+{
+    "parent": "geology:block/rocks/rock_sedimentary/mudstone",
+    "textures": {
+        "topbottom": "geology:blocks/rocks/rock_sedimentary/mudstone_01",
+        "northsouth": "geology:blocks/rocks/rock_sedimentary/mudstone_02",
+        "westeast": "geology:blocks/rocks/rock_sedimentary/mudstone_03"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "parent": "geology:block/rocks/rock_sedimentary/graywacke",
+    "textures": {
+        "topbottom": "geology:blocks/rocks/rock_sedimentary/graywacke_03",
+        "northsouth": "geology:blocks/rocks/rock_sedimentary/graywacke_04",
+        "westeast": "geology:blocks/rocks/rock_sedimentary/graywacke_01"
+    }
+}

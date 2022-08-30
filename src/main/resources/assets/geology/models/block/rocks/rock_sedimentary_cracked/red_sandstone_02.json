@@ -1,0 +1,9 @@
+{
+    "parent": "geology:block/rocks/rock_sedimentary_cracked/red_sandstone",
+    "textures": {
+        "topbottom": "geology:blocks/rocks/rock_sedimentary/red_sandstone_06",
+        "northsouth": "geology:blocks/rocks/rock_sedimentary/red_sandstone_02",
+        "westeast": "geology:blocks/rocks/rock_sedimentary/red_sandstone_03",
+        "overlay": "geology:blocks/overlays/overlay_cracked"
+    }
+}

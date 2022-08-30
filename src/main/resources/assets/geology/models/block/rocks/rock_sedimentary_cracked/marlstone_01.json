@@ -1,0 +1,9 @@
+{
+    "parent": "geology:block/rocks/rock_sedimentary_cracked/marlstone",
+    "textures": {
+        "topbottom": "geology:blocks/rocks/rock_sedimentary/marlstone_01",
+        "northsouth": "geology:blocks/rocks/rock_sedimentary/marlstone_02",
+        "westeast": "geology:blocks/rocks/rock_sedimentary/marlstone_03",
+        "overlay": "geology:blocks/overlays/overlay_cracked"
+    }
+}

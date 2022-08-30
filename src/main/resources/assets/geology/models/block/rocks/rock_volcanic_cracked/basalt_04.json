@@ -1,0 +1,9 @@
+{
+    "parent": "geology:block/rocks/rock_volcanic_cracked/basalt",
+    "textures": {
+        "topbottom": "geology:blocks/rocks/rock_volcanic/basalt_04",
+        "northsouth": "geology:blocks/rocks/rock_volcanic/basalt_01",
+        "westeast": "geology:blocks/rocks/rock_volcanic/basalt_02",
+        "overlay": "geology:blocks/overlays/overlay_cracked"
+    }
+}

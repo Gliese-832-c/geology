@@ -1,0 +1,75 @@
+{
+	"variants": {
+		"type=granite": [
+			{ "model": "geology:rocks/rock_plutonic_cracked/granite_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_cracked/granite_02", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_cracked/granite_03", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_cracked/granite_04", "weight": 50 }
+		],
+		"type=granodiorite": [
+			{ "model": "geology:rocks/rock_plutonic_cracked/granodiorite_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_cracked/granodiorite_02", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_cracked/granodiorite_03", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_cracked/granodiorite_04", "weight": 50 }
+		],
+		"type=diorite": [
+			{ "model": "geology:rocks/rock_plutonic_cracked/diorite_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_cracked/diorite_02", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_cracked/diorite_03", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_cracked/diorite_04", "weight": 50 }
+		],
+		"type=gabbro": [
+			{ "model": "geology:rocks/rock_plutonic_cracked/gabbro_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_cracked/gabbro_02", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_cracked/gabbro_03", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_cracked/gabbro_04", "weight": 50 }
+		],
+		"type=peridotite": [
+			{ "model": "geology:rocks/rock_plutonic_cracked/peridotite_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_cracked/peridotite_02", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_cracked/peridotite_03", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_cracked/peridotite_04", "weight": 50 }
+		],
+		
+		
+		
+		"type=anorthosite": [
+			{ "model": "geology:rocks/rock_plutonic_cracked/anorthosite_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_cracked/anorthosite_02", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_cracked/anorthosite_03", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_cracked/anorthosite_04", "weight": 50 }
+		],
+		"type=diabase": [
+			{ "model": "geology:rocks/rock_plutonic_cracked/diabase_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_cracked/diabase_02", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_cracked/diabase_03", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_cracked/diabase_04", "weight": 50 }
+		],
+		"type=norite": [
+			{ "model": "geology:rocks/rock_plutonic_cracked/norite_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_cracked/norite_02", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_cracked/norite_03", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_cracked/norite_04", "weight": 50 }
+		],
+		"type=troctolite": [
+			{ "model": "geology:rocks/rock_plutonic_cracked/troctolite_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_cracked/troctolite_02", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_cracked/troctolite_03", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_cracked/troctolite_04", "weight": 50 }
+		],
+		"type=dunite": [
+			{ "model": "geology:rocks/rock_plutonic_cracked/dunite_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_cracked/dunite_02", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_cracked/dunite_03", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_cracked/dunite_04", "weight": 50 }
+		],
+		"type=kimberlite": [
+			{ "model": "geology:rocks/rock_plutonic_cracked/kimberlite_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_cracked/kimberlite_02", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_cracked/kimberlite_03", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_cracked/kimberlite_04", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_cracked/kimberlite_05", "weight": 10 },
+			{ "model": "geology:rocks/rock_plutonic_cracked/kimberlite_06", "weight": 10 }
+		]
+	}
+}

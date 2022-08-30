@@ -32,6 +32,22 @@ tile.geology.rock_plutonic.kimberlite.name=Kimberlite
 
 
 
+tile.geology.rock_sedimentary.limestone.name=Limestone
+tile.geology.rock_sedimentary.chalk.name=Chalk
+tile.geology.rock_sedimentary.dolomite.name=Dolomite
+tile.geology.rock_sedimentary.marlstone.name=Marlstone
+
+tile.geology.rock_sedimentary.shale.name=Shale
+tile.geology.rock_sedimentary.claystone.name=Claystone
+tile.geology.rock_sedimentary.mudstone.name=Mudstone
+tile.geology.rock_sedimentary.siltstone.name=Siltstone
+tile.geology.rock_sedimentary.sandstone.name=Sandstone
+tile.geology.rock_sedimentary.red_sandstone.name=Red Sandstone
+tile.geology.rock_sedimentary.conglomerate.name=Conglomerate
+tile.geology.rock_sedimentary.graywacke.name=Graywacke
+
+
+
 tile.geology.rock_igneous_others.pumice.name=Pumice
 tile.geology.rock_igneous_others.scoria.name=Scoria
 
@@ -40,3 +56,7 @@ tile.geology.rock_igneous_others.dacitic_tuff.name=Dacitic Tuff
 tile.geology.rock_igneous_others.andesitic_tuff.name=Andesitic Tuff
 tile.geology.rock_igneous_others.basaltic_tuff.name=Basaltic Tuff
 tile.geology.rock_igneous_others.komatiitic_tuff.name=Komatiitic Tuff
+
+
+
+descriptor.geology.cracked=Cracked

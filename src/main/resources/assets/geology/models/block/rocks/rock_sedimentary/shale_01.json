@@ -1,0 +1,8 @@
+{
+    "parent": "geology:block/rocks/rock_sedimentary/shale",
+    "textures": {
+        "topbottom": "geology:blocks/rocks/rock_sedimentary/shale_05",
+        "northsouth": "geology:blocks/rocks/rock_sedimentary/shale_01",
+        "westeast": "geology:blocks/rocks/rock_sedimentary/shale_02"
+    }
+}

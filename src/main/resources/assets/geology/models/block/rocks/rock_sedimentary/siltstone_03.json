@@ -1,0 +1,8 @@
+{
+    "parent": "geology:block/rocks/rock_sedimentary/siltstone",
+    "textures": {
+        "topbottom": "geology:blocks/rocks/rock_sedimentary/siltstone_03",
+        "northsouth": "geology:blocks/rocks/rock_sedimentary/siltstone_04",
+        "westeast": "geology:blocks/rocks/rock_sedimentary/siltstone_01"
+    }
+}

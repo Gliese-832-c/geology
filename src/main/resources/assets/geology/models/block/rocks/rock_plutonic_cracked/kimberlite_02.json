@@ -1,0 +1,9 @@
+{
+    "parent": "geology:block/rocks/rock_plutonic_cracked/kimberlite",
+    "textures": {
+        "topbottom": "geology:blocks/rocks/rock_plutonic/kimberlite_02",
+        "northsouth": "geology:blocks/rocks/rock_plutonic/kimberlite_03",
+        "westeast": "geology:blocks/rocks/rock_plutonic/kimberlite_04",
+        "overlay": "geology:blocks/overlays/overlay_cracked"
+    }
+}

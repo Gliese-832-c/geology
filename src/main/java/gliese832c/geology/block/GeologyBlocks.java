@@ -15,19 +15,37 @@ public class GeologyBlocks {
 
     public static Block rockVolcanic;
     public static Block rockPlutonic;
+    public static Block rockSedimentary;
     public static Block rockIgneous;
+
+    public static Block rockVolcanicCracked;
+    public static Block rockPlutonicCracked;
+    public static Block rockSedimentaryCracked;
+    public static Block rockIgneousCracked;
 
     public static void init()
     {
         rockVolcanic = withName(new BlockRockVolcanic(), "rock_volcanic");
         rockPlutonic = withName(new BlockRockPlutonic(), "rock_plutonic");
-        rockIgneous = withName(new BlockRockIgneous(), "rock_igneous_others");
+        rockSedimentary = withName(new BlockRockSedimentary(), "rock_sedimentary");
+        //rockIgneous = withName(new BlockRockIgneous(), "rock_igneous_others");
+
+        rockVolcanicCracked = withName(new BlockRockVolcanicCracked(), "rock_volcanic_cracked");
+        rockPlutonicCracked = withName(new BlockRockPlutonicCracked(), "rock_plutonic_cracked");
+        rockSedimentaryCracked = withName(new BlockRockSedimentaryCracked(), "rock_sedimentary_cracked");
+        //rockIgneousCracked = withName(new BlockRockIgneousCracked(), "rock_igneous_others_cracked");
     }
 
     public static void register()
     {
         registerBlock(rockVolcanic, new ItemBlockMeta(rockVolcanic, BlockTypes.RockVolcanicTypes.class));
         registerBlock(rockPlutonic, new ItemBlockMeta(rockPlutonic, BlockTypes.RockPlutonicTypes.class));
+        registerBlock(rockSedimentary, new ItemBlockMeta(rockSedimentary, BlockTypes.RockSedimentaryTypes.class));
+        //registerBlock(rockIgneous, new ItemBlockMeta(rockIgneous, BlockTypes.RockIgneousTypes.class));
+
+        registerBlock(rockVolcanicCracked, new ItemBlockMeta(rockVolcanicCracked, BlockTypes.RockVolcanicTypes.class));
+        registerBlock(rockPlutonicCracked, new ItemBlockMeta(rockPlutonicCracked, BlockTypes.RockPlutonicTypes.class));
+        registerBlock(rockSedimentaryCracked, new ItemBlockMeta(rockSedimentaryCracked, BlockTypes.RockSedimentaryTypes.class));
         //registerBlock(rockIgneous, new ItemBlockMeta(rockIgneous, BlockTypes.RockIgneousTypes.class));
     }
 
@@ -39,9 +57,27 @@ public class GeologyBlocks {
         for (int i=0; i < BlockTypes.RockPlutonicTypes.values().length; i++) {
             registerRender(rockPlutonic, i, BlockTypes.RockPlutonicTypes.values()[i].getName());
         }
-        for (int i=0; i < BlockTypes.RockIgneousTypes.values().length; i++) {
-            registerRender(rockIgneous, i, BlockTypes.RockIgneousTypes.values()[i].getName());
+        for (int i=0; i < BlockTypes.RockSedimentaryTypes.values().length; i++) {
+            registerRender(rockSedimentary, i, BlockTypes.RockSedimentaryTypes.values()[i].getName());
         }
+        //for (int i=0; i < BlockTypes.RockIgneousTypes.values().length; i++) {
+        //    registerRender(rockIgneous, i, BlockTypes.RockIgneousTypes.values()[i].getName());
+        //}
+
+
+
+        for (int i=0; i < BlockTypes.RockVolcanicTypes.values().length; i++) {
+            registerRender(rockVolcanicCracked, i, BlockTypes.RockVolcanicTypes.values()[i].getName());
+        }
+        for (int i=0; i < BlockTypes.RockPlutonicTypes.values().length; i++) {
+            registerRender(rockPlutonicCracked, i, BlockTypes.RockPlutonicTypes.values()[i].getName());
+        }
+        for (int i=0; i < BlockTypes.RockSedimentaryTypes.values().length; i++) {
+            registerRender(rockSedimentaryCracked, i, BlockTypes.RockSedimentaryTypes.values()[i].getName());
+        }
+        //for (int i=0; i < BlockTypes.RockIgneousTypes.values().length; i++) {
+        //    registerRender(rockIgneous, i, BlockTypes.RockIgneousTypes.values()[i].getName());
+        //}
     }
 
 

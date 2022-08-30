@@ -1,0 +1,8 @@
+{
+    "parent": "geology:block/rocks/rock_sedimentary/sandstone",
+    "textures": {
+        "topbottom": "geology:blocks/rocks/rock_sedimentary/sandstone_06",
+        "northsouth": "geology:blocks/rocks/rock_sedimentary/sandstone_02",
+        "westeast": "geology:blocks/rocks/rock_sedimentary/sandstone_03"
+    }
+}

@@ -1,0 +1,79 @@
+{
+	"variants":{
+		"type=limestone": [
+			{ "model": "geology:rocks/rock_sedimentary/limestone_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_sedimentary/limestone_02", "weight": 50 },
+			{ "model": "geology:rocks/rock_sedimentary/limestone_03", "weight": 50 },
+			{ "model": "geology:rocks/rock_sedimentary/limestone_04", "weight": 50 }
+		],
+		"type=chalk": [
+			{ "model": "geology:rocks/rock_sedimentary/chalk_01",   "weight": 50 },
+			{ "model": "geology:rocks/rock_sedimentary/chalk_02",   "weight": 50 },
+			{ "model": "geology:rocks/rock_sedimentary/chalk_03",   "weight": 50 },
+			{ "model": "geology:rocks/rock_sedimentary/chalk_04",   "weight": 50 }
+		],
+		"type=dolomite": [
+			{ "model": "geology:rocks/rock_sedimentary/dolomite_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_sedimentary/dolomite_02", "weight": 50 },
+			{ "model": "geology:rocks/rock_sedimentary/dolomite_03", "weight": 50 },
+			{ "model": "geology:rocks/rock_sedimentary/dolomite_04", "weight": 50 }
+		],
+		"type=marlstone": [
+			{ "model": "geology:rocks/rock_sedimentary/marlstone_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_sedimentary/marlstone_02", "weight": 50 },
+			{ "model": "geology:rocks/rock_sedimentary/marlstone_03", "weight": 50 },
+			{ "model": "geology:rocks/rock_sedimentary/marlstone_04", "weight": 50 }
+		],
+		
+		
+		
+		"type=shale": [
+			{ "model": "geology:rocks/rock_sedimentary/shale_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_sedimentary/shale_02", "weight": 50 },
+			{ "model": "geology:rocks/rock_sedimentary/shale_03", "weight": 50 },
+			{ "model": "geology:rocks/rock_sedimentary/shale_04", "weight": 50 }
+		],
+		"type=claystone": [
+			{ "model": "geology:rocks/rock_sedimentary/claystone_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_sedimentary/claystone_02", "weight": 50 },
+			{ "model": "geology:rocks/rock_sedimentary/claystone_03", "weight": 50 },
+			{ "model": "geology:rocks/rock_sedimentary/claystone_04", "weight": 50 }
+		],
+		"type=mudstone": [
+			{ "model": "geology:rocks/rock_sedimentary/mudstone_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_sedimentary/mudstone_02", "weight": 50 },
+			{ "model": "geology:rocks/rock_sedimentary/mudstone_03", "weight": 50 },
+			{ "model": "geology:rocks/rock_sedimentary/mudstone_04", "weight": 50 }
+		],
+		"type=siltstone": [
+			{ "model": "geology:rocks/rock_sedimentary/siltstone_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_sedimentary/siltstone_02", "weight": 50 },
+			{ "model": "geology:rocks/rock_sedimentary/siltstone_03", "weight": 50 },
+			{ "model": "geology:rocks/rock_sedimentary/siltstone_04", "weight": 50 }
+		],
+		"type=sandstone": [
+			{ "model": "geology:rocks/rock_sedimentary/sandstone_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_sedimentary/sandstone_02", "weight": 50 },
+			{ "model": "geology:rocks/rock_sedimentary/sandstone_03", "weight": 50 },
+			{ "model": "geology:rocks/rock_sedimentary/sandstone_04", "weight": 50 }
+		],
+		"type=red_sandstone": [
+			{ "model": "geology:rocks/rock_sedimentary/red_sandstone_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_sedimentary/red_sandstone_02", "weight": 50 },
+			{ "model": "geology:rocks/rock_sedimentary/red_sandstone_03", "weight": 50 },
+			{ "model": "geology:rocks/rock_sedimentary/red_sandstone_04", "weight": 50 }
+		],
+		"type=conglomerate": [
+			{ "model": "geology:rocks/rock_sedimentary/conglomerate_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_sedimentary/conglomerate_02", "weight": 50 },
+			{ "model": "geology:rocks/rock_sedimentary/conglomerate_03", "weight": 50 },
+			{ "model": "geology:rocks/rock_sedimentary/conglomerate_04", "weight": 50 }
+		],
+		"type=graywacke": [
+			{ "model": "geology:rocks/rock_sedimentary/graywacke_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_sedimentary/graywacke_02", "weight": 50 },
+			{ "model": "geology:rocks/rock_sedimentary/graywacke_03", "weight": 50 },
+			{ "model": "geology:rocks/rock_sedimentary/graywacke_04", "weight": 50 }
+		]
+	}
+}

@@ -1,0 +1,8 @@
+{
+    "parent": "geology:block/rocks/rock_sedimentary/dolomite",
+    "textures": {
+        "topbottom": "geology:blocks/rocks/rock_sedimentary/dolomite_02",
+        "northsouth": "geology:blocks/rocks/rock_sedimentary/dolomite_03",
+        "westeast": "geology:blocks/rocks/rock_sedimentary/dolomite_04"
+    }
+}

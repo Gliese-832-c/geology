@@ -1,0 +1,9 @@
+{
+    "parent": "geology:block/rocks/rock_volcanic_cracked/andesite",
+    "textures": {
+        "topbottom": "geology:blocks/rocks/rock_volcanic/andesite_03",
+        "northsouth": "geology:blocks/rocks/rock_volcanic/andesite_04",
+        "westeast": "geology:blocks/rocks/rock_volcanic/andesite_01",
+        "overlay": "geology:blocks/overlays/overlay_cracked"
+    }
+}
