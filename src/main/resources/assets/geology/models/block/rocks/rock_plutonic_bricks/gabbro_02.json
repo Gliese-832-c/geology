@@ -1,0 +1,9 @@
+{
+    "parent": "geology:block/rocks/rock_plutonic_bricks/gabbro",
+    "textures": {
+        "topbottom": "geology:blocks/rocks/rock_plutonic/gabbro_02",
+        "northsouth": "geology:blocks/rocks/rock_plutonic/gabbro_03",
+        "westeast": "geology:blocks/rocks/rock_plutonic/gabbro_04",
+        "overlay": "geology:blocks/overlays/overlay_bricks"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "parent": "geology:block/rocks/rock_plutonic_polished/diorite",
+    "textures": {
+        "topbottom": "geology:blocks/rocks/rock_plutonic/diorite_01",
+        "northsouth": "geology:blocks/rocks/rock_plutonic/diorite_02",
+        "westeast": "geology:blocks/rocks/rock_plutonic/diorite_03",
+        "overlay": "geology:blocks/overlays/overlay_polished"
+    }
+}

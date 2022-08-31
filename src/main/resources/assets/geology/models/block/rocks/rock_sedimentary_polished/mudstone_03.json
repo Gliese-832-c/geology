@@ -1,0 +1,9 @@
+{
+    "parent": "geology:block/rocks/rock_sedimentary_polished/mudstone",
+    "textures": {
+        "topbottom": "geology:blocks/rocks/rock_sedimentary/mudstone_03",
+        "northsouth": "geology:blocks/rocks/rock_sedimentary/mudstone_04",
+        "westeast": "geology:blocks/rocks/rock_sedimentary/mudstone_01",
+        "overlay": "geology:blocks/overlays/overlay_polished"
+    }
+}

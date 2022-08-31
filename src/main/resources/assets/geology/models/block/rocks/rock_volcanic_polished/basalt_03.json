@@ -1,0 +1,9 @@
+{
+    "parent": "geology:block/rocks/rock_volcanic_polished/basalt",
+    "textures": {
+        "topbottom": "geology:blocks/rocks/rock_volcanic/basalt_03",
+        "northsouth": "geology:blocks/rocks/rock_volcanic/basalt_04",
+        "westeast": "geology:blocks/rocks/rock_volcanic/basalt_01",
+        "overlay": "geology:blocks/overlays/overlay_polished"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "parent": "geology:block/rocks/rock_plutonic_bricks/granite",
+    "textures": {
+        "topbottom": "geology:blocks/rocks/rock_plutonic/granite_02",
+        "northsouth": "geology:blocks/rocks/rock_plutonic/granite_03",
+        "westeast": "geology:blocks/rocks/rock_plutonic/granite_04",
+        "overlay": "geology:blocks/overlays/overlay_bricks"
+    }
+}

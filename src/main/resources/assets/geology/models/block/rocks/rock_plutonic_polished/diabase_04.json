@@ -1,0 +1,9 @@
+{
+    "parent": "geology:block/rocks/rock_plutonic_polished/diabase",
+    "textures": {
+        "topbottom": "geology:blocks/rocks/rock_plutonic/diabase_04",
+        "northsouth": "geology:blocks/rocks/rock_plutonic/diabase_01",
+        "westeast": "geology:blocks/rocks/rock_plutonic/diabase_02",
+        "overlay": "geology:blocks/overlays/overlay_polished"
+    }
+}

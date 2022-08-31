@@ -1,0 +1,9 @@
+{
+    "parent": "geology:block/rocks/rock_sedimentary_bricks/chalk",
+    "textures": {
+        "topbottom": "geology:blocks/rocks/rock_sedimentary/chalk_01",
+        "northsouth": "geology:blocks/rocks/rock_sedimentary/chalk_02",
+        "westeast": "geology:blocks/rocks/rock_sedimentary/chalk_03",
+        "overlay": "geology:blocks/overlays/overlay_bricks"
+    }
+}

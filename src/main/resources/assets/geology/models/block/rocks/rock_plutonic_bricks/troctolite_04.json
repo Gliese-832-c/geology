@@ -1,0 +1,9 @@
+{
+    "parent": "geology:block/rocks/rock_plutonic_bricks/troctolite",
+    "textures": {
+        "topbottom": "geology:blocks/rocks/rock_plutonic/troctolite_04",
+        "northsouth": "geology:blocks/rocks/rock_plutonic/troctolite_01",
+        "westeast": "geology:blocks/rocks/rock_plutonic/troctolite_02",
+        "overlay": "geology:blocks/overlays/overlay_bricks"
+    }
+}

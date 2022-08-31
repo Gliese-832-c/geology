@@ -1,0 +1,9 @@
+{
+    "parent": "geology:block/rocks/rock_sedimentary_polished/dolomite",
+    "textures": {
+        "topbottom": "geology:blocks/rocks/rock_sedimentary/dolomite_04",
+        "northsouth": "geology:blocks/rocks/rock_sedimentary/dolomite_01",
+        "westeast": "geology:blocks/rocks/rock_sedimentary/dolomite_02",
+        "overlay": "geology:blocks/overlays/overlay_polished"
+    }
+}

@@ -60,3 +60,6 @@ tile.geology.rock_igneous_others.komatiitic_tuff.name=Komatiitic Tuff
 
 
 descriptor.geology.cracked=Cracked
+descriptor.geology.polished=Polished
+descriptor.geology.bricks=Bricks
+descriptor.geology.boulder=Boulder

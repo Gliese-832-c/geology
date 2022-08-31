@@ -1,0 +1,9 @@
+{
+    "parent": "geology:block/rocks/rock_sedimentary_bricks/claystone",
+    "textures": {
+        "topbottom": "geology:blocks/rocks/rock_sedimentary/claystone_02",
+        "northsouth": "geology:blocks/rocks/rock_sedimentary/claystone_03",
+        "westeast": "geology:blocks/rocks/rock_sedimentary/claystone_04",
+        "overlay": "geology:blocks/overlays/overlay_bricks"
+    }
+}

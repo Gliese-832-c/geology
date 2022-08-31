@@ -1,0 +1,75 @@
+{
+	"variants": {
+		"type=granite": [
+			{ "model": "geology:rocks/rock_plutonic_polished/granite_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_polished/granite_02", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_polished/granite_03", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_polished/granite_04", "weight": 50 }
+		],
+		"type=granodiorite": [
+			{ "model": "geology:rocks/rock_plutonic_polished/granodiorite_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_polished/granodiorite_02", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_polished/granodiorite_03", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_polished/granodiorite_04", "weight": 50 }
+		],
+		"type=diorite": [
+			{ "model": "geology:rocks/rock_plutonic_polished/diorite_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_polished/diorite_02", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_polished/diorite_03", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_polished/diorite_04", "weight": 50 }
+		],
+		"type=gabbro": [
+			{ "model": "geology:rocks/rock_plutonic_polished/gabbro_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_polished/gabbro_02", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_polished/gabbro_03", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_polished/gabbro_04", "weight": 50 }
+		],
+		"type=peridotite": [
+			{ "model": "geology:rocks/rock_plutonic_polished/peridotite_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_polished/peridotite_02", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_polished/peridotite_03", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_polished/peridotite_04", "weight": 50 }
+		],
+		
+		
+		
+		"type=anorthosite": [
+			{ "model": "geology:rocks/rock_plutonic_polished/anorthosite_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_polished/anorthosite_02", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_polished/anorthosite_03", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_polished/anorthosite_04", "weight": 50 }
+		],
+		"type=diabase": [
+			{ "model": "geology:rocks/rock_plutonic_polished/diabase_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_polished/diabase_02", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_polished/diabase_03", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_polished/diabase_04", "weight": 50 }
+		],
+		"type=norite": [
+			{ "model": "geology:rocks/rock_plutonic_polished/norite_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_polished/norite_02", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_polished/norite_03", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_polished/norite_04", "weight": 50 }
+		],
+		"type=troctolite": [
+			{ "model": "geology:rocks/rock_plutonic_polished/troctolite_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_polished/troctolite_02", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_polished/troctolite_03", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_polished/troctolite_04", "weight": 50 }
+		],
+		"type=dunite": [
+			{ "model": "geology:rocks/rock_plutonic_polished/dunite_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_polished/dunite_02", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_polished/dunite_03", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_polished/dunite_04", "weight": 50 }
+		],
+		"type=kimberlite": [
+			{ "model": "geology:rocks/rock_plutonic_polished/kimberlite_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_polished/kimberlite_02", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_polished/kimberlite_03", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_polished/kimberlite_04", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_polished/kimberlite_05", "weight": 10 },
+			{ "model": "geology:rocks/rock_plutonic_polished/kimberlite_06", "weight": 10 }
+		]
+	}
+}

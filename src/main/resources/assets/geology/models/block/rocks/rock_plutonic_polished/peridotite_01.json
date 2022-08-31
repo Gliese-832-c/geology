@@ -1,0 +1,9 @@
+{
+    "parent": "geology:block/rocks/rock_plutonic_polished/peridotite",
+    "textures": {
+        "topbottom": "geology:blocks/rocks/rock_plutonic/peridotite_01",
+        "northsouth": "geology:blocks/rocks/rock_plutonic/peridotite_02",
+        "westeast": "geology:blocks/rocks/rock_plutonic/peridotite_03",
+        "overlay": "geology:blocks/overlays/overlay_polished"
+    }
+}

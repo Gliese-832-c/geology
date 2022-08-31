@@ -1,0 +1,9 @@
+{
+    "parent": "geology:block/rocks/rock_sedimentary_polished/conglomerate",
+    "textures": {
+        "topbottom": "geology:blocks/rocks/rock_sedimentary/conglomerate_02",
+        "northsouth": "geology:blocks/rocks/rock_sedimentary/conglomerate_03",
+        "westeast": "geology:blocks/rocks/rock_sedimentary/conglomerate_04",
+        "overlay": "geology:blocks/overlays/overlay_polished"
+    }
+}

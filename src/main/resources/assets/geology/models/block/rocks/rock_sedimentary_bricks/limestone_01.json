@@ -1,0 +1,9 @@
+{
+    "parent": "geology:block/rocks/rock_sedimentary_bricks/limestone",
+    "textures": {
+        "topbottom": "geology:blocks/rocks/rock_sedimentary/limestone_01",
+        "northsouth": "geology:blocks/rocks/rock_sedimentary/limestone_02",
+        "westeast": "geology:blocks/rocks/rock_sedimentary/limestone_03",
+        "overlay": "geology:blocks/overlays/overlay_bricks"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "parent": "geology:block/rocks/rock_volcanic_bricks/rhyolite",
+    "textures": {
+        "topbottom": "geology:blocks/rocks/rock_volcanic/rhyolite_01",
+        "northsouth": "geology:blocks/rocks/rock_volcanic/rhyolite_02",
+        "westeast": "geology:blocks/rocks/rock_volcanic/rhyolite_03",
+        "overlay": "geology:blocks/overlays/overlay_bricks"
+    }
+}

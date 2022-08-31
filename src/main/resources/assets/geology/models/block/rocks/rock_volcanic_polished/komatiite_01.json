@@ -1,0 +1,9 @@
+{
+    "parent": "geology:block/rocks/rock_volcanic_polished/komatiite",
+    "textures": {
+        "topbottom": "geology:blocks/rocks/rock_volcanic/komatiite_01",
+        "northsouth": "geology:blocks/rocks/rock_volcanic/komatiite_02",
+        "westeast": "geology:blocks/rocks/rock_volcanic/komatiite_03",
+        "overlay": "geology:blocks/overlays/overlay_polished"
+    }
+}

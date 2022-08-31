@@ -1,0 +1,9 @@
+{
+    "parent": "geology:block/rocks/rock_sedimentary_polished/limestone",
+    "textures": {
+        "topbottom": "geology:blocks/rocks/rock_sedimentary/limestone_04",
+        "northsouth": "geology:blocks/rocks/rock_sedimentary/limestone_01",
+        "westeast": "geology:blocks/rocks/rock_sedimentary/limestone_02",
+        "overlay": "geology:blocks/overlays/overlay_polished"
+    }
+}

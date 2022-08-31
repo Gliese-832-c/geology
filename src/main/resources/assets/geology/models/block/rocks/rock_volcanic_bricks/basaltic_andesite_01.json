@@ -1,0 +1,9 @@
+{
+    "parent": "geology:block/rocks/rock_volcanic_bricks/basaltic_andesite",
+    "textures": {
+        "topbottom": "geology:blocks/rocks/rock_volcanic/basaltic_andesite_01",
+        "northsouth": "geology:blocks/rocks/rock_volcanic/basaltic_andesite_02",
+        "westeast": "geology:blocks/rocks/rock_volcanic/basaltic_andesite_03",
+        "overlay": "geology:blocks/overlays/overlay_bricks"
+    }
+}

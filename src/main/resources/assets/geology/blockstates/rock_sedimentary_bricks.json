@@ -1,0 +1,79 @@
+{
+	"variants":{
+		"type=limestone": [
+			{ "model": "geology:rocks/rock_sedimentary_bricks/limestone_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_sedimentary_bricks/limestone_02", "weight": 50 },
+			{ "model": "geology:rocks/rock_sedimentary_bricks/limestone_03", "weight": 50 },
+			{ "model": "geology:rocks/rock_sedimentary_bricks/limestone_04", "weight": 50 }
+		],
+		"type=chalk": [
+			{ "model": "geology:rocks/rock_sedimentary_bricks/chalk_01",   "weight": 50 },
+			{ "model": "geology:rocks/rock_sedimentary_bricks/chalk_02",   "weight": 50 },
+			{ "model": "geology:rocks/rock_sedimentary_bricks/chalk_03",   "weight": 50 },
+			{ "model": "geology:rocks/rock_sedimentary_bricks/chalk_04",   "weight": 50 }
+		],
+		"type=dolomite": [
+			{ "model": "geology:rocks/rock_sedimentary_bricks/dolomite_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_sedimentary_bricks/dolomite_02", "weight": 50 },
+			{ "model": "geology:rocks/rock_sedimentary_bricks/dolomite_03", "weight": 50 },
+			{ "model": "geology:rocks/rock_sedimentary_bricks/dolomite_04", "weight": 50 }
+		],
+		"type=marlstone": [
+			{ "model": "geology:rocks/rock_sedimentary_bricks/marlstone_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_sedimentary_bricks/marlstone_02", "weight": 50 },
+			{ "model": "geology:rocks/rock_sedimentary_bricks/marlstone_03", "weight": 50 },
+			{ "model": "geology:rocks/rock_sedimentary_bricks/marlstone_04", "weight": 50 }
+		],
+		
+		
+		
+		"type=shale": [
+			{ "model": "geology:rocks/rock_sedimentary_bricks/shale_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_sedimentary_bricks/shale_02", "weight": 50 },
+			{ "model": "geology:rocks/rock_sedimentary_bricks/shale_03", "weight": 50 },
+			{ "model": "geology:rocks/rock_sedimentary_bricks/shale_04", "weight": 50 }
+		],
+		"type=claystone": [
+			{ "model": "geology:rocks/rock_sedimentary_bricks/claystone_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_sedimentary_bricks/claystone_02", "weight": 50 },
+			{ "model": "geology:rocks/rock_sedimentary_bricks/claystone_03", "weight": 50 },
+			{ "model": "geology:rocks/rock_sedimentary_bricks/claystone_04", "weight": 50 }
+		],
+		"type=mudstone": [
+			{ "model": "geology:rocks/rock_sedimentary_bricks/mudstone_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_sedimentary_bricks/mudstone_02", "weight": 50 },
+			{ "model": "geology:rocks/rock_sedimentary_bricks/mudstone_03", "weight": 50 },
+			{ "model": "geology:rocks/rock_sedimentary_bricks/mudstone_04", "weight": 50 }
+		],
+		"type=siltstone": [
+			{ "model": "geology:rocks/rock_sedimentary_bricks/siltstone_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_sedimentary_bricks/siltstone_02", "weight": 50 },
+			{ "model": "geology:rocks/rock_sedimentary_bricks/siltstone_03", "weight": 50 },
+			{ "model": "geology:rocks/rock_sedimentary_bricks/siltstone_04", "weight": 50 }
+		],
+		"type=sandstone": [
+			{ "model": "geology:rocks/rock_sedimentary_bricks/sandstone_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_sedimentary_bricks/sandstone_02", "weight": 50 },
+			{ "model": "geology:rocks/rock_sedimentary_bricks/sandstone_03", "weight": 50 },
+			{ "model": "geology:rocks/rock_sedimentary_bricks/sandstone_04", "weight": 50 }
+		],
+		"type=red_sandstone": [
+			{ "model": "geology:rocks/rock_sedimentary_bricks/red_sandstone_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_sedimentary_bricks/red_sandstone_02", "weight": 50 },
+			{ "model": "geology:rocks/rock_sedimentary_bricks/red_sandstone_03", "weight": 50 },
+			{ "model": "geology:rocks/rock_sedimentary_bricks/red_sandstone_04", "weight": 50 }
+		],
+		"type=conglomerate": [
+			{ "model": "geology:rocks/rock_sedimentary_bricks/conglomerate_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_sedimentary_bricks/conglomerate_02", "weight": 50 },
+			{ "model": "geology:rocks/rock_sedimentary_bricks/conglomerate_03", "weight": 50 },
+			{ "model": "geology:rocks/rock_sedimentary_bricks/conglomerate_04", "weight": 50 }
+		],
+		"type=graywacke": [
+			{ "model": "geology:rocks/rock_sedimentary_bricks/graywacke_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_sedimentary_bricks/graywacke_02", "weight": 50 },
+			{ "model": "geology:rocks/rock_sedimentary_bricks/graywacke_03", "weight": 50 },
+			{ "model": "geology:rocks/rock_sedimentary_bricks/graywacke_04", "weight": 50 }
+		]
+	}
+}

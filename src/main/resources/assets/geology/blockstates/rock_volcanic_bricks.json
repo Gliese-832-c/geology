@@ -1,0 +1,61 @@
+{
+	"variants":{
+		"type=rhyolite": [
+			{ "model": "geology:rocks/rock_volcanic_bricks/rhyolite_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_volcanic_bricks/rhyolite_02", "weight": 50 },
+			{ "model": "geology:rocks/rock_volcanic_bricks/rhyolite_03", "weight": 50 },
+			{ "model": "geology:rocks/rock_volcanic_bricks/rhyolite_04", "weight": 50 }
+		],
+		"type=dacite": [
+			{ "model": "geology:rocks/rock_volcanic_bricks/dacite_01",   "weight": 50 },
+			{ "model": "geology:rocks/rock_volcanic_bricks/dacite_02",   "weight": 50 },
+			{ "model": "geology:rocks/rock_volcanic_bricks/dacite_03",   "weight": 50 },
+			{ "model": "geology:rocks/rock_volcanic_bricks/dacite_04",   "weight": 50 }
+		],
+		"type=andesite": [
+			{ "model": "geology:rocks/rock_volcanic_bricks/andesite_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_volcanic_bricks/andesite_02", "weight": 50 },
+			{ "model": "geology:rocks/rock_volcanic_bricks/andesite_03", "weight": 50 },
+			{ "model": "geology:rocks/rock_volcanic_bricks/andesite_04", "weight": 50 }
+		],
+		"type=basaltic_andesite": [
+			{ "model": "geology:rocks/rock_volcanic_bricks/basaltic_andesite_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_volcanic_bricks/basaltic_andesite_02", "weight": 50 },
+			{ "model": "geology:rocks/rock_volcanic_bricks/basaltic_andesite_03", "weight": 50 },
+			{ "model": "geology:rocks/rock_volcanic_bricks/basaltic_andesite_04", "weight": 50 }
+		],
+		"type=basalt": [
+			{ "model": "geology:rocks/rock_volcanic_bricks/basalt_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_volcanic_bricks/basalt_02", "weight": 50 },
+			{ "model": "geology:rocks/rock_volcanic_bricks/basalt_03", "weight": 50 },
+			{ "model": "geology:rocks/rock_volcanic_bricks/basalt_04", "weight": 50 }
+		],
+		"type=picrite": [
+			{ "model": "geology:rocks/rock_volcanic_bricks/picrite_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_volcanic_bricks/picrite_02", "weight": 50 },
+			{ "model": "geology:rocks/rock_volcanic_bricks/picrite_03", "weight": 50 },
+			{ "model": "geology:rocks/rock_volcanic_bricks/picrite_04", "weight": 50 }
+		],
+		
+		
+		
+		"type=obsidian": [
+			{ "model": "geology:rocks/rock_volcanic_bricks/obsidian_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_volcanic_bricks/obsidian_02", "weight": 50 },
+			{ "model": "geology:rocks/rock_volcanic_bricks/obsidian_03", "weight": 50 },
+			{ "model": "geology:rocks/rock_volcanic_bricks/obsidian_04", "weight": 50 }
+		],
+		"type=amygdaloidal_basalt": [
+			{ "model": "geology:rocks/rock_volcanic_bricks/amygdaloidal_basalt_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_volcanic_bricks/amygdaloidal_basalt_02", "weight": 50 },
+			{ "model": "geology:rocks/rock_volcanic_bricks/amygdaloidal_basalt_03", "weight": 50 },
+			{ "model": "geology:rocks/rock_volcanic_bricks/amygdaloidal_basalt_04", "weight": 50 }
+		],
+		"type=komatiite": [
+			{ "model": "geology:rocks/rock_volcanic_bricks/komatiite_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_volcanic_bricks/komatiite_02", "weight": 50 },
+			{ "model": "geology:rocks/rock_volcanic_bricks/komatiite_03", "weight": 50 },
+			{ "model": "geology:rocks/rock_volcanic_bricks/komatiite_04", "weight": 50 }
+		]
+	}
+}

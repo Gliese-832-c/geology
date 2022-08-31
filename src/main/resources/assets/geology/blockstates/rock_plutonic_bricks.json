@@ -1,0 +1,75 @@
+{
+	"variants": {
+		"type=granite": [
+			{ "model": "geology:rocks/rock_plutonic_bricks/granite_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_bricks/granite_02", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_bricks/granite_03", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_bricks/granite_04", "weight": 50 }
+		],
+		"type=granodiorite": [
+			{ "model": "geology:rocks/rock_plutonic_bricks/granodiorite_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_bricks/granodiorite_02", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_bricks/granodiorite_03", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_bricks/granodiorite_04", "weight": 50 }
+		],
+		"type=diorite": [
+			{ "model": "geology:rocks/rock_plutonic_bricks/diorite_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_bricks/diorite_02", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_bricks/diorite_03", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_bricks/diorite_04", "weight": 50 }
+		],
+		"type=gabbro": [
+			{ "model": "geology:rocks/rock_plutonic_bricks/gabbro_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_bricks/gabbro_02", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_bricks/gabbro_03", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_bricks/gabbro_04", "weight": 50 }
+		],
+		"type=peridotite": [
+			{ "model": "geology:rocks/rock_plutonic_bricks/peridotite_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_bricks/peridotite_02", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_bricks/peridotite_03", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_bricks/peridotite_04", "weight": 50 }
+		],
+		
+		
+		
+		"type=anorthosite": [
+			{ "model": "geology:rocks/rock_plutonic_bricks/anorthosite_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_bricks/anorthosite_02", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_bricks/anorthosite_03", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_bricks/anorthosite_04", "weight": 50 }
+		],
+		"type=diabase": [
+			{ "model": "geology:rocks/rock_plutonic_bricks/diabase_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_bricks/diabase_02", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_bricks/diabase_03", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_bricks/diabase_04", "weight": 50 }
+		],
+		"type=norite": [
+			{ "model": "geology:rocks/rock_plutonic_bricks/norite_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_bricks/norite_02", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_bricks/norite_03", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_bricks/norite_04", "weight": 50 }
+		],
+		"type=troctolite": [
+			{ "model": "geology:rocks/rock_plutonic_bricks/troctolite_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_bricks/troctolite_02", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_bricks/troctolite_03", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_bricks/troctolite_04", "weight": 50 }
+		],
+		"type=dunite": [
+			{ "model": "geology:rocks/rock_plutonic_bricks/dunite_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_bricks/dunite_02", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_bricks/dunite_03", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_bricks/dunite_04", "weight": 50 }
+		],
+		"type=kimberlite": [
+			{ "model": "geology:rocks/rock_plutonic_bricks/kimberlite_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_bricks/kimberlite_02", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_bricks/kimberlite_03", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_bricks/kimberlite_04", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_bricks/kimberlite_05", "weight": 10 },
+			{ "model": "geology:rocks/rock_plutonic_bricks/kimberlite_06", "weight": 10 }
+		]
+	}
+}
