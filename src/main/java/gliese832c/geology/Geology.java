@@ -1,11 +1,6 @@
 package gliese832c.geology;
 
-//import lach_01298.qmd.capabilities.CapabilityParticleStackHandler;
-//import lach_01298.qmd.config.QMDConfig;
-//import lach_01298.qmd.gui.GUIHandler;
 import gliese832c.geology.proxy.CommonProxy;
-//import lach_01298.qmd.util.Util;
-import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.Mod.EventHandler;
 import net.minecraftforge.fml.common.Mod.Instance;
@@ -15,7 +10,6 @@ import net.minecraftforge.fml.common.event.FMLModIdMappingEvent;
 import net.minecraftforge.fml.common.event.FMLPostInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLServerStartingEvent;
-import net.minecraftforge.fml.common.network.NetworkRegistry;
 
 @Mod(modid = Geology.MOD_ID, name = Geology.MOD_NAME, version = Geology.VERSION, acceptedMinecraftVersions = Geology.MCVERSION)
 public class Geology {

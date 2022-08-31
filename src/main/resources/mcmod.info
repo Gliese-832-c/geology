@@ -1,13 +1,13 @@
 [{
   "modid": "geology",
   "name": "Geology",
-  "description": "A mod adding realistic geological blocks and items to Minecraft.",
+  "description": "A mod adding realistic rocks and minerals to Minecraft.",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
   "authorList": ["Gliese 832 c"],
-  "credits": "Geologists for making the information I had to research for this mod available online.",
+  "credits": "Geologists for making the information I had to research for this mod available online. The GregTech CEu Discord for helping me with code issues. Lach_01298 for helping me with code and allowing me to use parts of his work, tomdodd4598 for allowing me to use parts of his work as well. Silk from the CraftTweaker Discord for helping me with JSON blockstates and models.",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
