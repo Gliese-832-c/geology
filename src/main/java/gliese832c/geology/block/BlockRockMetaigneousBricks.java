@@ -21,7 +21,7 @@ public class BlockRockMetaigneousBricks extends BlockMeta
     public BlockRockMetaigneousBricks()
     {
         super(BlockTypes.RockMetaigneousTypes.class, TYPE, Material.ROCK);
-        setCreativeTab(GeologyTabs.ROCKS);
+        setCreativeTab(GeologyTabs.MODIFIED);
     }
 
     @Override

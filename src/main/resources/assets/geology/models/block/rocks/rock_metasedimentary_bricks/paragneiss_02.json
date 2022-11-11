@@ -1,0 +1,9 @@
+{
+    "parent": "geology:block/rocks/rock_metasedimentary_bricks/paragneiss",
+    "textures": {
+        "topbottom": "geology:blocks/rocks/rock_metasedimentary/paragneiss_02",
+        "northsouth": "geology:blocks/rocks/rock_metasedimentary/paragneiss_03",
+        "westeast": "geology:blocks/rocks/rock_metasedimentary/paragneiss_04",
+        "overlay": "geology:blocks/overlays/overlay_bricks"
+    }
+}

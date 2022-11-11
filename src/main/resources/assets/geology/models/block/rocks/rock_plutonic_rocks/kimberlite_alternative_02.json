@@ -1,7 +1,7 @@
 {
     "parent": "geology:block/rocks/rocks_2",
     "textures": {
-        "0": "geology:blocks/rocks/rock_plutonic/kimberlite_alternative_02",
-        "particle": "geology:blocks/rocks/rock_plutonic/kimberlite_alternative_03"
+        "0": "geology:blocks/rocks/rock_plutonic/kimberlite_06",
+        "particle": "geology:blocks/rocks/rock_plutonic/kimberlite_05"
     }
 }

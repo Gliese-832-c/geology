@@ -1,0 +1,9 @@
+{
+    "parent": "geology:block/rocks/rock_metasedimentary_cracked/metaconglomerate",
+    "textures": {
+        "topbottom": "geology:blocks/rocks/rock_metasedimentary/metaconglomerate_02",
+        "northsouth": "geology:blocks/rocks/rock_metasedimentary/metaconglomerate_03",
+        "westeast": "geology:blocks/rocks/rock_metasedimentary/metaconglomerate_04",
+        "overlay": "geology:blocks/overlays/overlay_cracked"
+    }
+}

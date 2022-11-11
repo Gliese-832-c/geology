@@ -1,0 +1,9 @@
+{
+    "parent": "geology:block/rocks/rock_metasedimentary_polished/marble_green",
+    "textures": {
+        "topbottom": "geology:blocks/rocks/rock_metasedimentary/marble_green_01",
+        "northsouth": "geology:blocks/rocks/rock_metasedimentary/marble_green_02",
+        "westeast": "geology:blocks/rocks/rock_metasedimentary/marble_green_03",
+        "overlay": "geology:blocks/overlays/overlay_polished"
+    }
+}

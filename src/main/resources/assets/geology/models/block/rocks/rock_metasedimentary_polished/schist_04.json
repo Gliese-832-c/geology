@@ -1,0 +1,9 @@
+{
+    "parent": "geology:block/rocks/rock_metasedimentary_polished/schist",
+    "textures": {
+        "topbottom": "geology:blocks/rocks/rock_metasedimentary/schist_04",
+        "northsouth": "geology:blocks/rocks/rock_metasedimentary/schist_01",
+        "westeast": "geology:blocks/rocks/rock_metasedimentary/schist_02",
+        "overlay": "geology:blocks/overlays/overlay_polished"
+    }
+}

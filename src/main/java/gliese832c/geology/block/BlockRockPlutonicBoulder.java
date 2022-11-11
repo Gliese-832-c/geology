@@ -2,6 +2,7 @@ package gliese832c.geology.block;
 
 import gliese832c.geology.enums.BlockTypes;
 import gliese832c.geology.tab.GeologyTabs;
+import net.minecraft.block.Block;
 import net.minecraft.block.material.Material;
 import net.minecraft.block.properties.PropertyEnum;
 import net.minecraft.block.state.BlockFaceShape;
@@ -20,7 +21,7 @@ import net.minecraft.world.World;
 
 import javax.annotation.Nonnull;
 
-public class BlockRockPlutonicBoulder extends BlockMeta
+public class BlockRockPlutonicBoulder extends BlockMetaFalling
 {
     public final static PropertyEnum TYPE = PropertyEnum.create("type", BlockTypes.RockPlutonicTypes.class);
     private static final AxisAlignedBB BOULDER_AABB = new AxisAlignedBB(2.0 / 16.0, 0.0 / 16.0, 2.0 / 16.0, 14.0 / 16.0, 7.0 / 16.0, 14.0 / 16.0);
@@ -112,4 +113,8 @@ public class BlockRockPlutonicBoulder extends BlockMeta
     public AxisAlignedBB getBoundingBox(@Nonnull IBlockState state, @Nonnull IBlockAccess source, @Nonnull BlockPos pos) {
         return BOULDER_AABB;
     }
+
+
+
+    public Block.EnumOffsetType getOffsetType() { return Block.EnumOffsetType.XZ; }
 }

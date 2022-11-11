@@ -1,0 +1,7 @@
+{
+	"parent": "geology:block/rocks/boulder_1",
+	"textures": {
+		"0": "geology:blocks/rocks/rock_plutonic/peridotite_01",
+		"particle": "geology:blocks/rocks/rock_plutonic/peridotite_01"
+	}
+}

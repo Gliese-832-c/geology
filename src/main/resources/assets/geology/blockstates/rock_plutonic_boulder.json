@@ -1,77 +1,77 @@
 {
 	"variants": {
 		"type=granite": [
-			{ "model": "geology:rocks/rock_plutonic_boulder/granite", "weight": 50 },
-			{ "model": "geology:rocks/rock_plutonic_boulder/granite", "weight": 50, "y": 90 },
-			{ "model": "geology:rocks/rock_plutonic_boulder/granite", "weight": 50, "y": 180 },
-			{ "model": "geology:rocks/rock_plutonic_boulder/granite", "weight": 50, "y": 270 }
+			{ "model": "geology:rocks/rock_plutonic_boulder/granite_1", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_boulder/granite_1", "weight": 50, "y": 90 },
+			{ "model": "geology:rocks/rock_plutonic_boulder/granite_1", "weight": 50, "y": 180 },
+			{ "model": "geology:rocks/rock_plutonic_boulder/granite_1", "weight": 50, "y": 270 }
 		],
 		"type=granodiorite": [
-			{ "model": "geology:rocks/rock_plutonic_boulder/granodiorite", "weight": 50 },
-			{ "model": "geology:rocks/rock_plutonic_boulder/granodiorite", "weight": 50, "y": 90 },
-			{ "model": "geology:rocks/rock_plutonic_boulder/granodiorite", "weight": 50, "y": 180 },
-			{ "model": "geology:rocks/rock_plutonic_boulder/granodiorite", "weight": 50, "y": 270 }
+			{ "model": "geology:rocks/rock_plutonic_boulder/granodiorite_1", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_boulder/granodiorite_1", "weight": 50, "y": 90 },
+			{ "model": "geology:rocks/rock_plutonic_boulder/granodiorite_1", "weight": 50, "y": 180 },
+			{ "model": "geology:rocks/rock_plutonic_boulder/granodiorite_1", "weight": 50, "y": 270 }
 		],
 		"type=diorite": [
-			{ "model": "geology:rocks/rock_plutonic_boulder/diorite", "weight": 50 },
-			{ "model": "geology:rocks/rock_plutonic_boulder/diorite", "weight": 50, "y": 90 },
-			{ "model": "geology:rocks/rock_plutonic_boulder/diorite", "weight": 50, "y": 180 },
-			{ "model": "geology:rocks/rock_plutonic_boulder/diorite", "weight": 50, "y": 270 }
+			{ "model": "geology:rocks/rock_plutonic_boulder/diorite_1", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_boulder/diorite_1", "weight": 50, "y": 90 },
+			{ "model": "geology:rocks/rock_plutonic_boulder/diorite_1", "weight": 50, "y": 180 },
+			{ "model": "geology:rocks/rock_plutonic_boulder/diorite_1", "weight": 50, "y": 270 }
 		],
 		"type=gabbro": [
-			{ "model": "geology:rocks/rock_plutonic_boulder/gabbro", "weight": 50 },
-			{ "model": "geology:rocks/rock_plutonic_boulder/gabbro", "weight": 50, "y": 90 },
-			{ "model": "geology:rocks/rock_plutonic_boulder/gabbro", "weight": 50, "y": 180 },
-			{ "model": "geology:rocks/rock_plutonic_boulder/gabbro", "weight": 50, "y": 270 }
+			{ "model": "geology:rocks/rock_plutonic_boulder/gabbro_1", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_boulder/gabbro_1", "weight": 50, "y": 90 },
+			{ "model": "geology:rocks/rock_plutonic_boulder/gabbro_1", "weight": 50, "y": 180 },
+			{ "model": "geology:rocks/rock_plutonic_boulder/gabbro_1", "weight": 50, "y": 270 }
 		],
 		"type=peridotite": [
-			{ "model": "geology:rocks/rock_plutonic_boulder/peridotite", "weight": 50 },
-			{ "model": "geology:rocks/rock_plutonic_boulder/peridotite", "weight": 50, "y": 90 },
-			{ "model": "geology:rocks/rock_plutonic_boulder/peridotite", "weight": 50, "y": 180 },
-			{ "model": "geology:rocks/rock_plutonic_boulder/peridotite", "weight": 50, "y": 270 }
+			{ "model": "geology:rocks/rock_plutonic_boulder/peridotite_1", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_boulder/peridotite_1", "weight": 50, "y": 90 },
+			{ "model": "geology:rocks/rock_plutonic_boulder/peridotite_1", "weight": 50, "y": 180 },
+			{ "model": "geology:rocks/rock_plutonic_boulder/peridotite_1", "weight": 50, "y": 270 }
 		],
 		
 		
 		
 		"type=anorthosite": [
-			{ "model": "geology:rocks/rock_plutonic_boulder/anorthosite", "weight": 50 },
-			{ "model": "geology:rocks/rock_plutonic_boulder/anorthosite", "weight": 50, "y": 90 },
-			{ "model": "geology:rocks/rock_plutonic_boulder/anorthosite", "weight": 50, "y": 180 },
-			{ "model": "geology:rocks/rock_plutonic_boulder/anorthosite", "weight": 50, "y": 270 }
+			{ "model": "geology:rocks/rock_plutonic_boulder/anorthosite_1", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_boulder/anorthosite_1", "weight": 50, "y": 90 },
+			{ "model": "geology:rocks/rock_plutonic_boulder/anorthosite_1", "weight": 50, "y": 180 },
+			{ "model": "geology:rocks/rock_plutonic_boulder/anorthosite_1", "weight": 50, "y": 270 }
 		],
 		"type=diabase": [
-			{ "model": "geology:rocks/rock_plutonic_boulder/diabase", "weight": 50 },
-			{ "model": "geology:rocks/rock_plutonic_boulder/diabase", "weight": 50, "y": 90 },
-			{ "model": "geology:rocks/rock_plutonic_boulder/diabase", "weight": 50, "y": 180 },
-			{ "model": "geology:rocks/rock_plutonic_boulder/diabase", "weight": 50, "y": 270 }
+			{ "model": "geology:rocks/rock_plutonic_boulder/diabase_1", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_boulder/diabase_1", "weight": 50, "y": 90 },
+			{ "model": "geology:rocks/rock_plutonic_boulder/diabase_1", "weight": 50, "y": 180 },
+			{ "model": "geology:rocks/rock_plutonic_boulder/diabase_1", "weight": 50, "y": 270 }
 		],
 		"type=norite": [
-			{ "model": "geology:rocks/rock_plutonic_boulder/norite", "weight": 50 },
-			{ "model": "geology:rocks/rock_plutonic_boulder/norite", "weight": 50, "y": 90 },
-			{ "model": "geology:rocks/rock_plutonic_boulder/norite", "weight": 50, "y": 180 },
-			{ "model": "geology:rocks/rock_plutonic_boulder/norite", "weight": 50, "y": 270 }
+			{ "model": "geology:rocks/rock_plutonic_boulder/norite_1", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_boulder/norite_1", "weight": 50, "y": 90 },
+			{ "model": "geology:rocks/rock_plutonic_boulder/norite_1", "weight": 50, "y": 180 },
+			{ "model": "geology:rocks/rock_plutonic_boulder/norite_1", "weight": 50, "y": 270 }
 		],
 		"type=troctolite": [
-			{ "model": "geology:rocks/rock_plutonic_boulder/troctolite", "weight": 50 },
-			{ "model": "geology:rocks/rock_plutonic_boulder/troctolite", "weight": 50, "y": 90 },
-			{ "model": "geology:rocks/rock_plutonic_boulder/troctolite", "weight": 50, "y": 180 },
-			{ "model": "geology:rocks/rock_plutonic_boulder/troctolite", "weight": 50, "y": 270 }
+			{ "model": "geology:rocks/rock_plutonic_boulder/troctolite_1", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_boulder/troctolite_1", "weight": 50, "y": 90 },
+			{ "model": "geology:rocks/rock_plutonic_boulder/troctolite_1", "weight": 50, "y": 180 },
+			{ "model": "geology:rocks/rock_plutonic_boulder/troctolite_1", "weight": 50, "y": 270 }
 		],
 		"type=dunite": [
-			{ "model": "geology:rocks/rock_plutonic_boulder/dunite", "weight": 50 },
-			{ "model": "geology:rocks/rock_plutonic_boulder/dunite", "weight": 50, "y": 90 },
-			{ "model": "geology:rocks/rock_plutonic_boulder/dunite", "weight": 50, "y": 180 },
-			{ "model": "geology:rocks/rock_plutonic_boulder/dunite", "weight": 50, "y": 270 }
+			{ "model": "geology:rocks/rock_plutonic_boulder/dunite_1", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_boulder/dunite_1", "weight": 50, "y": 90 },
+			{ "model": "geology:rocks/rock_plutonic_boulder/dunite_1", "weight": 50, "y": 180 },
+			{ "model": "geology:rocks/rock_plutonic_boulder/dunite_1", "weight": 50, "y": 270 }
 		],
 		"type=kimberlite": [
-			{ "model": "geology:rocks/rock_plutonic_boulder/kimberlite", "weight": 50 },
-			{ "model": "geology:rocks/rock_plutonic_boulder/kimberlite", "weight": 50, "y": 90 },
-			{ "model": "geology:rocks/rock_plutonic_boulder/kimberlite", "weight": 50, "y": 180 },
-			{ "model": "geology:rocks/rock_plutonic_boulder/kimberlite", "weight": 50, "y": 270 },
-			{ "model": "geology:rocks/rock_plutonic_boulder/kimberlite_alternative", "weight": 5 },
-			{ "model": "geology:rocks/rock_plutonic_boulder/kimberlite_alternative", "weight": 5, "y": 90 },
-			{ "model": "geology:rocks/rock_plutonic_boulder/kimberlite_alternative", "weight": 5, "y": 180 },
-			{ "model": "geology:rocks/rock_plutonic_boulder/kimberlite_alternative", "weight": 5, "y": 270 }
+			{ "model": "geology:rocks/rock_plutonic_boulder/kimberlite_1", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_boulder/kimberlite_1", "weight": 50, "y": 90 },
+			{ "model": "geology:rocks/rock_plutonic_boulder/kimberlite_1", "weight": 50, "y": 180 },
+			{ "model": "geology:rocks/rock_plutonic_boulder/kimberlite_1", "weight": 50, "y": 270 },
+			{ "model": "geology:rocks/rock_plutonic_boulder/kimberlite_alternative_1", "weight": 5 },
+			{ "model": "geology:rocks/rock_plutonic_boulder/kimberlite_alternative_1", "weight": 5, "y": 90 },
+			{ "model": "geology:rocks/rock_plutonic_boulder/kimberlite_alternative_1", "weight": 5, "y": 180 },
+			{ "model": "geology:rocks/rock_plutonic_boulder/kimberlite_alternative_1", "weight": 5, "y": 270 }
 		]
 	}
 }

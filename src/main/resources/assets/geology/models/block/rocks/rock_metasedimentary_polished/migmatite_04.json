@@ -1,0 +1,9 @@
+{
+    "parent": "geology:block/rocks/rock_metasedimentary_polished/migmatite",
+    "textures": {
+        "topbottom": "geology:blocks/rocks/rock_metasedimentary/migmatite_04",
+        "northsouth": "geology:blocks/rocks/rock_metasedimentary/migmatite_01",
+        "westeast": "geology:blocks/rocks/rock_metasedimentary/migmatite_02",
+        "overlay": "geology:blocks/overlays/overlay_polished"
+    }
+}

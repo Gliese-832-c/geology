@@ -7,10 +7,10 @@
 			{ "model": "geology:rocks/rock_volcanic_bricks/rhyolite_04", "weight": 50 }
 		],
 		"type=dacite": [
-			{ "model": "geology:rocks/rock_volcanic_bricks/dacite_01",   "weight": 50 },
-			{ "model": "geology:rocks/rock_volcanic_bricks/dacite_02",   "weight": 50 },
-			{ "model": "geology:rocks/rock_volcanic_bricks/dacite_03",   "weight": 50 },
-			{ "model": "geology:rocks/rock_volcanic_bricks/dacite_04",   "weight": 50 }
+			{ "model": "geology:rocks/rock_volcanic_bricks/dacite_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_volcanic_bricks/dacite_02", "weight": 50 },
+			{ "model": "geology:rocks/rock_volcanic_bricks/dacite_03", "weight": 50 },
+			{ "model": "geology:rocks/rock_volcanic_bricks/dacite_04", "weight": 50 }
 		],
 		"type=andesite": [
 			{ "model": "geology:rocks/rock_volcanic_bricks/andesite_01", "weight": 50 },

@@ -1,0 +1,9 @@
+{
+    "parent": "geology:block/rocks/rock_metasedimentary_polished/marble_black",
+    "textures": {
+        "topbottom": "geology:blocks/rocks/rock_metasedimentary/marble_black_04",
+        "northsouth": "geology:blocks/rocks/rock_metasedimentary/marble_black_01",
+        "westeast": "geology:blocks/rocks/rock_metasedimentary/marble_black_02",
+        "overlay": "geology:blocks/overlays/overlay_polished"
+    }
+}

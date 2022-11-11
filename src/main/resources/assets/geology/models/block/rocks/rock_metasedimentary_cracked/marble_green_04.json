@@ -1,0 +1,9 @@
+{
+    "parent": "geology:block/rocks/rock_metasedimentary_cracked/marble_green",
+    "textures": {
+        "topbottom": "geology:blocks/rocks/rock_metasedimentary/marble_green_04",
+        "northsouth": "geology:blocks/rocks/rock_metasedimentary/marble_green_01",
+        "westeast": "geology:blocks/rocks/rock_metasedimentary/marble_green_02",
+        "overlay": "geology:blocks/overlays/overlay_cracked"
+    }
+}

@@ -2,6 +2,7 @@ package gliese832c.geology.block;
 
 import gliese832c.geology.enums.BlockTypes;
 import gliese832c.geology.tab.GeologyTabs;
+import net.minecraft.block.Block;
 import net.minecraft.block.material.Material;
 import net.minecraft.block.properties.PropertyEnum;
 import net.minecraft.block.state.BlockFaceShape;
@@ -19,8 +20,10 @@ import net.minecraft.world.IBlockAccess;
 import net.minecraft.world.World;
 
 import javax.annotation.Nonnull;
+import javax.annotation.Nullable;
+import java.util.Random;
 
-public class BlockRockMetasedimentaryRocks extends BlockMeta
+public class BlockRockMetasedimentaryRocks extends BlockMetaFalling
 {
     public final static PropertyEnum TYPE = PropertyEnum.create("type", BlockTypes.RockMetasedimentaryTypes.class);
     private static final AxisAlignedBB ROCKS_AABB = new AxisAlignedBB(1.0 / 16.0, 0.0 / 16.0, 1.0 / 16.0, 15.0 / 16.0, 2.0 / 16.0, 15.0 / 16.0);
@@ -112,4 +115,11 @@ public class BlockRockMetasedimentaryRocks extends BlockMeta
     public AxisAlignedBB getBoundingBox(@Nonnull IBlockState state, @Nonnull IBlockAccess source, @Nonnull BlockPos pos) {
         return ROCKS_AABB;
     }
+
+
+
+    public boolean isReplaceable(IBlockAccess worldIn, BlockPos pos) { return true; }
+    @Nullable
+    public AxisAlignedBB getCollisionBoundingBox(IBlockState blockState, IBlockAccess worldIn, BlockPos pos) { return NULL_AABB; }
+    public Block.EnumOffsetType getOffsetType() { return Block.EnumOffsetType.XZ; }
 }

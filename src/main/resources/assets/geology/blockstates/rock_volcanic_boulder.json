@@ -1,61 +1,61 @@
 {
 	"variants":{
 		"type=rhyolite": [
-			{ "model": "geology:rocks/rock_volcanic_boulder/rhyolite", "weight": 50 },
-			{ "model": "geology:rocks/rock_volcanic_boulder/rhyolite", "weight": 50, "y": 90 },
-			{ "model": "geology:rocks/rock_volcanic_boulder/rhyolite", "weight": 50, "y": 180 },
-			{ "model": "geology:rocks/rock_volcanic_boulder/rhyolite", "weight": 50, "y": 270 }
+			{ "model": "geology:rocks/rock_volcanic_boulder/rhyolite_1", "weight": 50 },
+			{ "model": "geology:rocks/rock_volcanic_boulder/rhyolite_1", "weight": 50, "y": 90 },
+			{ "model": "geology:rocks/rock_volcanic_boulder/rhyolite_1", "weight": 50, "y": 180 },
+			{ "model": "geology:rocks/rock_volcanic_boulder/rhyolite_1", "weight": 50, "y": 270 }
 		],
 		"type=dacite": [
-			{ "model": "geology:rocks/rock_volcanic_boulder/dacite", "weight": 50 },
-			{ "model": "geology:rocks/rock_volcanic_boulder/dacite", "weight": 50, "y": 90 },
-			{ "model": "geology:rocks/rock_volcanic_boulder/dacite", "weight": 50, "y": 180 },
-			{ "model": "geology:rocks/rock_volcanic_boulder/dacite", "weight": 50, "y": 270 }
+			{ "model": "geology:rocks/rock_volcanic_boulder/dacite_1", "weight": 50 },
+			{ "model": "geology:rocks/rock_volcanic_boulder/dacite_1", "weight": 50, "y": 90 },
+			{ "model": "geology:rocks/rock_volcanic_boulder/dacite_1", "weight": 50, "y": 180 },
+			{ "model": "geology:rocks/rock_volcanic_boulder/dacite_1", "weight": 50, "y": 270 }
 		],
 		"type=andesite": [
-			{ "model": "geology:rocks/rock_volcanic_boulder/andesite", "weight": 50 },
-			{ "model": "geology:rocks/rock_volcanic_boulder/andesite", "weight": 50, "y": 90 },
-			{ "model": "geology:rocks/rock_volcanic_boulder/andesite", "weight": 50, "y": 180 },
-			{ "model": "geology:rocks/rock_volcanic_boulder/andesite", "weight": 50, "y": 270 }
+			{ "model": "geology:rocks/rock_volcanic_boulder/andesite_1", "weight": 50 },
+			{ "model": "geology:rocks/rock_volcanic_boulder/andesite_1", "weight": 50, "y": 90 },
+			{ "model": "geology:rocks/rock_volcanic_boulder/andesite_1", "weight": 50, "y": 180 },
+			{ "model": "geology:rocks/rock_volcanic_boulder/andesite_1", "weight": 50, "y": 270 }
 		],
 		"type=basaltic_andesite": [
-			{ "model": "geology:rocks/rock_volcanic_boulder/basaltic_andesite", "weight": 50 },
-			{ "model": "geology:rocks/rock_volcanic_boulder/basaltic_andesite", "weight": 50, "y": 90 },
-			{ "model": "geology:rocks/rock_volcanic_boulder/basaltic_andesite", "weight": 50, "y": 180 },
-			{ "model": "geology:rocks/rock_volcanic_boulder/basaltic_andesite", "weight": 50, "y": 270 }
+			{ "model": "geology:rocks/rock_volcanic_boulder/basaltic_andesite_1", "weight": 50 },
+			{ "model": "geology:rocks/rock_volcanic_boulder/basaltic_andesite_1", "weight": 50, "y": 90 },
+			{ "model": "geology:rocks/rock_volcanic_boulder/basaltic_andesite_1", "weight": 50, "y": 180 },
+			{ "model": "geology:rocks/rock_volcanic_boulder/basaltic_andesite_1", "weight": 50, "y": 270 }
 		],
 		"type=basalt": [
-			{ "model": "geology:rocks/rock_volcanic_boulder/basalt", "weight": 50 },
-			{ "model": "geology:rocks/rock_volcanic_boulder/basalt", "weight": 50, "y": 90 },
-			{ "model": "geology:rocks/rock_volcanic_boulder/basalt", "weight": 50, "y": 180 },
-			{ "model": "geology:rocks/rock_volcanic_boulder/basalt", "weight": 50, "y": 270 }
+			{ "model": "geology:rocks/rock_volcanic_boulder/basalt_1", "weight": 50 },
+			{ "model": "geology:rocks/rock_volcanic_boulder/basalt_1", "weight": 50, "y": 90 },
+			{ "model": "geology:rocks/rock_volcanic_boulder/basalt_1", "weight": 50, "y": 180 },
+			{ "model": "geology:rocks/rock_volcanic_boulder/basalt_1", "weight": 50, "y": 270 }
 		],
 		"type=picrite": [
-			{ "model": "geology:rocks/rock_volcanic_boulder/picrite", "weight": 50 },
-			{ "model": "geology:rocks/rock_volcanic_boulder/picrite", "weight": 50, "y": 90 },
-			{ "model": "geology:rocks/rock_volcanic_boulder/picrite", "weight": 50, "y": 180 },
-			{ "model": "geology:rocks/rock_volcanic_boulder/picrite", "weight": 50, "y": 270 }
+			{ "model": "geology:rocks/rock_volcanic_boulder/picrite_1", "weight": 50 },
+			{ "model": "geology:rocks/rock_volcanic_boulder/picrite_1", "weight": 50, "y": 90 },
+			{ "model": "geology:rocks/rock_volcanic_boulder/picrite_1", "weight": 50, "y": 180 },
+			{ "model": "geology:rocks/rock_volcanic_boulder/picrite_1", "weight": 50, "y": 270 }
 		],
 		
 		
 		
 		"type=obsidian": [
-			{ "model": "geology:rocks/rock_volcanic_boulder/obsidian", "weight": 50 },
-			{ "model": "geology:rocks/rock_volcanic_boulder/obsidian", "weight": 50, "y": 90 },
-			{ "model": "geology:rocks/rock_volcanic_boulder/obsidian", "weight": 50, "y": 180 },
-			{ "model": "geology:rocks/rock_volcanic_boulder/obsidian", "weight": 50, "y": 270 }
+			{ "model": "geology:rocks/rock_volcanic_boulder/obsidian_1", "weight": 50 },
+			{ "model": "geology:rocks/rock_volcanic_boulder/obsidian_1", "weight": 50, "y": 90 },
+			{ "model": "geology:rocks/rock_volcanic_boulder/obsidian_1", "weight": 50, "y": 180 },
+			{ "model": "geology:rocks/rock_volcanic_boulder/obsidian_1", "weight": 50, "y": 270 }
 		],
 		"type=amygdaloidal_basalt": [
-			{ "model": "geology:rocks/rock_volcanic_boulder/amygdaloidal_basalt", "weight": 50 },
-			{ "model": "geology:rocks/rock_volcanic_boulder/amygdaloidal_basalt", "weight": 50, "y": 90 },
-			{ "model": "geology:rocks/rock_volcanic_boulder/amygdaloidal_basalt", "weight": 50, "y": 180 },
-			{ "model": "geology:rocks/rock_volcanic_boulder/amygdaloidal_basalt", "weight": 50, "y": 270 }
+			{ "model": "geology:rocks/rock_volcanic_boulder/amygdaloidal_basalt_1", "weight": 50 },
+			{ "model": "geology:rocks/rock_volcanic_boulder/amygdaloidal_basalt_1", "weight": 50, "y": 90 },
+			{ "model": "geology:rocks/rock_volcanic_boulder/amygdaloidal_basalt_1", "weight": 50, "y": 180 },
+			{ "model": "geology:rocks/rock_volcanic_boulder/amygdaloidal_basalt_1", "weight": 50, "y": 270 }
 		],
 		"type=komatiite": [
-			{ "model": "geology:rocks/rock_volcanic_boulder/komatiite", "weight": 50 },
-			{ "model": "geology:rocks/rock_volcanic_boulder/komatiite", "weight": 50, "y": 90 },
-			{ "model": "geology:rocks/rock_volcanic_boulder/komatiite", "weight": 50, "y": 180 },
-			{ "model": "geology:rocks/rock_volcanic_boulder/komatiite", "weight": 50, "y": 270 }
+			{ "model": "geology:rocks/rock_volcanic_boulder/komatiite_1", "weight": 50 },
+			{ "model": "geology:rocks/rock_volcanic_boulder/komatiite_1", "weight": 50, "y": 90 },
+			{ "model": "geology:rocks/rock_volcanic_boulder/komatiite_1", "weight": 50, "y": 180 },
+			{ "model": "geology:rocks/rock_volcanic_boulder/komatiite_1", "weight": 50, "y": 270 }
 		]
 	}
 }

@@ -1,0 +1,9 @@
+{
+    "parent": "geology:block/rocks/rock_metasedimentary_bricks/marble",
+    "textures": {
+        "topbottom": "geology:blocks/rocks/rock_metasedimentary/marble_01",
+        "northsouth": "geology:blocks/rocks/rock_metasedimentary/marble_02",
+        "westeast": "geology:blocks/rocks/rock_metasedimentary/marble_03",
+        "overlay": "geology:blocks/overlays/overlay_bricks"
+    }
+}

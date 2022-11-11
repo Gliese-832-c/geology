@@ -7,10 +7,10 @@
 			{ "model": "geology:rocks/rock_sedimentary_polished/limestone_04", "weight": 50 }
 		],
 		"type=chalk": [
-			{ "model": "geology:rocks/rock_sedimentary_polished/chalk_01",   "weight": 50 },
-			{ "model": "geology:rocks/rock_sedimentary_polished/chalk_02",   "weight": 50 },
-			{ "model": "geology:rocks/rock_sedimentary_polished/chalk_03",   "weight": 50 },
-			{ "model": "geology:rocks/rock_sedimentary_polished/chalk_04",   "weight": 50 }
+			{ "model": "geology:rocks/rock_sedimentary_polished/chalk_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_sedimentary_polished/chalk_02", "weight": 50 },
+			{ "model": "geology:rocks/rock_sedimentary_polished/chalk_03", "weight": 50 },
+			{ "model": "geology:rocks/rock_sedimentary_polished/chalk_04", "weight": 50 }
 		],
 		"type=dolomite": [
 			{ "model": "geology:rocks/rock_sedimentary_polished/dolomite_01", "weight": 50 },

@@ -21,7 +21,7 @@ public class BlockRockMetasedimentaryPolished extends BlockMeta
     public BlockRockMetasedimentaryPolished()
     {
         super(BlockTypes.RockMetasedimentaryTypes.class, TYPE, Material.ROCK);
-        setCreativeTab(GeologyTabs.ROCKS);
+        setCreativeTab(GeologyTabs.MODIFIED);
     }
 
     @Override
