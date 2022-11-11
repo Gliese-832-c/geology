@@ -57,6 +57,10 @@ public class ItemBlockMeta extends ItemBlock
             String langKey = this.getUnlocalizedNameInefficiently(stack);
             langKey = langKey.replaceAll("_boulder", "");
             return I18n.translateToLocal(langKey + ".name").trim() + " " + I18n.translateToLocal("descriptor.geology.boulder").trim();
+        } else if (this.specialProperty.equals("rocks")) {
+            String langKey = this.getUnlocalizedNameInefficiently(stack);
+            langKey = langKey.replaceAll("_rocks", "");
+            return I18n.translateToLocal(langKey + ".name").trim() + " " + I18n.translateToLocal("descriptor.geology.rocks").trim();
         } else {
             return I18n.translateToLocal(this.getUnlocalizedNameInefficiently(stack) + ".name").trim();
         }

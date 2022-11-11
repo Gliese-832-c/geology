@@ -48,6 +48,22 @@ tile.geology.rock_sedimentary.graywacke.name=Graywacke
 
 
 
+tile.geology.rock_metasedimentary.slate.name=Slate
+tile.geology.rock_metasedimentary.phyllite.name=Phyllite
+tile.geology.rock_metasedimentary.schist.name=Schist
+tile.geology.rock_metasedimentary.paragneiss.name=Paragneiss
+tile.geology.rock_metasedimentary.migmatite.name=Migmatite
+
+tile.geology.rock_metasedimentary.quartzite.name=Quartzite
+tile.geology.rock_metasedimentary.metaconglomerate.name=Metaconglomerate
+
+tile.geology.rock_metasedimentary.marble.name=Marble
+tile.geology.rock_metasedimentary.marble_black.name=Black Marble
+tile.geology.rock_metasedimentary.marble_pink.name=Pink Marble
+tile.geology.rock_metasedimentary.marble_green.name=Green Marble
+
+
+
 tile.geology.rock_igneous_others.pumice.name=Pumice
 tile.geology.rock_igneous_others.scoria.name=Scoria
 
@@ -63,3 +79,4 @@ descriptor.geology.cracked=Cracked
 descriptor.geology.polished=Polished
 descriptor.geology.bricks=Bricks
 descriptor.geology.boulder=Boulder
+descriptor.geology.rocks=Rocks

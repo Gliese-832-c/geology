@@ -1,0 +1,8 @@
+{
+    "parent": "geology:block/rocks/rock_metasedimentary/slate",
+    "textures": {
+        "topbottom": "geology:blocks/rocks/rock_metasedimentary/slate_05",
+        "northsouth": "geology:blocks/rocks/rock_metasedimentary/slate_01",
+        "westeast": "geology:blocks/rocks/rock_metasedimentary/slate_02"
+    }
+}

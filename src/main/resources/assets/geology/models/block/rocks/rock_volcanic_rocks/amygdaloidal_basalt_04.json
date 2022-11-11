@@ -1,0 +1,7 @@
+{
+    "parent": "geology:block/rocks/rocks_4",
+    "textures": {
+        "0": "geology:blocks/rocks/rock_volcanic/amygdaloidal_basalt_04",
+        "particle": "geology:blocks/rocks/rock_volcanic/amygdaloidal_basalt_01"
+    }
+}

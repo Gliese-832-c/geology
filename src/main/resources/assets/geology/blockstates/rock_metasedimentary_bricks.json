@@ -1,0 +1,76 @@
+{
+	"variants": {
+		"type=slate": [
+			{ "model": "geology:rocks/rock_metasedimentary_bricks/slate_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_metasedimentary_bricks/slate_02", "weight": 50 },
+			{ "model": "geology:rocks/rock_metasedimentary_bricks/slate_03", "weight": 50 },
+			{ "model": "geology:rocks/rock_metasedimentary_bricks/slate_04", "weight": 50 }
+		],
+		"type=phyllite": [
+			{ "model": "geology:rocks/rock_metasedimentary_bricks/phyllite_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_metasedimentary_bricks/phyllite_02", "weight": 50 },
+			{ "model": "geology:rocks/rock_metasedimentary_bricks/phyllite_03", "weight": 50 },
+			{ "model": "geology:rocks/rock_metasedimentary_bricks/phyllite_04", "weight": 50 }
+		],
+		"type=schist": [
+			{ "model": "geology:rocks/rock_metasedimentary_bricks/schist_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_metasedimentary_bricks/schist_02", "weight": 50 },
+			{ "model": "geology:rocks/rock_metasedimentary_bricks/schist_03", "weight": 50 },
+			{ "model": "geology:rocks/rock_metasedimentary_bricks/schist_04", "weight": 50 }
+		],
+		"type=paragneiss": [
+			{ "model": "geology:rocks/rock_metasedimentary_bricks/paragneiss_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_metasedimentary_bricks/paragneiss_02", "weight": 50 },
+			{ "model": "geology:rocks/rock_metasedimentary_bricks/paragneiss_03", "weight": 50 },
+			{ "model": "geology:rocks/rock_metasedimentary_bricks/paragneiss_04", "weight": 50 }
+		],
+		"type=migmatite": [
+			{ "model": "geology:rocks/rock_metasedimentary_bricks/migmatite_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_metasedimentary_bricks/migmatite_02", "weight": 50 },
+			{ "model": "geology:rocks/rock_metasedimentary_bricks/migmatite_03", "weight": 50 },
+			{ "model": "geology:rocks/rock_metasedimentary_bricks/migmatite_04", "weight": 50 }
+		],
+		
+		
+		
+		"type=quartzite": [
+			{ "model": "geology:rocks/rock_metasedimentary_bricks/quartzite_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_metasedimentary_bricks/quartzite_02", "weight": 50 },
+			{ "model": "geology:rocks/rock_metasedimentary_bricks/quartzite_03", "weight": 50 },
+			{ "model": "geology:rocks/rock_metasedimentary_bricks/quartzite_04", "weight": 50 }
+		],
+		"type=metaconglomerate": [
+			{ "model": "geology:rocks/rock_metasedimentary_bricks/metaconglomerate_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_metasedimentary_bricks/metaconglomerate_02", "weight": 50 },
+			{ "model": "geology:rocks/rock_metasedimentary_bricks/metaconglomerate_03", "weight": 50 },
+			{ "model": "geology:rocks/rock_metasedimentary_bricks/metaconglomerate_04", "weight": 50 }
+		],
+		
+		
+		
+		"type=marble": [
+			{ "model": "geology:rocks/rock_metasedimentary_bricks/marble_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_metasedimentary_bricks/marble_02", "weight": 50 },
+			{ "model": "geology:rocks/rock_metasedimentary_bricks/marble_03", "weight": 50 },
+			{ "model": "geology:rocks/rock_metasedimentary_bricks/marble_04", "weight": 50 }
+		],
+		"type=marble_black": [
+			{ "model": "geology:rocks/rock_metasedimentary_bricks/marble_black_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_metasedimentary_bricks/marble_black_02", "weight": 50 },
+			{ "model": "geology:rocks/rock_metasedimentary_bricks/marble_black_03", "weight": 50 },
+			{ "model": "geology:rocks/rock_metasedimentary_bricks/marble_black_04", "weight": 50 }
+		],
+		"type=marble_pink": [
+			{ "model": "geology:rocks/rock_metasedimentary_bricks/marble_pink_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_metasedimentary_bricks/marble_pink_02", "weight": 50 },
+			{ "model": "geology:rocks/rock_metasedimentary_bricks/marble_pink_03", "weight": 50 },
+			{ "model": "geology:rocks/rock_metasedimentary_bricks/marble_pink_04", "weight": 50 }
+		],
+		"type=marble_green": [
+			{ "model": "geology:rocks/rock_metasedimentary_bricks/marble_green_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_metasedimentary_bricks/marble_green_02", "weight": 50 },
+			{ "model": "geology:rocks/rock_metasedimentary_bricks/marble_green_03", "weight": 50 },
+			{ "model": "geology:rocks/rock_metasedimentary_bricks/marble_green_04", "weight": 50 }
+		]
+	}
+}

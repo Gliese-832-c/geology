@@ -1,0 +1,7 @@
+{
+    "parent": "geology:block/rocks/rocks_3",
+    "textures": {
+        "0": "geology:blocks/rocks/rock_plutonic/diorite_03",
+        "particle": "geology:blocks/rocks/rock_plutonic/diorite_04"
+    }
+}

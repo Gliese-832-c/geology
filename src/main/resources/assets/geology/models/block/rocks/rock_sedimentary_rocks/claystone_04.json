@@ -1,0 +1,7 @@
+{
+    "parent": "geology:block/rocks/rocks_4",
+    "textures": {
+        "0": "geology:blocks/rocks/rock_sedimentary/claystone_04",
+        "particle": "geology:blocks/rocks/rock_sedimentary/claystone_01"
+    }
+}

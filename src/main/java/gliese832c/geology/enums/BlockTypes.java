@@ -321,4 +321,171 @@ public class BlockTypes
             return 0;
         }
     }
+
+
+
+    public enum RockMetasedimentaryTypes implements IStringSerializable, IBlockMetaEnum
+    {
+        // Mudrock series
+        SLATE("slate", 0, 5.0f, 30.0f, 2),
+        PHYLLITE("phyllite", 1, 5.0f, 30.0f, 2),
+        SCHIST("schist", 2, 5.0f, 30.0f, 2),
+        PARAGNEISS("paragneiss", 3, 5.0f, 30.0f, 2),
+        MIGMATITE("migmatite", 4, 5.0f, 30.0f, 2),
+
+        // Others
+        QUARTZITE("quartzite", 5, 5.0f, 30.0f, 2),
+        METACONGLOMERATE("metaconglomerate", 6, 5.0f, 30.0f, 2),
+
+        // Marble types
+        MARBLE("marble", 7, 5.0f, 30.0f, 2),
+        MARBLE_BLACK("marble_black", 8, 5.0f, 30.0f, 2),
+        MARBLE_PINK("marble_pink", 9, 5.0f, 30.0f, 2),
+        MARBLE_GREEN("marble_green", 10, 5.0f, 30.0f, 2);
+
+
+        private String name;
+        private int id;
+        private float hardness;
+        private float resistance;
+        private int harvestLevel;
+
+
+        private RockMetasedimentaryTypes(String name, int id, float hardness, float resistance, int harvestLevel)
+        {
+            this.name = name;
+            this.id = id;
+            this.hardness = hardness;
+            this.resistance = resistance;
+            this.harvestLevel = harvestLevel;
+        }
+
+        @Override
+        public String getName()
+        {
+            return name;
+        }
+
+        @Override
+        public String toString()
+        {
+            return getName();
+        }
+
+        public int getID()
+        {
+            return id;
+        }
+
+        @Override
+        public float getHardness()
+        {
+            return hardness;
+        }
+
+        @Override
+        public float getResistance()
+        {
+            return resistance;
+        }
+
+        @Override
+        public int getHarvestLevel()
+        {
+            return harvestLevel;
+        }
+
+        @Override
+        public String getHarvestTool()
+        {
+            return "pickaxe";
+        }
+
+        @Override
+        public int getLightValue() {
+            return 0;
+        }
+    }
+
+
+
+    public enum RockMetaigneousTypes implements IStringSerializable, IBlockMetaEnum
+    {
+        GREENSCHIST("greenschist", 1, 5.0f, 30.0f, 2),
+        BLUESCHIST("blueschist", 1, 5.0f, 30.0f, 2),
+        AMPHIBOLITE("amphibolite", 1, 5.0f, 30.0f, 2),
+        GRANULITE("granulite", 1, 5.0f, 30.0f, 2),
+        ECLOGITE("eclogite", 1, 5.0f, 30.0f, 2),
+
+        ORTHOGNEISS("orthogneiss", 0, 5.0f, 30.0f, 2),
+        HORNFELS("hornfels", 1, 5.0f, 30.0f, 2),
+
+        SKARN("skarn", 1, 5.0f, 30.0f, 2),
+        SERPENTINITE("serpentinite", 1, 5.0f, 30.0f, 2),
+
+        SUEVITE("suevite", 1, 5.0f, 30.0f, 2);
+
+
+        private String name;
+        private int id;
+        private float hardness;
+        private float resistance;
+        private int harvestLevel;
+
+
+        private RockMetaigneousTypes(String name, int id, float hardness, float resistance, int harvestLevel)
+        {
+            this.name = name;
+            this.id = id;
+            this.hardness = hardness;
+            this.resistance = resistance;
+            this.harvestLevel = harvestLevel;
+        }
+
+        @Override
+        public String getName()
+        {
+            return name;
+        }
+
+        @Override
+        public String toString()
+        {
+            return getName();
+        }
+
+        public int getID()
+        {
+            return id;
+        }
+
+        @Override
+        public float getHardness()
+        {
+            return hardness;
+        }
+
+        @Override
+        public float getResistance()
+        {
+            return resistance;
+        }
+
+        @Override
+        public int getHarvestLevel()
+        {
+            return harvestLevel;
+        }
+
+        @Override
+        public String getHarvestTool()
+        {
+            return "pickaxe";
+        }
+
+        @Override
+        public int getLightValue() {
+            return 0;
+        }
+    }
 }

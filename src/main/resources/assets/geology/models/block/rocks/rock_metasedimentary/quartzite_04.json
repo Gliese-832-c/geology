@@ -1,0 +1,8 @@
+{
+    "parent": "geology:block/rocks/rock_metasedimentary/quartzite",
+    "textures": {
+        "topbottom": "geology:blocks/rocks/rock_metasedimentary/quartzite_04",
+        "northsouth": "geology:blocks/rocks/rock_metasedimentary/quartzite_01",
+        "westeast": "geology:blocks/rocks/rock_metasedimentary/quartzite_02"
+    }
+}

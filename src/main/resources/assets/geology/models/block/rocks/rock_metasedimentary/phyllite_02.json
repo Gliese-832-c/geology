@@ -1,0 +1,8 @@
+{
+    "parent": "geology:block/rocks/rock_metasedimentary/phyllite",
+    "textures": {
+        "topbottom": "geology:blocks/rocks/rock_metasedimentary/phyllite_02",
+        "northsouth": "geology:blocks/rocks/rock_metasedimentary/phyllite_03",
+        "westeast": "geology:blocks/rocks/rock_metasedimentary/phyllite_04"
+    }
+}
