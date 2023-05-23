@@ -1,0 +1,83 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "geology:item/rock_item",
+    "transform": "forge:default-item"
+  },
+  "variants": {
+    "type": {
+      "limestone": {
+        "textures": {
+          "0": "geology:blocks/rocks/rock_sedimentary/limestone_01",
+          "particle": "geology:blocks/rocks/rock_sedimentary/limestone_01"
+        }
+      },
+      "chalk": {
+        "textures": {
+          "0": "geology:blocks/rocks/rock_sedimentary/chalk_01",
+          "particle": "geology:blocks/rocks/rock_sedimentary/chalk_01"
+        }
+      },
+      "dolomite": {
+        "textures": {
+          "0": "geology:blocks/rocks/rock_sedimentary/dolomite_01",
+          "particle": "geology:blocks/rocks/rock_sedimentary/dolomite_01"
+        }
+      },
+      "marlstone": {
+        "textures": {
+          "0": "geology:blocks/rocks/rock_sedimentary/marlstone_01",
+          "particle": "geology:blocks/rocks/rock_sedimentary/marlstone_01"
+        }
+      },
+      "shale": {
+        "textures": {
+          "0": "geology:blocks/rocks/rock_sedimentary/shale_01",
+          "particle": "geology:blocks/rocks/rock_sedimentary/shale_01"
+        }
+      },
+      "claystone": {
+        "textures": {
+          "0": "geology:blocks/rocks/rock_sedimentary/claystone_01",
+          "particle": "geology:blocks/rocks/rock_sedimentary/claystone_01"
+        }
+      },
+      "mudstone": {
+        "textures": {
+          "0": "geology:blocks/rocks/rock_sedimentary/mudstone_01",
+          "particle": "geology:blocks/rocks/rock_sedimentary/mudstone_01"
+        }
+      },
+      "siltstone": {
+        "textures": {
+          "0": "geology:blocks/rocks/rock_sedimentary/siltstone_01",
+          "particle": "geology:blocks/rocks/rock_sedimentary/siltstone_01"
+        }
+      },
+      "sandstone": {
+        "textures": {
+          "0": "geology:blocks/rocks/rock_sedimentary/sandstone_01",
+          "particle": "geology:blocks/rocks/rock_sedimentary/sandstone_01"
+        }
+      },
+      "red_sandstone": {
+        "textures": {
+          "0": "geology:blocks/rocks/rock_sedimentary/red_sandstone_01",
+          "particle": "geology:blocks/rocks/rock_sedimentary/red_sandstone_01"
+        }
+      },
+      "conglomerate": {
+        "textures": {
+          "0": "geology:blocks/rocks/rock_sedimentary/conglomerate_01",
+          "particle": "geology:blocks/rocks/rock_sedimentary/conglomerate_01"
+        }
+      },
+      "graywacke": {
+        "textures": {
+          "0": "geology:blocks/rocks/rock_sedimentary/graywacke_01",
+          "particle": "geology:blocks/rocks/rock_sedimentary/graywacke_01"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+	"parent": "geology:item/primitive_knife",
+	"textures": {
+		"2": "geology:blocks/rocks/special_rocks/chert/chert_01"
+	}
+}

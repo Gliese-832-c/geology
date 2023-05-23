@@ -1,0 +1,9 @@
+{
+    "parent": "geology:block/minerals/basaltic/_basaltic",
+    "textures": {
+        "topbottom": "geology:blocks/minerals/basaltic/cupriferous_amygdaloidal_basalt_03",
+        "northsouth": "geology:blocks/minerals/basaltic/cupriferous_amygdaloidal_basalt_04",
+        "westeast": "geology:blocks/minerals/basaltic/cupriferous_amygdaloidal_basalt_01",
+        "particle": "geology:blocks/minerals/basaltic/cupriferous_amygdaloidal_basalt_03"
+    }
+}

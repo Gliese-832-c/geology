@@ -1,0 +1,6 @@
+{
+	"parent": "geology:item/primitive_chisel",
+	"textures": {
+		"2": "geology:materials/nativecopper"
+	}
+}

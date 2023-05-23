@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "type=lignite": [
+      { "model": "geology:minerals/coal/lignite_01", "weight": 50 }
+    ],
+    "type=sub_bituminous": [
+      { "model": "geology:minerals/coal/sub_bituminous_01", "weight": 50 }
+    ],
+    "type=bituminous": [
+      { "model": "geology:minerals/coal/bituminous_01", "weight": 50 }
+    ],
+    "type=anthracite": [
+      { "model": "geology:minerals/coal/anthracite_01", "weight": 50 }
+    ]
+  }
+}

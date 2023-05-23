@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "type=gravel_cassiterite": [
+      { "model": "geology:minerals/loose/gravel_cassiterite_01", "weight": 50 }
+    ],
+    "type=gravel_gold": [
+      { "model": "geology:minerals/loose/gravel_gold_01", "weight": 50 }
+    ],
+    "type=gravel_pyrite": [
+      { "model": "geology:minerals/loose/gravel_pyrite_01", "weight": 50 }
+    ],
+    "type=sand_magnetite": [
+      { "model": "geology:minerals/loose/sand_magnetite_01", "weight": 50 }
+    ]
+  }
+}

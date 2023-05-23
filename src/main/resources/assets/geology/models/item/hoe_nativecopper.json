@@ -1,0 +1,6 @@
+{
+  "parent": "geology:item/primitive_hoe",
+  "textures": {
+    "2": "geology:materials/nativecopper"
+  }
+}

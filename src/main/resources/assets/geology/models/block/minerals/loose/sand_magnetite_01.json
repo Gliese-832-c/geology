@@ -1,0 +1,9 @@
+{
+    "parent": "geology:block/minerals/loose/_loose",
+    "textures": {
+        "topbottom": "geology:blocks/minerals/loose/sand_magnetite_01",
+        "northsouth": "geology:blocks/minerals/loose/sand_magnetite_01",
+        "westeast": "geology:blocks/minerals/loose/sand_magnetite_01",
+        "particle": "geology:blocks/minerals/loose/sand_magnetite_01"
+    }
+}

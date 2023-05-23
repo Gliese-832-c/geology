@@ -1,0 +1,6 @@
+{
+  "parent": "geology:item/primitive_axe",
+  "textures": {
+    "2": "geology:blocks/rocks/rock_volcanic/obsidian_01"
+  }
+}

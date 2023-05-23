@@ -2,21 +2,27 @@ package gliese832c.geology.enums;
 
 import gliese832c.geology.enums.IBlockMetaEnum;
 import net.minecraft.util.IStringSerializable;
+import net.minecraft.util.math.AxisAlignedBB;
 
 public class BlockTypes
 {
+    public static float hardnessMultiplier = 1.0f;
+    public static float resistanceMultiplier = 1.0f;
+
+
+
     public enum RockVolcanicTypes implements IStringSerializable, IBlockMetaEnum
     {
-        RHYOLITE("rhyolite", 0, 5.0f, 30.0f, 2),
-        DACITE("dacite", 1, 5.0f, 30.0f, 2),
-        ANDESITE("andesite", 2, 5.0f, 30.0f, 2),
-        BASALTIC_ANDESITE("basaltic_andesite", 3, 5.0f, 30.0f, 2),
-        BASALT("basalt", 4, 5.0f, 30.0f, 2),
-        PICRITE("picrite", 5, 5.0f, 30.0f, 2),
+        RHYOLITE("rhyolite", 0, hardnessMultiplier * 50.0f, resistanceMultiplier * 5.0f, 2),
+        DACITE("dacite", 1, hardnessMultiplier * 50.0f, resistanceMultiplier * 5.0f, 2),
+        ANDESITE("andesite", 2, hardnessMultiplier * 50.0f, resistanceMultiplier * 5.0f, 2),
+        BASALTIC_ANDESITE("basaltic_andesite", 3, hardnessMultiplier * 50.0f, resistanceMultiplier * 5.0f, 2),
+        BASALT("basalt", 4, hardnessMultiplier * 50.0f, resistanceMultiplier * 5.0f, 2),
+        PICRITE("picrite", 5, hardnessMultiplier * 50.0f, resistanceMultiplier * 5.0f, 2),
 
-        OBSIDIAN("obsidian", 6, 5.0f, 30.0f, 2),
-        AMYGDALOIDAL_BASALT("amygdaloidal_basalt", 7, 5.0f, 30.0f, 2),
-        KOMATIITE("komatiite", 8, 5.0f, 30.0f, 2);
+        OBSIDIAN("obsidian", 6, hardnessMultiplier * 50.0f, resistanceMultiplier * 5.0f, 1),
+        AMYGDALOIDAL_BASALT("amygdaloidal_basalt", 7, hardnessMultiplier * 50.0f, resistanceMultiplier * 5.0f, 2),
+        KOMATIITE("komatiite", 8, hardnessMultiplier * 50.0f, resistanceMultiplier * 5.0f, 2);
 
 
         private String name;
@@ -86,18 +92,18 @@ public class BlockTypes
 
     public enum RockPlutonicTypes implements IStringSerializable, IBlockMetaEnum
     {
-        GRANITE("granite", 0, 5.0f, 30.0f, 2),
-        GRANODIORITE("granodiorite", 1, 5.0f, 30.0f, 2),
-        DIORITE("diorite", 2, 5.0f, 30.0f, 2),
-        GABBRO("gabbro", 3, 5.0f, 30.0f, 2),
-        PERIDOTITE("peridotite", 4, 5.0f, 30.0f, 2),
+        GRANITE("granite", 0, hardnessMultiplier * 50.0f, resistanceMultiplier * 5.0f, 2),
+        GRANODIORITE("granodiorite", 1, hardnessMultiplier * 50.0f, resistanceMultiplier * 5.0f, 2),
+        DIORITE("diorite", 2, hardnessMultiplier * 50.0f, resistanceMultiplier * 5.0f, 2),
+        GABBRO("gabbro", 3, hardnessMultiplier * 50.0f, resistanceMultiplier * 5.0f, 2),
+        PERIDOTITE("peridotite", 4, hardnessMultiplier * 50.0f, resistanceMultiplier * 5.0f, 2),
 
-        ANORTHOSITE("anorthosite", 5, 5.0f, 30.0f, 2),
-        DIABASE("diabase", 6, 5.0f, 30.0f, 2),
-        NORITE("norite", 7, 5.0f, 30.0f, 2),
-        TROCTOLITE("troctolite", 8, 5.0f, 30.0f, 2),
-        DUNITE("dunite", 9, 5.0f, 30.0f, 2),
-        KIMBERLITE("kimberlite", 10, 5.0f, 30.0f, 2);
+        ANORTHOSITE("anorthosite", 5, hardnessMultiplier * 50.0f, resistanceMultiplier * 5.0f, 2),
+        DIABASE("diabase", 6, hardnessMultiplier * 50.0f, resistanceMultiplier * 5.0f, 2),
+        NORITE("norite", 7, hardnessMultiplier * 50.0f, resistanceMultiplier * 5.0f, 2),
+        TROCTOLITE("troctolite", 8, hardnessMultiplier * 50.0f, resistanceMultiplier * 5.0f, 2),
+        DUNITE("dunite", 9, hardnessMultiplier * 50.0f, resistanceMultiplier * 5.0f, 2),
+        KIMBERLITE("kimberlite", 10, hardnessMultiplier * 50.0f, resistanceMultiplier * 5.0f, 2);
 
 
         private String name;
@@ -167,19 +173,19 @@ public class BlockTypes
 
     public enum RockSedimentaryTypes implements IStringSerializable, IBlockMetaEnum
     {
-        LIMESTONE("limestone", 0, 5.0f, 30.0f, 2),
-        CHALK("chalk", 1, 5.0f, 30.0f, 2),
-        DOLOMITE("dolomite", 2, 5.0f, 30.0f, 2),
-        MARLSTONE("marlstone", 3, 5.0f, 30.0f, 2),
+        LIMESTONE("limestone", 0, hardnessMultiplier * 20.0f, resistanceMultiplier * 5.0f, 0),
+        CHALK("chalk", 1, hardnessMultiplier * 20.0f, resistanceMultiplier * 5.0f, 0),
+        DOLOMITE("dolomite", 2, hardnessMultiplier * 20.0f, resistanceMultiplier * 5.0f, 0),
+        MARLSTONE("marlstone", 3, hardnessMultiplier * 20.0f, resistanceMultiplier * 5.0f, 0),
 
-        SHALE("shale", 4, 5.0f, 30.0f, 2),
-        CLAYSTONE("claystone", 5, 5.0f, 30.0f, 2),
-        MUDSTONE("mudstone", 6, 5.0f, 30.0f, 2),
-        SILTSTONE("siltstone", 7, 5.0f, 30.0f, 2),
-        SANDSTONE("sandstone", 8, 5.0f, 30.0f, 2),
-        RED_SANDSTONE("red_sandstone", 9, 5.0f, 30.0f, 2),
-        CONGLOMERATE("conglomerate", 10, 5.0f, 30.0f, 2),
-        GRAYWACKE("graywacke", 11, 5.0f, 30.0f, 2);
+        SHALE("shale", 4, hardnessMultiplier * 20.0f, resistanceMultiplier * 5.0f, 1),
+        CLAYSTONE("claystone", 5, hardnessMultiplier * 20.0f, resistanceMultiplier * 5.0f, 1),
+        MUDSTONE("mudstone", 6, hardnessMultiplier * 20.0f, resistanceMultiplier * 5.0f, 1),
+        SILTSTONE("siltstone", 7, hardnessMultiplier * 20.0f, resistanceMultiplier * 5.0f, 1),
+        SANDSTONE("sandstone", 8, hardnessMultiplier * 20.0f, resistanceMultiplier * 5.0f, 0),
+        RED_SANDSTONE("red_sandstone", 9, hardnessMultiplier * 20.0f, resistanceMultiplier * 5.0f, 0),
+        CONGLOMERATE("conglomerate", 10, hardnessMultiplier * 20.0f, resistanceMultiplier * 5.0f, 1),
+        GRAYWACKE("graywacke", 11, hardnessMultiplier * 20.0f, resistanceMultiplier * 5.0f, 1);
 
 
         private String name;
@@ -249,14 +255,14 @@ public class BlockTypes
 
     public enum RockIgneousTypes implements IStringSerializable, IBlockMetaEnum
     {
-        PUMICE("pumice", 0, 5.0f, 30.0f, 2),
-        SCORIA("scoria", 1, 5.0f, 30.0f, 2),
+        PUMICE("pumice", 0, hardnessMultiplier * 20.0f, resistanceMultiplier * 5.0f, 2),
+        SCORIA("scoria", 1, hardnessMultiplier * 20.0f, resistanceMultiplier * 5.0f, 2),
 
-        RHYOLITIC_TUFF("rhyolitic_tuff", 2, 5.0f, 30.0f, 2),
-        DACITIC_TUFF("dacitic_tuff", 3, 5.0f, 30.0f, 2),
-        ANDESITIC_TUFF("andesitic_tuff", 4, 5.0f, 30.0f, 2),
-        BASALTIC_TUFF("basaltic_tuff", 5, 5.0f, 30.0f, 2),
-        KOMATIITIC_TUFF("komatiitic_tuff", 6, 5.0f, 30.0f, 2);
+        RHYOLITIC_TUFF("rhyolitic_tuff", 2, hardnessMultiplier * 20.0f, resistanceMultiplier * 5.0f, 2),
+        DACITIC_TUFF("dacitic_tuff", 3, hardnessMultiplier * 20.0f, resistanceMultiplier * 5.0f, 2),
+        ANDESITIC_TUFF("andesitic_tuff", 4, hardnessMultiplier * 20.0f, resistanceMultiplier * 5.0f, 2),
+        BASALTIC_TUFF("basaltic_tuff", 5, hardnessMultiplier * 20.0f, resistanceMultiplier * 5.0f, 2),
+        KOMATIITIC_TUFF("komatiitic_tuff", 6, hardnessMultiplier * 20.0f, resistanceMultiplier * 5.0f, 2);
 
 
         private String name;
@@ -327,21 +333,21 @@ public class BlockTypes
     public enum RockMetasedimentaryTypes implements IStringSerializable, IBlockMetaEnum
     {
         // Mudrock series
-        SLATE("slate", 0, 5.0f, 30.0f, 2),
-        PHYLLITE("phyllite", 1, 5.0f, 30.0f, 2),
-        SCHIST("schist", 2, 5.0f, 30.0f, 2),
-        PARAGNEISS("paragneiss", 3, 5.0f, 30.0f, 2),
-        MIGMATITE("migmatite", 4, 5.0f, 30.0f, 2),
+        SLATE("slate", 0, hardnessMultiplier * 30.0f, resistanceMultiplier * 5.0f, 1),
+        PHYLLITE("phyllite", 1, hardnessMultiplier * 40.0f, resistanceMultiplier * 5.0f, 2),
+        SCHIST("schist", 2, hardnessMultiplier * 40.0f, resistanceMultiplier * 5.0f, 2),
+        PARAGNEISS("paragneiss", 3, hardnessMultiplier * 40.0f, resistanceMultiplier * 5.0f, 2),
+        MIGMATITE("migmatite", 4, hardnessMultiplier * 40.0f, resistanceMultiplier * 5.0f, 2),
 
         // Others
-        QUARTZITE("quartzite", 5, 5.0f, 30.0f, 2),
-        METACONGLOMERATE("metaconglomerate", 6, 5.0f, 30.0f, 2),
+        QUARTZITE("quartzite", 5, hardnessMultiplier * 40.0f, resistanceMultiplier * 5.0f, 2),
+        METACONGLOMERATE("metaconglomerate", 6, hardnessMultiplier * 40.0f, resistanceMultiplier * 5.0f, 2),
 
         // Marble types
-        MARBLE("marble", 7, 5.0f, 30.0f, 2),
-        MARBLE_BLACK("marble_black", 8, 5.0f, 30.0f, 2),
-        MARBLE_PINK("marble_pink", 9, 5.0f, 30.0f, 2),
-        MARBLE_GREEN("marble_green", 10, 5.0f, 30.0f, 2);
+        MARBLE("marble", 7, hardnessMultiplier * 40.0f, resistanceMultiplier * 5.0f, 1),
+        MARBLE_BLACK("marble_black", 8, hardnessMultiplier * 40.0f, resistanceMultiplier * 5.0f, 1),
+        MARBLE_PINK("marble_pink", 9, hardnessMultiplier * 40.0f, resistanceMultiplier * 5.0f, 1),
+        MARBLE_GREEN("marble_green", 10, hardnessMultiplier * 40.0f, resistanceMultiplier * 5.0f, 1);
 
 
         private String name;
@@ -411,19 +417,19 @@ public class BlockTypes
 
     public enum RockMetaigneousTypes implements IStringSerializable, IBlockMetaEnum
     {
-        GREENSCHIST("greenschist", 1, 5.0f, 30.0f, 2),
-        BLUESCHIST("blueschist", 1, 5.0f, 30.0f, 2),
-        AMPHIBOLITE("amphibolite", 1, 5.0f, 30.0f, 2),
-        GRANULITE("granulite", 1, 5.0f, 30.0f, 2),
-        ECLOGITE("eclogite", 1, 5.0f, 30.0f, 2),
+        GREENSCHIST("greenschist", 1, hardnessMultiplier * 40.0f, resistanceMultiplier * 5.0f, 2),
+        BLUESCHIST("blueschist", 1, hardnessMultiplier * 40.0f, resistanceMultiplier * 5.0f, 2),
+        AMPHIBOLITE("amphibolite", 1, hardnessMultiplier * 40.0f, resistanceMultiplier * 5.0f, 2),
+        GRANULITE("granulite", 1, hardnessMultiplier * 40.0f, resistanceMultiplier * 5.0f, 2),
+        ECLOGITE("eclogite", 1, hardnessMultiplier * 40.0f, resistanceMultiplier * 5.0f, 2),
 
-        ORTHOGNEISS("orthogneiss", 0, 5.0f, 30.0f, 2),
-        HORNFELS("hornfels", 1, 5.0f, 30.0f, 2),
+        ORTHOGNEISS("orthogneiss", 0, hardnessMultiplier * 40.0f, resistanceMultiplier * 5.0f, 2),
+        HORNFELS("hornfels", 1, hardnessMultiplier * 40.0f, resistanceMultiplier * 5.0f, 2),
 
-        SKARN("skarn", 1, 5.0f, 30.0f, 2),
-        SERPENTINITE("serpentinite", 1, 5.0f, 30.0f, 2),
+        SKARN("skarn", 1, hardnessMultiplier * 40.0f, resistanceMultiplier * 5.0f, 2),
+        SERPENTINITE("serpentinite", 1, hardnessMultiplier * 40.0f, resistanceMultiplier * 5.0f, 2),
 
-        SUEVITE("suevite", 1, 5.0f, 30.0f, 2);
+        SUEVITE("suevite", 1, hardnessMultiplier * 40.0f, resistanceMultiplier * 5.0f, 2);
 
 
         private String name;
@@ -488,4 +494,949 @@ public class BlockTypes
             return 0;
         }
     }
+
+
+
+
+
+    public enum SpecialRockRocks implements IStringSerializable, IBlockMetaEnum
+    {
+        FLINT("flint", 0, hardnessMultiplier * 30.0f, resistanceMultiplier * 5.0f, 0),
+        CHERT("chert", 1, hardnessMultiplier * 30.0f, resistanceMultiplier * 5.0f, 0);
+
+
+        private String name;
+        private int id;
+        private float hardness;
+        private float resistance;
+        private int harvestLevel;
+
+
+        private SpecialRockRocks(String name, int id, float hardness, float resistance, int harvestLevel)
+        {
+            this.name = name;
+            this.id = id;
+            this.hardness = hardness;
+            this.resistance = resistance;
+            this.harvestLevel = harvestLevel;
+        }
+
+        @Override
+        public String getName()
+        {
+            return name;
+        }
+
+        @Override
+        public String toString()
+        {
+            return getName();
+        }
+
+        public int getID()
+        {
+            return id;
+        }
+
+        @Override
+        public float getHardness()
+        {
+            return hardness;
+        }
+
+        @Override
+        public float getResistance()
+        {
+            return resistance;
+        }
+
+        @Override
+        public int getHarvestLevel()
+        {
+            return harvestLevel;
+        }
+
+        @Override
+        public String getHarvestTool()
+        {
+            return "pickaxe";
+        }
+
+        @Override
+        public int getLightValue() {
+            return 0;
+        }
+    }
+
+
+
+
+
+    public enum SpecialRockFlint implements IStringSerializable, IBlockMetaEnum
+    {
+        NODULAR_CHALK("nodular_chalk", 0, hardnessMultiplier * 20.0f, resistanceMultiplier * 5.0f, 0),
+        NODULAR_MARLSTONE("nodular_marlstone", 1, hardnessMultiplier * 20.0f, resistanceMultiplier * 5.0f, 0),
+        NODULAR_LIMESTONE("nodular_limestone", 2, hardnessMultiplier * 20.0f, resistanceMultiplier * 5.0f, 0);
+
+
+        private String name;
+        private int id;
+        private float hardness;
+        private float resistance;
+        private int harvestLevel;
+
+
+        private SpecialRockFlint(String name, int id, float hardness, float resistance, int harvestLevel)
+        {
+            this.name = name;
+            this.id = id;
+            this.hardness = hardness;
+            this.resistance = resistance;
+            this.harvestLevel = harvestLevel;
+        }
+
+        @Override
+        public String getName()
+        {
+            return name;
+        }
+
+        @Override
+        public String toString()
+        {
+            return getName();
+        }
+
+        public int getID()
+        {
+            return id;
+        }
+
+        @Override
+        public float getHardness()
+        {
+            return hardness;
+        }
+
+        @Override
+        public float getResistance()
+        {
+            return resistance;
+        }
+
+        @Override
+        public int getHarvestLevel()
+        {
+            return harvestLevel;
+        }
+
+        @Override
+        public String getHarvestTool()
+        {
+            return "pickaxe";
+        }
+
+        @Override
+        public int getLightValue() {
+            return 0;
+        }
+    }
+
+
+
+
+
+    public enum SpecialRockChert implements IStringSerializable, IBlockMetaEnum
+    {
+        BEDDED("bedded", 0, hardnessMultiplier * 20.0f, resistanceMultiplier * 5.0f, 1),
+        NODULAR_LIMESTONE("nodular_limestone", 1, hardnessMultiplier * 20.0f, resistanceMultiplier * 5.0f, 0),
+        NODULAR_SHALE("nodular_shale", 2, hardnessMultiplier * 20.0f, resistanceMultiplier * 5.0f, 1),
+        NODULAR_RED_SANDSTONE("nodular_red_sandstone", 3, hardnessMultiplier * 20.0f, resistanceMultiplier * 5.0f, 0),
+        NODULAR_SANDSTONE("nodular_sandstone", 4, hardnessMultiplier * 20.0f, resistanceMultiplier * 5.0f, 0),
+        NODULAR_DOLOMITE("nodular_dolomite", 5, hardnessMultiplier * 20.0f, resistanceMultiplier * 5.0f, 0);
+
+
+        private String name;
+        private int id;
+        private float hardness;
+        private float resistance;
+        private int harvestLevel;
+
+
+        private SpecialRockChert(String name, int id, float hardness, float resistance, int harvestLevel)
+        {
+            this.name = name;
+            this.id = id;
+            this.hardness = hardness;
+            this.resistance = resistance;
+            this.harvestLevel = harvestLevel;
+        }
+
+        @Override
+        public String getName()
+        {
+            return name;
+        }
+
+        @Override
+        public String toString()
+        {
+            return getName();
+        }
+
+        public int getID()
+        {
+            return id;
+        }
+
+        @Override
+        public float getHardness()
+        {
+            return hardness;
+        }
+
+        @Override
+        public float getResistance()
+        {
+            return resistance;
+        }
+
+        @Override
+        public int getHarvestLevel()
+        {
+            return harvestLevel;
+        }
+
+        @Override
+        public String getHarvestTool()
+        {
+            return "pickaxe";
+        }
+
+        @Override
+        public int getLightValue() {
+            return 0;
+        }
+    }
+
+
+
+
+
+    public enum SpecialRockItemTypes implements IStringSerializable, IBlockMetaEnum
+    {
+        FLINT("flint", 0),
+        CHERT("chert", 1);
+
+
+        private String name;
+        private int id;
+
+
+        private SpecialRockItemTypes(String name, int id)
+        {
+            this.name = name;
+            this.id = id;
+        }
+
+        @Override
+        public String getName()
+        {
+            return name;
+        }
+
+        @Override
+        public String toString()
+        {
+            return getName();
+        }
+
+        public int getID()
+        {
+            return id;
+        }
+
+        @Override
+        public int getHarvestLevel() { return 0; }
+        @Override
+        public String getHarvestTool() { return null; }
+        @Override
+        public float getHardness() { return 0; }
+        @Override
+        public float getResistance() { return 0; }
+        @Override
+        public int getLightValue() { return 0; }
+    }
+
+
+
+
+
+    public enum SpecialRockItemShard implements IStringSerializable, IBlockMetaEnum
+    {
+        FLINT("flint", 0),
+        CHERT("chert", 1),
+        OBSIDIAN("obsidian", 2);
+
+
+        private String name;
+        private int id;
+
+
+        private SpecialRockItemShard(String name, int id)
+        {
+            this.name = name;
+            this.id = id;
+        }
+
+        @Override
+        public String getName()
+        {
+            return name;
+        }
+
+        @Override
+        public String toString()
+        {
+            return getName();
+        }
+
+        public int getID()
+        {
+            return id;
+        }
+
+        @Override
+        public int getHarvestLevel() { return 0; }
+        @Override
+        public String getHarvestTool() { return null; }
+        @Override
+        public float getHardness() { return 0; }
+        @Override
+        public float getResistance() { return 0; }
+        @Override
+        public int getLightValue() { return 0; }
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    public enum MineralsCoal implements IStringSerializable, IBlockMetaEnum
+    {
+        LIGNITE("lignite", 0, hardnessMultiplier * 10.0f, resistanceMultiplier * 5.0f, 0),
+        SUB_BITUMINOUS("sub_bituminous", 1, hardnessMultiplier * 15.0f, resistanceMultiplier * 5.0f, 0),
+        BITUMINOUS("bituminous", 2, hardnessMultiplier * 20.0f, resistanceMultiplier * 5.0f, 0),
+        ANTHRACITE("anthracite", 3, hardnessMultiplier * 25.0f, resistanceMultiplier * 5.0f, 0);
+
+
+        private String name;
+        private int id;
+        private float hardness;
+        private float resistance;
+        private int harvestLevel;
+
+
+        private MineralsCoal(String name, int id, float hardness, float resistance, int harvestLevel)
+        {
+            this.name = name;
+            this.id = id;
+            this.hardness = hardness;
+            this.resistance = resistance;
+            this.harvestLevel = harvestLevel;
+        }
+
+        @Override
+        public String getName()
+        {
+            return name;
+        }
+
+        @Override
+        public String toString()
+        {
+            return getName();
+        }
+
+        public int getID()
+        {
+            return id;
+        }
+
+        @Override
+        public float getHardness()
+        {
+            return hardness;
+        }
+
+        @Override
+        public float getResistance()
+        {
+            return resistance;
+        }
+
+        @Override
+        public int getHarvestLevel()
+        {
+            return harvestLevel;
+        }
+
+        @Override
+        public String getHarvestTool()
+        {
+            return "pickaxe";
+        }
+
+        @Override
+        public int getLightValue() {
+            return 0;
+        }
+    }
+
+
+
+    public enum MineralsBasaltic implements IStringSerializable, IBlockMetaEnum
+    {
+        CUPRIFEROUS_BASALT("cupriferous_basalt", 0, hardnessMultiplier * 50.0f, resistanceMultiplier * 5.0f, 2),
+        CUPRIFEROUS_AMYGDALOIDAL_BASALT("cupriferous_amygdaloidal_basalt", 1, hardnessMultiplier * 50.0f, resistanceMultiplier * 5.0f, 2);
+
+
+        private String name;
+        private int id;
+        private float hardness;
+        private float resistance;
+        private int harvestLevel;
+
+
+        private MineralsBasaltic(String name, int id, float hardness, float resistance, int harvestLevel)
+        {
+            this.name = name;
+            this.id = id;
+            this.hardness = hardness;
+            this.resistance = resistance;
+            this.harvestLevel = harvestLevel;
+        }
+
+        @Override
+        public String getName()
+        {
+            return name;
+        }
+
+        @Override
+        public String toString()
+        {
+            return getName();
+        }
+
+        public int getID()
+        {
+            return id;
+        }
+
+        @Override
+        public float getHardness()
+        {
+            return hardness;
+        }
+
+        @Override
+        public float getResistance()
+        {
+            return resistance;
+        }
+
+        @Override
+        public int getHarvestLevel()
+        {
+            return harvestLevel;
+        }
+
+        @Override
+        public String getHarvestTool()
+        {
+            return "pickaxe";
+        }
+
+        @Override
+        public int getLightValue() {
+            return 0;
+        }
+    }
+
+
+
+    public enum MineralsLoose implements IStringSerializable, IBlockMetaEnum
+    {
+        GRAVEL_CASSITERITE("gravel_cassiterite", 0, 0.6f, 0.6f, -1),
+        GRAVEL_GOLD("gravel_gold", 1, 0.6f, 0.6f, -1),
+        GRAVEL_PYRITE("gravel_pyrite", 2, 0.6f, 0.6f, -1),
+        SAND_MAGNETITE("sand_magnetite", 3, 0.6f, 0.6f, -1);
+
+
+        private String name;
+        private int id;
+        private float hardness;
+        private float resistance;
+        private int harvestLevel;
+
+
+        private MineralsLoose(String name, int id, float hardness, float resistance, int harvestLevel)
+        {
+            this.name = name;
+            this.id = id;
+            this.hardness = hardness;
+            this.resistance = resistance;
+            this.harvestLevel = harvestLevel;
+        }
+
+        @Override
+        public String getName()
+        {
+            return name;
+        }
+
+        @Override
+        public String toString()
+        {
+            return getName();
+        }
+
+        public int getID()
+        {
+            return id;
+        }
+
+        @Override
+        public float getHardness()
+        {
+            return hardness;
+        }
+
+        @Override
+        public float getResistance()
+        {
+            return resistance;
+        }
+
+        @Override
+        public int getHarvestLevel()
+        {
+            return harvestLevel;
+        }
+
+        @Override
+        public String getHarvestTool()
+        {
+            return "shovel";
+        }
+
+        @Override
+        public int getLightValue() {
+            return 0;
+        }
+    }
+
+
+
+    public enum MineralsCarbonatehosted implements IStringSerializable, IBlockMetaEnum
+    {
+        MALACHITE("malachite", 0, hardnessMultiplier * 20.0f, resistanceMultiplier * 5.0f, 0),
+        MALACHITE_POOR("malachite_poor", 1, hardnessMultiplier * 20.0f, resistanceMultiplier * 5.0f, 0),
+        GALENA_LIMESTONE("galena_limestone", 2, hardnessMultiplier * 20.0f, resistanceMultiplier * 5.0f, 0),
+        GALENA_LIMESTONE_POOR("galena_limestone_poor", 3, hardnessMultiplier * 20.0f, resistanceMultiplier * 5.0f, 0),
+        GALENA_MARLSTONE("galena_marlstone", 4, hardnessMultiplier * 20.0f, resistanceMultiplier * 5.0f, 0),
+        GALENA_MARLSTONE_POOR("galena_marlstone_poor", 5, hardnessMultiplier * 20.0f, resistanceMultiplier * 5.0f, 0),
+        GALENA_DOLOMITE("galena_dolomite", 6, hardnessMultiplier * 20.0f, resistanceMultiplier * 5.0f, 0),
+        GALENA_DOLOMITE_POOR("galena_dolomite_poor", 7, hardnessMultiplier * 20.0f, resistanceMultiplier * 5.0f, 0),
+        MAGNETITE_SKARN("magnetite_skarn", 8, hardnessMultiplier * 20.0f, resistanceMultiplier * 5.0f, 0);
+
+
+        private String name;
+        private int id;
+        private float hardness;
+        private float resistance;
+        private int harvestLevel;
+
+
+        private MineralsCarbonatehosted(String name, int id, float hardness, float resistance, int harvestLevel)
+        {
+            this.name = name;
+            this.id = id;
+            this.hardness = hardness;
+            this.resistance = resistance;
+            this.harvestLevel = harvestLevel;
+        }
+
+        @Override
+        public String getName()
+        {
+            return name;
+        }
+
+        @Override
+        public String toString()
+        {
+            return getName();
+        }
+
+        public int getID()
+        {
+            return id;
+        }
+
+        @Override
+        public float getHardness()
+        {
+            return hardness;
+        }
+
+        @Override
+        public float getResistance()
+        {
+            return resistance;
+        }
+
+        @Override
+        public int getHarvestLevel()
+        {
+            return harvestLevel;
+        }
+
+        @Override
+        public String getHarvestTool()
+        {
+            return "pickaxe";
+        }
+
+        @Override
+        public int getLightValue() {
+            return 0;
+        }
+    }
+
+
+
+    public enum MineralsMuddy implements IStringSerializable, IBlockMetaEnum
+    {
+        PEAT("peat", 0, 3.0f, 0.5f, -1),
+        BOG_IRON_MUD("bog_iron_mud", 1, 3.0f, 0.5f, -1);
+
+
+        private String name;
+        private int id;
+        private float hardness;
+        private float resistance;
+        private int harvestLevel;
+
+
+        private MineralsMuddy(String name, int id, float hardness, float resistance, int harvestLevel)
+        {
+            this.name = name;
+            this.id = id;
+            this.hardness = hardness;
+            this.resistance = resistance;
+            this.harvestLevel = harvestLevel;
+        }
+
+        @Override
+        public String getName()
+        {
+            return name;
+        }
+
+        @Override
+        public String toString()
+        {
+            return getName();
+        }
+
+        public int getID()
+        {
+            return id;
+        }
+
+        @Override
+        public float getHardness()
+        {
+            return hardness;
+        }
+
+        @Override
+        public float getResistance()
+        {
+            return resistance;
+        }
+
+        @Override
+        public int getHarvestLevel()
+        {
+            return harvestLevel;
+        }
+
+        //@Override
+        //public String getHarvestTool()
+        //{
+        //    return "shovel";
+        //}
+        @Override
+        public String getHarvestTool()
+        {
+            return null;
+        }
+
+        @Override
+        public int getLightValue() {
+            return 0;
+        }
+    }
+
+
+
+    public enum MineralsPile implements IStringSerializable, IBlockMetaEnum
+    {
+        METEORIC_IRON_SMALL("meteoric_iron_small", 0, 1.0f, 0.25f, -1, new AxisAlignedBB(4.0 / 16.0, 0.0 / 16.0, 4.0 / 16.0, 12.0 / 16.0, 6.0 / 16.0, 12.0 / 16.0), true),
+        METEORIC_IRON("meteoric_iron", 1, 2.0f, 0.25f, -1, new AxisAlignedBB(4.0 / 16.0, 0.0 / 16.0, 4.0 / 16.0, 12.0 / 16.0, 8.0 / 16.0, 12.0 / 16.0), true),
+        METEORIC_IRON_PRISTINE("meteoric_iron_pristine", 2, 1.0f, 0.25f, -1, new AxisAlignedBB(4.0 / 16.0, 0.0 / 16.0, 4.0 / 16.0, 12.0 / 16.0, 6.0 / 16.0, 12.0 / 16.0), true),
+
+        NATIVE_COPPER("native_copper", 3, 0.5f, 0.25f, -1, new AxisAlignedBB(4.0 / 16.0, 0.0 / 16.0, 4.0 / 16.0, 12.0 / 16.0, 2.0 / 16.0, 12.0 / 16.0), false),
+        NATIVE_COPPER_LARGE("native_copper_large", 4, 1.0f, 0.25f, -1, new AxisAlignedBB(4.0 / 16.0, 0.0 / 16.0, 4.0 / 16.0, 12.0 / 16.0, 3.0 / 16.0, 12.0 / 16.0), false),
+        NATIVE_COPPER_BOULDER("native_copper_boulder", 5, 5.0f, 0.25f, -1, new AxisAlignedBB(4.0 / 16.0, 0.0 / 16.0, 4.0 / 16.0, 12.0 / 16.0, 8.0 / 16.0, 12.0 / 16.0), true);
+
+
+        private String name;
+        private int id;
+        private float hardness;
+        private float resistance;
+        private int harvestLevel;
+        private AxisAlignedBB AABB;
+        private boolean playerCollision;
+
+
+        private MineralsPile(String name, int id, float hardness, float resistance, int harvestLevel, AxisAlignedBB AABB, boolean playerCollision)
+        {
+            this.name = name;
+            this.id = id;
+            this.hardness = hardness;
+            this.resistance = resistance;
+            this.harvestLevel = harvestLevel;
+            this.AABB = AABB;
+            this.playerCollision = playerCollision;
+        }
+
+        @Override
+        public String getName()
+        {
+            return name;
+        }
+
+        @Override
+        public String toString()
+        {
+            return getName();
+        }
+
+        public int getID()
+        {
+            return id;
+        }
+
+        @Override
+        public float getHardness()
+        {
+            return hardness;
+        }
+
+        @Override
+        public float getResistance()
+        {
+            return resistance;
+        }
+
+        @Override
+        public int getHarvestLevel()
+        {
+            return harvestLevel;
+        }
+
+        @Override
+        public String getHarvestTool()
+        {
+            return "pickaxe";
+        }
+
+        public AxisAlignedBB getAABB()
+        {
+            return AABB;
+        }
+
+        public boolean getPlayerCollision()
+        {
+            return playerCollision;
+        }
+
+        @Override
+        public int getLightValue() {
+            return 0;
+        }
+    }
+
+
+
+    public enum MineralsUnconsolidated implements IStringSerializable, IBlockMetaEnum
+    {
+        BOG_IRON("bog_iron", 0, hardnessMultiplier * 10.0f, resistanceMultiplier * 2.0f, 0),
+        LIMONITE("limonite", 1, hardnessMultiplier * 10.0f, resistanceMultiplier * 2.0f, 0),
+        BAUXITE("bauxite", 2, hardnessMultiplier * 10.0f, resistanceMultiplier * 2.0f, 0),
+        GARNIERITE("garnierite", 3, hardnessMultiplier * 10.0f, resistanceMultiplier * 2.0f, 0);
+
+
+        private String name;
+        private int id;
+        private float hardness;
+        private float resistance;
+        private int harvestLevel;
+
+
+        private MineralsUnconsolidated(String name, int id, float hardness, float resistance, int harvestLevel)
+        {
+            this.name = name;
+            this.id = id;
+            this.hardness = hardness;
+            this.resistance = resistance;
+            this.harvestLevel = harvestLevel;
+        }
+
+        @Override
+        public String getName()
+        {
+            return name;
+        }
+
+        @Override
+        public String toString()
+        {
+            return getName();
+        }
+
+        public int getID()
+        {
+            return id;
+        }
+
+        @Override
+        public float getHardness()
+        {
+            return hardness;
+        }
+
+        @Override
+        public float getResistance()
+        {
+            return resistance;
+        }
+
+        @Override
+        public int getHarvestLevel()
+        {
+            return harvestLevel;
+        }
+
+        @Override
+        public String getHarvestTool()
+        {
+            return "pickaxe";
+        }
+
+        @Override
+        public int getLightValue() {
+            return 0;
+        }
+    }
+
+
+
+    /*public enum MineralsSedimentary implements IStringSerializable, IBlockMetaEnum
+    {
+        MALACHITE_POOR("malachite_poor", 0, hardnessMultiplier * 20.0f, resistanceMultiplier * 5.0f, 0),
+        GALENA_LIMESTONE("galena_limestone", 1, hardnessMultiplier * 20.0f, resistanceMultiplier * 5.0f, 0),
+        GALENA_LIMESTONE_POOR("galena_limestone_poor", 2, hardnessMultiplier * 20.0f, resistanceMultiplier * 5.0f, 0),
+        GALENA_MARLSTONE("galena_marlstone", 3, hardnessMultiplier * 20.0f, resistanceMultiplier * 5.0f, 0),
+        GALENA_MARLSTONE_POOR("galena_marlstone_poor", 4, hardnessMultiplier * 20.0f, resistanceMultiplier * 5.0f, 0),
+        GALENA_DOLOMITE("galena_dolomite", 5, hardnessMultiplier * 20.0f, resistanceMultiplier * 5.0f, 0),
+        GALENA_DOLOMITE_POOR("galena_dolomite_poor", 6, hardnessMultiplier * 20.0f, resistanceMultiplier * 5.0f, 0);
+
+
+        private String name;
+        private int id;
+        private float hardness;
+        private float resistance;
+        private int harvestLevel;
+
+
+        private MineralsSedimentary(String name, int id, float hardness, float resistance, int harvestLevel)
+        {
+            this.name = name;
+            this.id = id;
+            this.hardness = hardness;
+            this.resistance = resistance;
+            this.harvestLevel = harvestLevel;
+        }
+
+        @Override
+        public String getName()
+        {
+            return name;
+        }
+
+        @Override
+        public String toString()
+        {
+            return getName();
+        }
+
+        public int getID()
+        {
+            return id;
+        }
+
+        @Override
+        public float getHardness()
+        {
+            return hardness;
+        }
+
+        @Override
+        public float getResistance()
+        {
+            return resistance;
+        }
+
+        @Override
+        public int getHarvestLevel()
+        {
+            return harvestLevel;
+        }
+
+        @Override
+        public String getHarvestTool()
+        {
+            return "pickaxe";
+        }
+
+        @Override
+        public int getLightValue() {
+            return 0;
+        }
+    }*/
 }

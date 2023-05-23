@@ -1,0 +1,77 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "geology:item/rock_item",
+    "transform": "forge:default-item"
+  },
+  "variants": {
+    "type": {
+      "slate": {
+        "textures": {
+          "0": "geology:blocks/rocks/rock_metasedimentary/slate_01",
+          "particle": "geology:blocks/rocks/rock_metasedimentary/slate_01"
+        }
+      },
+      "phyllite": {
+        "textures": {
+          "0": "geology:blocks/rocks/rock_metasedimentary/phyllite_01",
+          "particle": "geology:blocks/rocks/rock_metasedimentary/phyllite_01"
+        }
+      },
+      "schist": {
+        "textures": {
+          "0": "geology:blocks/rocks/rock_metasedimentary/schist_01",
+          "particle": "geology:blocks/rocks/rock_metasedimentary/schist_01"
+        }
+      },
+      "paragneiss": {
+        "textures": {
+          "0": "geology:blocks/rocks/rock_metasedimentary/paragneiss_01",
+          "particle": "geology:blocks/rocks/rock_metasedimentary/paragneiss_01"
+        }
+      },
+      "migmatite": {
+        "textures": {
+          "0": "geology:blocks/rocks/rock_metasedimentary/migmatite_01",
+          "particle": "geology:blocks/rocks/rock_metasedimentary/migmatite_01"
+        }
+      },
+      "quartzite": {
+        "textures": {
+          "0": "geology:blocks/rocks/rock_metasedimentary/quartzite_01",
+          "particle": "geology:blocks/rocks/rock_metasedimentary/quartzite_01"
+        }
+      },
+      "metaconglomerate": {
+        "textures": {
+          "0": "geology:blocks/rocks/rock_metasedimentary/metaconglomerate_01",
+          "particle": "geology:blocks/rocks/rock_metasedimentary/metaconglomerate_01"
+        }
+      },
+      "marble": {
+        "textures": {
+          "0": "geology:blocks/rocks/rock_metasedimentary/marble_01",
+          "particle": "geology:blocks/rocks/rock_metasedimentary/marble_01"
+        }
+      },
+      "marble_black": {
+        "textures": {
+          "0": "geology:blocks/rocks/rock_metasedimentary/marble_black_01",
+          "particle": "geology:blocks/rocks/rock_metasedimentary/marble_black_01"
+        }
+      },
+      "marble_pink": {
+        "textures": {
+          "0": "geology:blocks/rocks/rock_metasedimentary/marble_pink_01",
+          "particle": "geology:blocks/rocks/rock_metasedimentary/marble_pink_01"
+        }
+      },
+      "marble_green": {
+        "textures": {
+          "0": "geology:blocks/rocks/rock_metasedimentary/marble_green_01",
+          "particle": "geology:blocks/rocks/rock_metasedimentary/marble_green_01"
+        }
+      }
+    }
+  }
+}

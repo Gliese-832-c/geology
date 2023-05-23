@@ -1,0 +1,27 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "geology:branch/branch_1"
+  },
+  "variants": {
+    "normal": [
+      { "model": "geology:branch/branch_1", "weight": 50, "y": 0 },
+      { "model": "geology:branch/branch_2", "weight": 50, "y": 0 },
+      { "model": "geology:branch/branch_3", "weight": 50, "y": 0 },
+      { "model": "geology:branch/branch_4", "weight": 50, "y": 0 },
+      { "model": "geology:branch/branch_1", "weight": 50, "y": 90 },
+      { "model": "geology:branch/branch_2", "weight": 50, "y": 90 },
+      { "model": "geology:branch/branch_3", "weight": 50, "y": 90 },
+      { "model": "geology:branch/branch_4", "weight": 50, "y": 90 },
+      { "model": "geology:branch/branch_1", "weight": 50, "y": 180 },
+      { "model": "geology:branch/branch_2", "weight": 50, "y": 180 },
+      { "model": "geology:branch/branch_3", "weight": 50, "y": 180 },
+      { "model": "geology:branch/branch_4", "weight": 50, "y": 180 },
+      { "model": "geology:branch/branch_1", "weight": 50, "y": 270 },
+      { "model": "geology:branch/branch_2", "weight": 50, "y": 270 },
+      { "model": "geology:branch/branch_3", "weight": 50, "y": 270 },
+      { "model": "geology:branch/branch_4", "weight": 50, "y": 270 }
+    ],
+    "inventory": [{}]
+  }
+}

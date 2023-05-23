@@ -1,0 +1,9 @@
+{
+    "parent": "geology:block/minerals/basaltic/_basaltic",
+    "textures": {
+        "topbottom": "geology:blocks/minerals/basaltic/cupriferous_basalt_02",
+        "northsouth": "geology:blocks/minerals/basaltic/cupriferous_basalt_03",
+        "westeast": "geology:blocks/minerals/basaltic/cupriferous_basalt_04",
+        "particle": "geology:blocks/minerals/basaltic/cupriferous_basalt_02"
+    }
+}

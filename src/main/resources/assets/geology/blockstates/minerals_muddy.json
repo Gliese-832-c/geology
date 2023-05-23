@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "type=peat": [
+      { "model": "geology:minerals/muddy/peat_01", "weight": 50 }
+    ],
+    "type=bog_iron_mud": [
+      { "model": "geology:minerals/muddy/bog_iron_mud_01", "weight": 50 }
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "geology:item/rock_item",
+    "transform": "forge:default-item"
+  },
+  "variants": {
+    "type": {
+      "granite": {
+        "textures": {
+          "0": "geology:blocks/rocks/rock_plutonic/granite_01",
+          "particle": "geology:blocks/rocks/rock_plutonic/granite_01"
+        }
+      },
+      "granodiorite": {
+        "textures": {
+          "0": "geology:blocks/rocks/rock_plutonic/granodiorite_01",
+          "particle": "geology:blocks/rocks/rock_plutonic/granodiorite_01"
+        }
+      },
+      "diorite": {
+        "textures": {
+          "0": "geology:blocks/rocks/rock_plutonic/diorite_01",
+          "particle": "geology:blocks/rocks/rock_plutonic/diorite_01"
+        }
+      },
+      "gabbro": {
+        "textures": {
+          "0": "geology:blocks/rocks/rock_plutonic/gabbro_01",
+          "particle": "geology:blocks/rocks/rock_plutonic/gabbro_01"
+        }
+      },
+      "peridotite": {
+        "textures": {
+          "0": "geology:blocks/rocks/rock_plutonic/peridotite_01",
+          "particle": "geology:blocks/rocks/rock_plutonic/peridotite_01"
+        }
+      },
+      "anorthosite": {
+        "textures": {
+          "0": "geology:blocks/rocks/rock_plutonic/anorthosite_01",
+          "particle": "geology:blocks/rocks/rock_plutonic/anorthosite_01"
+        }
+      },
+      "diabase": {
+        "textures": {
+          "0": "geology:blocks/rocks/rock_plutonic/diabase_01",
+          "particle": "geology:blocks/rocks/rock_plutonic/diabase_01"
+        }
+      },
+      "norite": {
+        "textures": {
+          "0": "geology:blocks/rocks/rock_plutonic/norite_01",
+          "particle": "geology:blocks/rocks/rock_plutonic/norite_01"
+        }
+      },
+      "troctolite": {
+        "textures": {
+          "0": "geology:blocks/rocks/rock_plutonic/troctolite_01",
+          "particle": "geology:blocks/rocks/rock_plutonic/troctolite_01"
+        }
+      },
+      "dunite": {
+        "textures": {
+          "0": "geology:blocks/rocks/rock_plutonic/dunite_01",
+          "particle": "geology:blocks/rocks/rock_plutonic/dunite_01"
+        }
+      },
+      "kimberlite": {
+        "textures": {
+          "0": "geology:blocks/rocks/rock_plutonic/kimberlite_01",
+          "particle": "geology:blocks/rocks/rock_plutonic/kimberlitee_01"
+        }
+      }
+    }
+  }
+}

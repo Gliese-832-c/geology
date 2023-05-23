@@ -1,0 +1,41 @@
+{
+  "variants": {
+    "type=meteoric_iron_small": [
+      { "model": "geology:minerals/pile/meteoric_iron_small_01", "weight": 50 },
+      { "model": "geology:minerals/pile/meteoric_iron_small_01", "weight": 50, "y": 90 },
+      { "model": "geology:minerals/pile/meteoric_iron_small_01", "weight": 50, "y": 180 },
+      { "model": "geology:minerals/pile/meteoric_iron_small_01", "weight": 50, "y": 270 }
+    ],
+    "type=meteoric_iron": [
+      { "model": "geology:minerals/pile/meteoric_iron_01", "weight": 50 },
+      { "model": "geology:minerals/pile/meteoric_iron_01", "weight": 50, "y": 90 },
+      { "model": "geology:minerals/pile/meteoric_iron_01", "weight": 50, "y": 180 },
+      { "model": "geology:minerals/pile/meteoric_iron_01", "weight": 50, "y": 270 }
+    ],
+    "type=meteoric_iron_pristine": [
+      { "model": "geology:minerals/pile/meteoric_iron_pristine_01", "weight": 50 },
+      { "model": "geology:minerals/pile/meteoric_iron_pristine_01", "weight": 50, "y": 90 },
+      { "model": "geology:minerals/pile/meteoric_iron_pristine_01", "weight": 50, "y": 180 },
+      { "model": "geology:minerals/pile/meteoric_iron_pristine_01", "weight": 50, "y": 270 }
+    ],
+
+    "type=native_copper": [
+      { "model": "geology:minerals/pile/native_copper_01", "weight": 50 },
+      { "model": "geology:minerals/pile/native_copper_01", "weight": 50, "y": 90 },
+      { "model": "geology:minerals/pile/native_copper_01", "weight": 50, "y": 180 },
+      { "model": "geology:minerals/pile/native_copper_01", "weight": 50, "y": 270 }
+    ],
+    "type=native_copper_large": [
+      { "model": "geology:minerals/pile/native_copper_large_01", "weight": 50 },
+      { "model": "geology:minerals/pile/native_copper_large_01", "weight": 50, "y": 90 },
+      { "model": "geology:minerals/pile/native_copper_large_01", "weight": 50, "y": 180 },
+      { "model": "geology:minerals/pile/native_copper_large_01", "weight": 50, "y": 270 }
+    ],
+    "type=native_copper_boulder": [
+      { "model": "geology:minerals/pile/native_copper_boulder_01", "weight": 50 },
+      { "model": "geology:minerals/pile/native_copper_boulder_01", "weight": 50, "y": 90 },
+      { "model": "geology:minerals/pile/native_copper_boulder_01", "weight": 50, "y": 180 },
+      { "model": "geology:minerals/pile/native_copper_boulder_01", "weight": 50, "y": 270 }
+    ]
+  }
+}

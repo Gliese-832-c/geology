@@ -1,0 +1,7 @@
+{
+    "parent": "geology:block/rocks/rocks_4",
+    "textures": {
+        "0": "geology:blocks/rocks/special_rocks/chert/chert_04",
+        "particle": "geology:blocks/rocks/special_rocks/chert/chert_01"
+    }
+}

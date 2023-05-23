@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "type=cupriferous_basalt": [
+      { "model": "geology:minerals/basaltic/cupriferous_basalt_01", "weight": 50 },
+      { "model": "geology:minerals/basaltic/cupriferous_basalt_02", "weight": 50 },
+      { "model": "geology:minerals/basaltic/cupriferous_basalt_03", "weight": 50 },
+      { "model": "geology:minerals/basaltic/cupriferous_basalt_04", "weight": 50 }
+    ],
+    "type=cupriferous_amygdaloidal_basalt": [
+      { "model": "geology:minerals/basaltic/cupriferous_amygdaloidal_basalt_01", "weight": 50 },
+      { "model": "geology:minerals/basaltic/cupriferous_amygdaloidal_basalt_02", "weight": 50 },
+      { "model": "geology:minerals/basaltic/cupriferous_amygdaloidal_basalt_03", "weight": 50 },
+      { "model": "geology:minerals/basaltic/cupriferous_amygdaloidal_basalt_04", "weight": 50 }
+    ]
+  }
+}

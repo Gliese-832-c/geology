@@ -1,0 +1,7 @@
+{
+    "parent": "geology:block/minerals/pile/pile_tiny",
+    "textures": {
+        "0": "geology:blocks/minerals/pile/native_copper",
+        "particle": "geology:blocks/minerals/pile/native_copper"
+    }
+}

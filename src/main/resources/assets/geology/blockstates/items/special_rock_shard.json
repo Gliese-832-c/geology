@@ -1,0 +1,29 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "geology:item/rock_shard",
+    "transform": "forge:default-item"
+  },
+  "variants": {
+    "type": {
+      "flint": {
+        "textures": {
+          "0": "geology:blocks/rocks/special_rocks/flint/flint_01",
+          "particle": "geology:blocks/rocks/special_rocks/flint/flint_01"
+        }
+      },
+      "chert": {
+        "textures": {
+          "0": "geology:blocks/rocks/special_rocks/chert/chert_01",
+          "particle": "geology:blocks/rocks/special_rocks/chert/chert_01"
+        }
+      },
+      "obsidian": {
+        "textures": {
+          "0": "geology:blocks/rocks/rock_volcanic/obsidian_01",
+          "particle": "geology:blocks/rocks/rock_volcanic/obsidian_01"
+        }
+      }
+    }
+  }
+}

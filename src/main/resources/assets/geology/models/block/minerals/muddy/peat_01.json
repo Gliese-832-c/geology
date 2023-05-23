@@ -1,0 +1,9 @@
+{
+    "parent": "geology:block/minerals/muddy/_muddy",
+    "textures": {
+        "topbottom": "geology:blocks/minerals/muddy/peat_01",
+        "northsouth": "geology:blocks/minerals/muddy/peat_01",
+        "westeast": "geology:blocks/minerals/muddy/peat_01",
+        "particle": "geology:blocks/minerals/muddy/peat_01"
+    }
+}

@@ -1,0 +1,59 @@
+{
+  "variants": {
+    "type=malachite": [
+      { "model": "geology:minerals/carbonatehosted/malachite_01", "weight": 50 },
+      { "model": "geology:minerals/carbonatehosted/malachite_02", "weight": 50 },
+      { "model": "geology:minerals/carbonatehosted/malachite_03", "weight": 50 },
+      { "model": "geology:minerals/carbonatehosted/malachite_04", "weight": 50 }
+    ],
+    "type=malachite_poor": [
+      { "model": "geology:minerals/carbonatehosted/malachite_poor_01", "weight": 50 },
+      { "model": "geology:minerals/carbonatehosted/malachite_poor_02", "weight": 50 },
+      { "model": "geology:minerals/carbonatehosted/malachite_poor_03", "weight": 50 },
+      { "model": "geology:minerals/carbonatehosted/malachite_poor_04", "weight": 50 }
+    ],
+
+    "type=galena_limestone": [
+      { "model": "geology:minerals/carbonatehosted/galena_limestone_01", "weight": 50 },
+      { "model": "geology:minerals/carbonatehosted/galena_limestone_02", "weight": 50 },
+      { "model": "geology:minerals/carbonatehosted/galena_limestone_03", "weight": 50 },
+      { "model": "geology:minerals/carbonatehosted/galena_limestone_04", "weight": 50 }
+    ],
+    "type=galena_limestone_poor": [
+      { "model": "geology:minerals/carbonatehosted/galena_limestone_poor_01", "weight": 50 },
+      { "model": "geology:minerals/carbonatehosted/galena_limestone_poor_02", "weight": 50 },
+      { "model": "geology:minerals/carbonatehosted/galena_limestone_poor_03", "weight": 50 },
+      { "model": "geology:minerals/carbonatehosted/galena_limestone_poor_04", "weight": 50 }
+    ],
+    "type=galena_marlstone": [
+      { "model": "geology:minerals/carbonatehosted/galena_marlstone_01", "weight": 50 },
+      { "model": "geology:minerals/carbonatehosted/galena_marlstone_02", "weight": 50 },
+      { "model": "geology:minerals/carbonatehosted/galena_marlstone_03", "weight": 50 },
+      { "model": "geology:minerals/carbonatehosted/galena_marlstone_04", "weight": 50 }
+    ],
+    "type=galena_marlstone_poor": [
+      { "model": "geology:minerals/carbonatehosted/galena_marlstone_poor_01", "weight": 50 },
+      { "model": "geology:minerals/carbonatehosted/galena_marlstone_poor_02", "weight": 50 },
+      { "model": "geology:minerals/carbonatehosted/galena_marlstone_poor_03", "weight": 50 },
+      { "model": "geology:minerals/carbonatehosted/galena_marlstone_poor_04", "weight": 50 }
+    ],
+    "type=galena_dolomite": [
+      { "model": "geology:minerals/carbonatehosted/galena_dolomite_01", "weight": 50 },
+      { "model": "geology:minerals/carbonatehosted/galena_dolomite_02", "weight": 50 },
+      { "model": "geology:minerals/carbonatehosted/galena_dolomite_03", "weight": 50 },
+      { "model": "geology:minerals/carbonatehosted/galena_dolomite_04", "weight": 50 }
+    ],
+    "type=galena_dolomite_poor": [
+      { "model": "geology:minerals/carbonatehosted/galena_dolomite_poor_01", "weight": 50 },
+      { "model": "geology:minerals/carbonatehosted/galena_dolomite_poor_02", "weight": 50 },
+      { "model": "geology:minerals/carbonatehosted/galena_dolomite_poor_03", "weight": 50 },
+      { "model": "geology:minerals/carbonatehosted/galena_dolomite_poor_04", "weight": 50 }
+    ],
+    "type=magnetite_skarn": [
+      { "model": "geology:minerals/carbonatehosted/magnetite_skarn_01", "weight": 50 },
+      { "model": "geology:minerals/carbonatehosted/magnetite_skarn_02", "weight": 50 },
+      { "model": "geology:minerals/carbonatehosted/magnetite_skarn_03", "weight": 50 },
+      { "model": "geology:minerals/carbonatehosted/magnetite_skarn_04", "weight": 50 }
+    ]
+  }
+}

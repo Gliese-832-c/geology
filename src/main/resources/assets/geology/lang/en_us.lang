@@ -1,6 +1,7 @@
 itemGroup.geology.rocks=Geology Rocks
 itemGroup.geology.modified=Geology Rock Derivatives
-itemGroup.geology.ores=Geology Ores
+itemGroup.geology.ores=Geology Ores & Minerals
+itemGroup.geology.others=Geology Misc
 
 
 
@@ -75,8 +76,103 @@ tile.geology.rock_igneous_others.komatiitic_tuff.name=Komatiitic Tuff
 
 
 
+tile.geology.special_rock.flint.name=Flint
+tile.geology.special_rock.chert.name=Chert
+
+tile.geology.special_rock_flint.nodular_chalk.name=Nodular Flint in Chalk
+tile.geology.special_rock_flint.nodular_marlstone.name=Nodular Flint in Marlstone
+tile.geology.special_rock_flint.nodular_limestone.name=Nodular Flint in Limestone
+
+tile.geology.special_rock_chert.bedded.name=Bedded Chert
+tile.geology.special_rock_chert.nodular_limestone.name=Nodular Chert in Limestone
+tile.geology.special_rock_chert.nodular_shale.name=Nodular Chert in Shale
+tile.geology.special_rock_chert.nodular_red_sandstone.name=Nodular Chert in Red Sandstone
+tile.geology.special_rock_chert.nodular_sandstone.name=Nodular Chert in Sandstone
+tile.geology.special_rock_chert.nodular_dolomite.name=Nodular Chert in Dolomite
+
+
+
+
+
+tile.geology.minerals_basaltic.cupriferous_basalt.name=Cupriferous Basalt
+tile.geology.minerals_basaltic.cupriferous_amygdaloidal_basalt.name=Cupriferous Amygdaloidal Basalt
+
+tile.geology.minerals_carbonatehosted.malachite.name=Rich Malachite Ore
+tile.geology.minerals_carbonatehosted.malachite_poor.name=Malachite Ore
+tile.geology.minerals_carbonatehosted.galena_limestone.name=Rich Galena Ore
+tile.geology.minerals_carbonatehosted.galena_limestone_poor.name=Galena Ore
+tile.geology.minerals_carbonatehosted.galena_marlstone.name=Rich Galena Ore
+tile.geology.minerals_carbonatehosted.galena_marlstone_poor.name=Galena Ore
+tile.geology.minerals_carbonatehosted.galena_dolomite.name=Rich Galena Ore
+tile.geology.minerals_carbonatehosted.galena_dolomite_poor.name=Galena Ore
+tile.geology.minerals_carbonatehosted.magnetite_skarn.name=Hydrothermal Magnetite Ore
+
+tile.geology.minerals_coal.lignite.name=Lignite Coal
+tile.geology.minerals_coal.sub_bituminous.name=Sub-bituminous Coal
+tile.geology.minerals_coal.bituminous.name=Bituminous Coal
+tile.geology.minerals_coal.anthracite.name=Anthracite Coal
+
+tile.geology.minerals_loose.gravel_cassiterite.name=Cassiterite-Rich Gravel
+tile.geology.minerals_loose.gravel_gold.name=Gold-Rich Gravel
+tile.geology.minerals_loose.gravel_pyrite.name=Pyrite-Rich Gravel
+tile.geology.minerals_loose.sand_magnetite.name=Iron Sand
+
+tile.geology.minerals_muddy.peat.name=Peat
+tile.geology.minerals_muddy.bog_iron_mud.name=Iron-Rich Mud
+
+tile.geology.minerals_pile.meteoric_iron_small.name=Small Meteoric Iron Chunk
+tile.geology.minerals_pile.meteoric_iron.name=Meteoric Iron Chunk
+tile.geology.minerals_pile.meteoric_iron_pristine.name=Pristine Meteoric Iron Chunk
+tile.geology.minerals_pile.native_copper.name=Native Copper Nugget
+tile.geology.minerals_pile.native_copper_large.name=Native Copper Chunk
+tile.geology.minerals_pile.native_copper_boulder.name=Native Copper Boulder
+
+tile.geology.minerals_unconsolidated.bog_iron.name=Bog Iron
+tile.geology.minerals_unconsolidated.limonite.name=Limonite
+tile.geology.minerals_unconsolidated.bauxite.name=Bauxite
+tile.geology.minerals_unconsolidated.garnierite.name=Nickeliferous Laterite
+
+
+
+
+
+item.geology.special_rock_shard.flint.name=Flint
+item.geology.special_rock_shard.chert.name=Chert
+item.geology.special_rock_shard.obsidian.name=Obsidian
+
+
+
+item.geology.hoe_flint.name=Flint Hoe
+item.geology.hoe_chert.name=Chert Hoe
+item.geology.hoe_obsidian.name=Obsidian Hoe
+
+item.geology.axe_flint.name=Flint Hatchet
+item.geology.axe_chert.name=Chert Hatchet
+item.geology.axe_obsidian.name=Obsidian Hatchet
+
+item.geology.knife_flint.name=Flint Knife
+item.geology.knife_chert.name=Chert Knife
+item.geology.knife_obsidian.name=Obsidian Knife
+
+
+
+item.geology.hoe_nativecopper.name=Native Copper Hoe
+item.geology.axe_nativecopper.name=Native Copper Hatchet
+item.geology.knife_nativecopper.name=Native Copper Knife
+item.geology.pickaxe_nativecopper.name=Native Copper Pickaxe
+item.geology.chisel_nativecopper.name=Native Copper Chisel
+item.geology.hammer_nativecopper.name=Native Copper Hammer
+
+
+
 descriptor.geology.cracked=Cracked
 descriptor.geology.polished=Polished
 descriptor.geology.bricks=Bricks
 descriptor.geology.boulder=Boulder
 descriptor.geology.rocks=Rocks
+descriptor.geology.item_rock=Rock
+descriptor.geology.item_shard=Shard
+
+
+
+#tile.geology.branch.name=Branch

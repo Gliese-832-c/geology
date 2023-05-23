@@ -1,0 +1,65 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "geology:item/rock_item",
+    "transform": "forge:default-item"
+  },
+  "variants": {
+    "type": {
+      "rhyolite": {
+        "textures": {
+          "0": "geology:blocks/rocks/rock_volcanic/rhyolite_01",
+          "particle": "geology:blocks/rocks/rock_volcanic/rhyolite_01"
+        }
+      },
+      "dacite": {
+        "textures": {
+          "0": "geology:blocks/rocks/rock_volcanic/dacite_01",
+          "particle": "geology:blocks/rocks/rock_volcanic/dacite_01"
+        }
+      },
+      "andesite": {
+        "textures": {
+          "0": "geology:blocks/rocks/rock_volcanic/andesite_01",
+          "particle": "geology:blocks/rocks/rock_volcanic/andesite_01"
+        }
+      },
+      "basaltic_andesite": {
+        "textures": {
+          "0": "geology:blocks/rocks/rock_volcanic/basaltic_andesite_01",
+          "particle": "geology:blocks/rocks/rock_volcanic/basaltic_andesite_01"
+        }
+      },
+      "basalt": {
+        "textures": {
+          "0": "geology:blocks/rocks/rock_volcanic/basalt_01",
+          "particle": "geology:blocks/rocks/rock_volcanic/basalt_01"
+        }
+      },
+      "picrite": {
+        "textures": {
+          "0": "geology:blocks/rocks/rock_volcanic/picrite_01",
+          "particle": "geology:blocks/rocks/rock_volcanic/picrite_01"
+        }
+      },
+      "obsidian": {
+        "textures": {
+          "0": "geology:blocks/rocks/rock_volcanic/obsidian_01",
+          "particle": "geology:blocks/rocks/rock_volcanic/obsidian_01"
+        }
+      },
+      "amygdaloidal_basalt": {
+        "textures": {
+          "0": "geology:blocks/rocks/rock_volcanic/amygdaloidal_basalt_01",
+          "particle": "geology:blocks/rocks/rock_volcanic/amygdaloidal_basalt_01"
+        }
+      },
+      "komatiite": {
+        "textures": {
+          "0": "geology:blocks/rocks/rock_volcanic/komatiite_01",
+          "particle": "geology:blocks/rocks/rock_volcanic/komatiite_01"
+        }
+      }
+    }
+  }
+}

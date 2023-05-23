@@ -1,0 +1,9 @@
+{
+    "parent": "geology:block/minerals/coal/_coal",
+    "textures": {
+        "topbottom": "geology:blocks/minerals/coal/lignite_01",
+        "northsouth": "geology:blocks/minerals/coal/lignite_01",
+        "westeast": "geology:blocks/minerals/coal/lignite_01",
+        "particle": "geology:blocks/minerals/coal/lignite_01"
+    }
+}

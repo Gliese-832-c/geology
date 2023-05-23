@@ -1,0 +1,7 @@
+{
+    "parent": "geology:block/rocks/rocks_2",
+    "textures": {
+        "0": "geology:blocks/rocks/special_rocks/flint/flint_02",
+        "particle": "geology:blocks/rocks/special_rocks/flint/flint_03"
+    }
+}

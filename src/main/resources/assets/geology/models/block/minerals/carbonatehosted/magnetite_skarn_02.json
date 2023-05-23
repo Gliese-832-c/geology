@@ -1,0 +1,9 @@
+{
+    "parent": "geology:block/minerals/carbonatehosted/_carbonatehosted",
+    "textures": {
+        "topbottom": "geology:blocks/minerals/carbonatehosted/magnetite_skarn_02",
+        "northsouth": "geology:blocks/minerals/carbonatehosted/magnetite_skarn_03",
+        "westeast": "geology:blocks/minerals/carbonatehosted/magnetite_skarn_04",
+        "particle": "geology:blocks/minerals/carbonatehosted/magnetite_skarn_01"
+    }
+}

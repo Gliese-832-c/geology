@@ -1,0 +1,40 @@
+{
+	"variants": {
+		"type=flint": [
+			{ "model": "geology:rocks/special_rocks/flint/flint_rocks_01", "weight": 50 },
+			{ "model": "geology:rocks/special_rocks/flint/flint_rocks_01", "weight": 50, "y": 90 },
+			{ "model": "geology:rocks/special_rocks/flint/flint_rocks_01", "weight": 50, "y": 180 },
+			{ "model": "geology:rocks/special_rocks/flint/flint_rocks_01", "weight": 50, "y": 270 },
+			{ "model": "geology:rocks/special_rocks/flint/flint_rocks_02", "weight": 50 },
+			{ "model": "geology:rocks/special_rocks/flint/flint_rocks_02", "weight": 50, "y": 90 },
+			{ "model": "geology:rocks/special_rocks/flint/flint_rocks_02", "weight": 50, "y": 180 },
+			{ "model": "geology:rocks/special_rocks/flint/flint_rocks_02", "weight": 50, "y": 270 },
+			{ "model": "geology:rocks/special_rocks/flint/flint_rocks_03", "weight": 50 },
+			{ "model": "geology:rocks/special_rocks/flint/flint_rocks_03", "weight": 50, "y": 90 },
+			{ "model": "geology:rocks/special_rocks/flint/flint_rocks_03", "weight": 50, "y": 180 },
+			{ "model": "geology:rocks/special_rocks/flint/flint_rocks_03", "weight": 50, "y": 270 },
+			{ "model": "geology:rocks/special_rocks/flint/flint_rocks_04", "weight": 50 },
+			{ "model": "geology:rocks/special_rocks/flint/flint_rocks_04", "weight": 50, "y": 90 },
+			{ "model": "geology:rocks/special_rocks/flint/flint_rocks_04", "weight": 50, "y": 180 },
+			{ "model": "geology:rocks/special_rocks/flint/flint_rocks_04", "weight": 50, "y": 270 }
+		],
+		"type=chert": [
+			{ "model": "geology:rocks/special_rocks/chert/chert_rocks_01", "weight": 50 },
+			{ "model": "geology:rocks/special_rocks/chert/chert_rocks_01", "weight": 50, "y": 90 },
+			{ "model": "geology:rocks/special_rocks/chert/chert_rocks_01", "weight": 50, "y": 180 },
+			{ "model": "geology:rocks/special_rocks/chert/chert_rocks_01", "weight": 50, "y": 270 },
+			{ "model": "geology:rocks/special_rocks/chert/chert_rocks_02", "weight": 50 },
+			{ "model": "geology:rocks/special_rocks/chert/chert_rocks_02", "weight": 50, "y": 90 },
+			{ "model": "geology:rocks/special_rocks/chert/chert_rocks_02", "weight": 50, "y": 180 },
+			{ "model": "geology:rocks/special_rocks/chert/chert_rocks_02", "weight": 50, "y": 270 },
+			{ "model": "geology:rocks/special_rocks/chert/chert_rocks_03", "weight": 50 },
+			{ "model": "geology:rocks/special_rocks/chert/chert_rocks_03", "weight": 50, "y": 90 },
+			{ "model": "geology:rocks/special_rocks/chert/chert_rocks_03", "weight": 50, "y": 180 },
+			{ "model": "geology:rocks/special_rocks/chert/chert_rocks_03", "weight": 50, "y": 270 },
+			{ "model": "geology:rocks/special_rocks/chert/chert_rocks_04", "weight": 50 },
+			{ "model": "geology:rocks/special_rocks/chert/chert_rocks_04", "weight": 50, "y": 90 },
+			{ "model": "geology:rocks/special_rocks/chert/chert_rocks_04", "weight": 50, "y": 180 },
+			{ "model": "geology:rocks/special_rocks/chert/chert_rocks_04", "weight": 50, "y": 270 }
+		]
+	}
+}

@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "type=bog_iron": [
+      { "model": "geology:minerals/unconsolidated/bog_iron_01", "weight": 50 }
+    ],
+    "type=limonite": [
+      { "model": "geology:minerals/unconsolidated/limonite_01", "weight": 50 }
+    ],
+    "type=bauxite": [
+      { "model": "geology:minerals/unconsolidated/bauxite_01", "weight": 50 }
+    ],
+    "type=garnierite": [
+      { "model": "geology:minerals/unconsolidated/garnierite_01", "weight": 50 }
+    ]
+  }
+}

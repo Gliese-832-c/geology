@@ -1,0 +1,9 @@
+{
+    "parent": "geology:block/minerals/unconsolidated/_unconsolidated",
+    "textures": {
+        "topbottom": "geology:blocks/minerals/unconsolidated/garnierite_01",
+        "northsouth": "geology:blocks/minerals/unconsolidated/garnierite_01",
+        "westeast": "geology:blocks/minerals/unconsolidated/garnierite_01",
+        "particle": "geology:blocks/minerals/unconsolidated/garnierite_01"
+    }
+}

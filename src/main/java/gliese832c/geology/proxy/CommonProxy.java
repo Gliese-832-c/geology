@@ -9,8 +9,10 @@ import java.util.Locale;
 //import lach_01298.qmd.item.QMDItems;
 //import lach_01298.qmd.recipes.QMDRecipes;
 import gliese832c.geology.block.GeologyBlocks;
+import gliese832c.geology.item.GeologyItems;
 import net.minecraft.block.Block;
 import net.minecraft.entity.player.EntityPlayer;
+import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLModIdMappingEvent;
 import net.minecraftforge.fml.common.event.FMLPostInitializationEvent;
@@ -21,20 +23,13 @@ public class CommonProxy
     public void preInit(FMLPreInitializationEvent preEvent)
     {
         GeologyBlocks.init();
-
-        /*QMDItems.init();
-        QMDArmour.init();
-        QMDFluids.init();*/
+        GeologyItems.init();
 
         GeologyBlocks.register();
-        /*QMDItems.register();
-        QMDArmour.register();
-        QMDFluids.register();
+        GeologyItems.register();
 
-        QMDOreDictionary.register();
-
+        /*QMDOreDictionary.register();
         QMDPacketHandler.registerMessages(QMD.MOD_ID);
-
         MinecraftForge.EVENT_BUS.register(new QMDRecipes());*/
     }
 

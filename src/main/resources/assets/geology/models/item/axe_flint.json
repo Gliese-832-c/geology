@@ -1,0 +1,6 @@
+{
+  "parent": "geology:item/primitive_axe",
+  "textures": {
+    "2": "geology:blocks/rocks/special_rocks/flint/flint_01"
+  }
+}

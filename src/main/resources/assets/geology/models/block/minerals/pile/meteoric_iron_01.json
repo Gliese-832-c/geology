@@ -1,0 +1,7 @@
+{
+    "parent": "geology:block/minerals/pile/pile_verylarge",
+    "textures": {
+        "0": "geology:blocks/minerals/pile/meteoric_iron",
+        "particle": "geology:blocks/minerals/pile/meteoric_iron"
+    }
+}
