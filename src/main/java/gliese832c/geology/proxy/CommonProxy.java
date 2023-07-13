@@ -19,7 +19,6 @@ import net.minecraft.block.BlockStone;
 import net.minecraft.block.state.IBlockState;
 import net.minecraft.client.Minecraft;
 import net.minecraft.entity.player.EntityPlayer;
-import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLModIdMappingEvent;
 import net.minecraftforge.fml.common.event.FMLPostInitializationEvent;
@@ -47,6 +46,17 @@ public class CommonProxy
 
     public void init(FMLInitializationEvent event)
     {
+        /*MinecraftForge.EVENT_BUS.register(new ArmourBonusHandler());*/
+
+        GameRegistry.registerWorldGenerator(new VeinGenerator(
+                GeologyBlocks.rockVolcanic.getDefaultState()
+                        .withProperty(BlockRockVolcanic.TYPE, BlockTypes.RockVolcanicTypes.BASALT),
+                0.1,
+                8,
+                256
+                ), 0
+        );
+      
         // Registers dimension whitelist
 
         int[] tempVarDims = GeologyConfig.dimension_whitelist;
