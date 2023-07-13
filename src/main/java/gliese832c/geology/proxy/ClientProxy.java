@@ -34,14 +34,6 @@ public class ClientProxy extends CommonProxy
     public void init(FMLInitializationEvent event)
     {
         super.init(event);
-        /*ItemColors itemcolors = Minecraft.getMinecraft().getItemColors();
-        itemcolors.registerItemColorHandler(new IItemColor()
-        {
-            public int colorMultiplier(ItemStack stack, int tintIndex)
-            {
-                return tintIndex > 0 ? -1 : ((ItemArmor) stack.getItem()).getColor(stack);
-            }
-        }, QMDArmour.helm_hev, QMDArmour.chest_hev, QMDArmour.legs_hev, QMDArmour.boots_hev);*/
     }
 
     @Override
