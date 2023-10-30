@@ -1,0 +1,9 @@
+{
+    "parent": "geology:block/minerals/magmatic/_chromitite",
+    "textures": {
+        "particle": "geology:blocks/minerals/magmatic/chromitite_anorthosite_01",
+        "top": "geology:blocks/minerals/magmatic/chromitite_anorthosite_ends_1",
+        "bottom": "geology:blocks/minerals/magmatic/chromitite_anorthosite_ends_2",
+        "side": "geology:blocks/minerals/magmatic/chromitite_anorthosite_01"
+    }
+}

@@ -1,0 +1,22 @@
+{
+	"variants":{
+		"type=till": [
+			{ "model": "geology:rocks/rock_unconsolidated/till_01", "weight": 50 }
+		],
+		"type=fluvial_sediment": [
+			{ "model": "geology:rocks/rock_unconsolidated/fluvial_sediment_01", "weight": 50 }
+		],
+		"type=alluvium": [
+			{ "model": "geology:rocks/rock_unconsolidated/alluvium_01", "weight": 50 }
+		],
+		"type=loess": [
+			{ "model": "geology:rocks/rock_unconsolidated/loess_01", "weight": 50 }
+		],
+		"type=diatomaceous_earth": [
+			{ "model": "geology:rocks/rock_unconsolidated/diatomaceous_earth_01", "weight": 50 }
+		],
+		"type=marl": [
+			{ "model": "geology:rocks/rock_unconsolidated/marl_01", "weight": 50 }
+		]
+	}
+}

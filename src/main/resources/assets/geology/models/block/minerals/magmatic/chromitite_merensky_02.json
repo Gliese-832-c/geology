@@ -1,0 +1,9 @@
+{
+    "parent": "geology:block/minerals/magmatic/_chromitite",
+    "textures": {
+        "particle": "geology:blocks/minerals/magmatic/chromitite_merensky_02",
+        "top": "geology:blocks/minerals/magmatic/chromitite_merensky_05",
+        "bottom": "geology:blocks/minerals/magmatic/chromitite_merensky_06",
+        "side": "geology:blocks/minerals/magmatic/chromitite_merensky_02"
+    }
+}

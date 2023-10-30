@@ -30,6 +30,7 @@ tile.geology.rock_plutonic.norite.name=Norite
 tile.geology.rock_plutonic.troctolite.name=Troctolite
 tile.geology.rock_plutonic.dunite.name=Dunite
 tile.geology.rock_plutonic.kimberlite.name=Kimberlite
+tile.geology.rock_plutonic.pyroxenite.name=Pyroxenite
 
 
 
@@ -46,6 +47,26 @@ tile.geology.rock_sedimentary.sandstone.name=Sandstone
 tile.geology.rock_sedimentary.red_sandstone.name=Red Sandstone
 tile.geology.rock_sedimentary.conglomerate.name=Conglomerate
 tile.geology.rock_sedimentary.graywacke.name=Graywacke
+
+
+tile.geology.rock_sedimentary2.shale_red.name=Red Shale
+tile.geology.rock_sedimentary2.shale_black.name=Black Shale
+tile.geology.rock_sedimentary2.sandstone_gray.name=Gray Sandstone
+tile.geology.rock_sedimentary2.interbedded_gray.name=Interbedded Sedimentary Rocks
+tile.geology.rock_sedimentary2.interbedded_red.name=Red Interbedded Sedimentary Rocks
+tile.geology.rock_sedimentary2.interbedded_thin.name=Thinly Interbedded Sedimentary Rocks
+tile.geology.rock_sedimentary2.crossbedded_gray.name=Crossbedded Sedimentary Rocks
+tile.geology.rock_sedimentary2.limestone_stratiform.name=Limestone
+tile.geology.rock_sedimentary2.dolomite_stratiform.name=Dolomite
+
+
+
+tile.geology.rock_unconsolidated.till.name=Till
+tile.geology.rock_unconsolidated.fluvial_sediment.name=Fluvial Sediment
+tile.geology.rock_unconsolidated.alluvium.name=Alluvium
+tile.geology.rock_unconsolidated.loess.name=Loess
+tile.geology.rock_unconsolidated.diatomaceous_earth.name=Diatomaceous Earth
+tile.geology.rock_unconsolidated.marl.name=Marl
 
 
 
@@ -112,10 +133,20 @@ tile.geology.minerals_coal.sub_bituminous.name=Sub-bituminous Coal
 tile.geology.minerals_coal.bituminous.name=Bituminous Coal
 tile.geology.minerals_coal.anthracite.name=Anthracite Coal
 
-tile.geology.minerals_loose.gravel_cassiterite.name=Cassiterite-Rich Gravel
-tile.geology.minerals_loose.gravel_gold.name=Gold-Rich Gravel
-tile.geology.minerals_loose.gravel_pyrite.name=Pyrite-Rich Gravel
-tile.geology.minerals_loose.sand_magnetite.name=Iron Sand
+tile.geology.minerals_gravel.cassiterite.name=Cassiterite-Rich Gravel
+tile.geology.minerals_gravel.gold.name=Gold-Rich Gravel
+tile.geology.minerals_gravel.pyrite.name=Pyrite-Rich Gravel
+
+tile.geology.minerals_sand.desert.name=Desert Sand
+tile.geology.minerals_sand.quartz.name=Quartz Sand
+tile.geology.minerals_sand.magnetite.name=Iron Sand
+
+tile.geology.minerals_magmatic.titanomagnetite.name=Titanomagnetite
+tile.geology.minerals_magmatic.chromitite_merensky.name=Merensky Chromitite
+tile.geology.minerals_magmatic.chromitite_pyroxenite_rich.name=Chromitite in Pyroxenite (Rich)
+tile.geology.minerals_magmatic.chromitite_anorthosite.name=Chromitite in Anorthosite
+tile.geology.minerals_magmatic.chromitite_pyroxenite.name=Chromitite in Pyroxenite
+tile.geology.minerals_magmatic.chromitite.name=Chromitite
 
 tile.geology.minerals_muddy.peat.name=Peat
 tile.geology.minerals_muddy.bog_iron_mud.name=Iron-Rich Mud
@@ -126,6 +157,12 @@ tile.geology.minerals_pile.meteoric_iron_pristine.name=Pristine Meteoric Iron Ch
 tile.geology.minerals_pile.native_copper.name=Native Copper Nugget
 tile.geology.minerals_pile.native_copper_large.name=Native Copper Chunk
 tile.geology.minerals_pile.native_copper_boulder.name=Native Copper Boulder
+
+tile.geology.minerals_sedimentary.banded_iron.name=Banded Iron Ore
+tile.geology.minerals_sedimentary.banded_iron_rich.name=Rich Banded Iron Ore
+tile.geology.minerals_sedimentary.taconite.name=Taconite
+tile.geology.minerals_sedimentary.bedded_iron.name=Bedded Iron Ore
+tile.geology.minerals_sedimentary.siderite.name=Siderite
 
 tile.geology.minerals_unconsolidated.bog_iron.name=Bog Iron
 tile.geology.minerals_unconsolidated.limonite.name=Limonite

@@ -1,0 +1,9 @@
+{
+    "parent": "geology:block/rocks/rock_unconsolidated/fluvial_sediment",
+    "textures": {
+        "topbottom": "geology:blocks/rocks/rock_unconsolidated/fluvial_sediment_02",
+        "northsouth": "geology:blocks/rocks/rock_unconsolidated/fluvial_sediment_01",
+        "westeast": "geology:blocks/rocks/rock_unconsolidated/fluvial_sediment_01",
+        "particle": "geology:blocks/rocks/rock_unconsolidated/fluvial_sediment_01"
+    }
+}

@@ -68,8 +68,14 @@
 			{ "model": "geology:rocks/rock_plutonic/kimberlite_02", "weight": 50 },
 			{ "model": "geology:rocks/rock_plutonic/kimberlite_03", "weight": 50 },
 			{ "model": "geology:rocks/rock_plutonic/kimberlite_04", "weight": 50 },
-			{ "model": "geology:rocks/rock_plutonic/kimberlite_05", "weight": 10 },
-			{ "model": "geology:rocks/rock_plutonic/kimberlite_06", "weight": 10 }
+			{ "model": "geology:rocks/rock_plutonic/kimberlite_05", "weight": 5 },
+			{ "model": "geology:rocks/rock_plutonic/kimberlite_06", "weight": 5 }
+		],
+		"type=pyroxenite": [
+			{ "model": "geology:rocks/rock_plutonic/pyroxenite_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic/pyroxenite_02", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic/pyroxenite_03", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic/pyroxenite_04", "weight": 50 }
 		]
 	}
 }

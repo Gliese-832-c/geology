@@ -69,7 +69,13 @@
       "kimberlite": {
         "textures": {
           "0": "geology:blocks/rocks/rock_plutonic/kimberlite_01",
-          "particle": "geology:blocks/rocks/rock_plutonic/kimberlitee_01"
+          "particle": "geology:blocks/rocks/rock_plutonic/kimberlite_01"
+        }
+      },
+      "pyroxenite": {
+        "textures": {
+          "0": "geology:blocks/rocks/rock_plutonic/pyroxenite_01",
+          "particle": "geology:blocks/rocks/rock_plutonic/pyroxenite_01"
         }
       }
     }

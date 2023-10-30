@@ -3,6 +3,7 @@
     "textures": {
         "topbottom": "geology:blocks/rocks/rock_plutonic/kimberlite_05",
         "northsouth": "geology:blocks/rocks/rock_plutonic/kimberlite_06",
-        "westeast": "geology:blocks/rocks/rock_plutonic/kimberlite_06"
+        "westeast": "geology:blocks/rocks/rock_plutonic/kimberlite_06",
+        "particle": "geology:blocks/rocks/rock_plutonic/kimberlite_05"
     }
 }

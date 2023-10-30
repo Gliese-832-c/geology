@@ -1,0 +1,9 @@
+{
+    "parent": "geology:block/rocks/rock_unconsolidated/till",
+    "textures": {
+        "topbottom": "geology:blocks/rocks/rock_unconsolidated/till_01",
+        "northsouth": "geology:blocks/rocks/rock_unconsolidated/till_01",
+        "westeast": "geology:blocks/rocks/rock_unconsolidated/till_01",
+        "particle": "geology:blocks/rocks/rock_unconsolidated/till_01"
+    }
+}

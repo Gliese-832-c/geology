@@ -1,0 +1,9 @@
+{
+    "parent": "geology:block/rocks/rock_sedimentary2/crossbedded_gray",
+    "textures": {
+        "topbottom": "geology:blocks/rocks/rock_sedimentary2/crossbedded_gray_05",
+        "northsouth": "geology:blocks/rocks/rock_sedimentary2/crossbedded_gray_01",
+        "westeast": "geology:blocks/rocks/rock_sedimentary2/crossbedded_gray_02",
+        "particle": "geology:blocks/rocks/rock_sedimentary2/crossbedded_gray_05"
+    }
+}

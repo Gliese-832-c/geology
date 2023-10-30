@@ -3,6 +3,7 @@
     "textures": {
         "topbottom": "geology:blocks/rocks/rock_sedimentary/red_sandstone_07",
         "northsouth": "geology:blocks/rocks/rock_sedimentary/red_sandstone_03",
-        "westeast": "geology:blocks/rocks/rock_sedimentary/red_sandstone_04"
+        "westeast": "geology:blocks/rocks/rock_sedimentary/red_sandstone_04",
+        "particle": "geology:blocks/rocks/rock_sedimentary/red_sandstone_07"
     }
 }

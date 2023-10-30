@@ -1,0 +1,9 @@
+{
+    "parent": "geology:block/rocks/rock_plutonic/pyroxenite",
+    "textures": {
+        "topbottom": "geology:blocks/rocks/rock_plutonic/pyroxenite_03",
+        "northsouth": "geology:blocks/rocks/rock_plutonic/pyroxenite_04",
+        "westeast": "geology:blocks/rocks/rock_plutonic/pyroxenite_01",
+        "particle": "geology:blocks/rocks/rock_plutonic/pyroxenite_03"
+    }
+}

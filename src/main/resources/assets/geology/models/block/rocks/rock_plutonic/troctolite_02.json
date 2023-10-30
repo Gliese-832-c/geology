@@ -3,6 +3,7 @@
     "textures": {
         "topbottom": "geology:blocks/rocks/rock_plutonic/troctolite_02",
         "northsouth": "geology:blocks/rocks/rock_plutonic/troctolite_03",
-        "westeast": "geology:blocks/rocks/rock_plutonic/troctolite_04"
+        "westeast": "geology:blocks/rocks/rock_plutonic/troctolite_04",
+        "particle": "geology:blocks/rocks/rock_plutonic/troctolite_02"
     }
 }

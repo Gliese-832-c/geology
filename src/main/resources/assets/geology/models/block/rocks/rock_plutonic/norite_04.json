@@ -3,6 +3,7 @@
     "textures": {
         "topbottom": "geology:blocks/rocks/rock_plutonic/norite_04",
         "northsouth": "geology:blocks/rocks/rock_plutonic/norite_01",
-        "westeast": "geology:blocks/rocks/rock_plutonic/norite_02"
+        "westeast": "geology:blocks/rocks/rock_plutonic/norite_02",
+        "particle": "geology:blocks/rocks/rock_plutonic/norite_04"
     }
 }

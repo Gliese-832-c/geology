@@ -1,0 +1,9 @@
+{
+    "parent": "geology:block/rocks/rock_sedimentary2/limestone_stratiform",
+    "textures": {
+        "topbottom": "geology:blocks/rocks/rock_sedimentary2/limestone_stratiform_08",
+        "northsouth": "geology:blocks/rocks/rock_sedimentary2/limestone_stratiform_04",
+        "westeast": "geology:blocks/rocks/rock_sedimentary2/limestone_stratiform_01",
+        "particle": "geology:blocks/rocks/rock_sedimentary2/limestone_stratiform_08"
+    }
+}

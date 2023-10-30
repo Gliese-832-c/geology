@@ -1,0 +1,58 @@
+{
+	"variants":{
+		"type=shale_red": [
+			{ "model": "geology:rocks/rock_sedimentary2/shale_red_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_sedimentary2/shale_red_02", "weight": 50 },
+			{ "model": "geology:rocks/rock_sedimentary2/shale_red_03", "weight": 50 },
+			{ "model": "geology:rocks/rock_sedimentary2/shale_red_04", "weight": 50 }
+		],
+		"type=shale_black": [
+			{ "model": "geology:rocks/rock_sedimentary2/shale_black_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_sedimentary2/shale_black_02", "weight": 50 },
+			{ "model": "geology:rocks/rock_sedimentary2/shale_black_03", "weight": 50 },
+			{ "model": "geology:rocks/rock_sedimentary2/shale_black_04", "weight": 50 }
+		],
+		"type=sandstone_gray": [
+			{ "model": "geology:rocks/rock_sedimentary2/sandstone_gray_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_sedimentary2/sandstone_gray_02", "weight": 50 },
+			{ "model": "geology:rocks/rock_sedimentary2/sandstone_gray_03", "weight": 50 },
+			{ "model": "geology:rocks/rock_sedimentary2/sandstone_gray_04", "weight": 50 }
+		],
+		"type=interbedded_gray": [
+			{ "model": "geology:rocks/rock_sedimentary2/interbedded_gray_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_sedimentary2/interbedded_gray_02", "weight": 50 },
+			{ "model": "geology:rocks/rock_sedimentary2/interbedded_gray_03", "weight": 50 },
+			{ "model": "geology:rocks/rock_sedimentary2/interbedded_gray_04", "weight": 50 }
+		],
+		"type=interbedded_red": [
+			{ "model": "geology:rocks/rock_sedimentary2/interbedded_red_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_sedimentary2/interbedded_red_02", "weight": 50 },
+			{ "model": "geology:rocks/rock_sedimentary2/interbedded_red_03", "weight": 50 },
+			{ "model": "geology:rocks/rock_sedimentary2/interbedded_red_04", "weight": 50 }
+		],
+		"type=interbedded_thin": [
+			{ "model": "geology:rocks/rock_sedimentary2/interbedded_thin_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_sedimentary2/interbedded_thin_02", "weight": 50 },
+			{ "model": "geology:rocks/rock_sedimentary2/interbedded_thin_03", "weight": 50 },
+			{ "model": "geology:rocks/rock_sedimentary2/interbedded_thin_04", "weight": 50 }
+		],
+		"type=crossbedded_gray": [
+			{ "model": "geology:rocks/rock_sedimentary2/crossbedded_gray_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_sedimentary2/crossbedded_gray_02", "weight": 50 },
+			{ "model": "geology:rocks/rock_sedimentary2/crossbedded_gray_03", "weight": 50 },
+			{ "model": "geology:rocks/rock_sedimentary2/crossbedded_gray_04", "weight": 50 }
+		],
+		"type=limestone_stratiform": [
+			{ "model": "geology:rocks/rock_sedimentary2/limestone_stratiform_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_sedimentary2/limestone_stratiform_02", "weight": 50 },
+			{ "model": "geology:rocks/rock_sedimentary2/limestone_stratiform_03", "weight": 50 },
+			{ "model": "geology:rocks/rock_sedimentary2/limestone_stratiform_04", "weight": 50 }
+		],
+		"type=dolomite_stratiform": [
+			{ "model": "geology:rocks/rock_sedimentary2/dolomite_stratiform_01", "weight": 50 },
+			{ "model": "geology:rocks/rock_sedimentary2/dolomite_stratiform_02", "weight": 50 },
+			{ "model": "geology:rocks/rock_sedimentary2/dolomite_stratiform_03", "weight": 50 },
+			{ "model": "geology:rocks/rock_sedimentary2/dolomite_stratiform_04", "weight": 50 }
+		]
+	}
+}

@@ -1,0 +1,9 @@
+{
+    "parent": "geology:block/rocks/rock_unconsolidated/diatomaceous_earth",
+    "textures": {
+        "topbottom": "geology:blocks/rocks/rock_unconsolidated/diatomaceous_earth_02",
+        "northsouth": "geology:blocks/rocks/rock_unconsolidated/diatomaceous_earth_01",
+        "westeast": "geology:blocks/rocks/rock_unconsolidated/diatomaceous_earth_01",
+        "particle": "geology:blocks/rocks/rock_unconsolidated/diatomaceous_earth_01"
+    }
+}

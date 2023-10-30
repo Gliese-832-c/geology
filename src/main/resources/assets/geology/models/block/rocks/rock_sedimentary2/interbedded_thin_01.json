@@ -1,0 +1,9 @@
+{
+    "parent": "geology:block/rocks/rock_sedimentary2/interbedded_thin",
+    "textures": {
+        "topbottom": "geology:blocks/rocks/rock_sedimentary2/interbedded_thin_05",
+        "northsouth": "geology:blocks/rocks/rock_sedimentary2/interbedded_thin_01",
+        "westeast": "geology:blocks/rocks/rock_sedimentary2/interbedded_thin_02",
+        "particle": "geology:blocks/rocks/rock_sedimentary2/interbedded_thin_05"
+    }
+}

@@ -3,6 +3,7 @@
     "textures": {
         "topbottom": "geology:blocks/rocks/rock_plutonic/diorite_03",
         "northsouth": "geology:blocks/rocks/rock_plutonic/diorite_04",
-        "westeast": "geology:blocks/rocks/rock_plutonic/diorite_01"
+        "westeast": "geology:blocks/rocks/rock_plutonic/diorite_01",
+        "particle": "geology:blocks/rocks/rock_plutonic/diorite_03"
     }
 }

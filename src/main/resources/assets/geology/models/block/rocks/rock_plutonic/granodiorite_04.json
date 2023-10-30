@@ -3,6 +3,7 @@
     "textures": {
         "topbottom": "geology:blocks/rocks/rock_plutonic/granodiorite_04",
         "northsouth": "geology:blocks/rocks/rock_plutonic/granodiorite_01",
-        "westeast": "geology:blocks/rocks/rock_plutonic/granodiorite_02"
+        "westeast": "geology:blocks/rocks/rock_plutonic/granodiorite_02",
+        "particle": "geology:blocks/rocks/rock_plutonic/granodiorite_04"
     }
 }

@@ -1,9 +1,0 @@
-{
-    "parent": "geology:block/minerals/loose/_loose",
-    "textures": {
-        "topbottom": "geology:blocks/minerals/loose/gravel_pyrite_01",
-        "northsouth": "geology:blocks/minerals/loose/gravel_pyrite_01",
-        "westeast": "geology:blocks/minerals/loose/gravel_pyrite_01",
-        "particle": "geology:blocks/minerals/loose/gravel_pyrite_01"
-    }
-}

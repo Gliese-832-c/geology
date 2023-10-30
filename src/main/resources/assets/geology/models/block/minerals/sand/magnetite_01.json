@@ -1,0 +1,9 @@
+{
+    "parent": "geology:block/minerals/sand/_sand",
+    "textures": {
+        "topbottom": "geology:blocks/minerals/sand/magnetite_01",
+        "northsouth": "geology:blocks/minerals/sand/magnetite_01",
+        "westeast": "geology:blocks/minerals/sand/magnetite_01",
+        "particle": "geology:blocks/minerals/sand/magnetite_01"
+    }
+}

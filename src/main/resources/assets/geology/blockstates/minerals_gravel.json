@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=cassiterite": [
+      { "model": "geology:minerals/gravel/cassiterite_01", "weight": 50 }
+    ],
+    "type=gold": [
+      { "model": "geology:minerals/gravel/gold_01", "weight": 50 }
+    ],
+    "type=pyrite": [
+      { "model": "geology:minerals/gravel/pyrite_01", "weight": 50 }
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+{
+    "parent": "geology:block/rocks/rock_unconsolidated/marl",
+    "textures": {
+        "topbottom": "geology:blocks/rocks/rock_unconsolidated/marl_02",
+        "northsouth": "geology:blocks/rocks/rock_unconsolidated/marl_01",
+        "westeast": "geology:blocks/rocks/rock_unconsolidated/marl_01",
+        "particle": "geology:blocks/rocks/rock_unconsolidated/marl_01"
+    }
+}

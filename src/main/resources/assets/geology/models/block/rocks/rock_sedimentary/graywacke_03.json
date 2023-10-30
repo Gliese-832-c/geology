@@ -3,6 +3,7 @@
     "textures": {
         "topbottom": "geology:blocks/rocks/rock_sedimentary/graywacke_03",
         "northsouth": "geology:blocks/rocks/rock_sedimentary/graywacke_04",
-        "westeast": "geology:blocks/rocks/rock_sedimentary/graywacke_01"
+        "westeast": "geology:blocks/rocks/rock_sedimentary/graywacke_01",
+        "particle": "geology:blocks/rocks/rock_sedimentary/graywacke_03"
     }
 }

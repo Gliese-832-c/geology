@@ -3,6 +3,7 @@
     "textures": {
         "topbottom": "geology:blocks/rocks/rock_plutonic/anorthosite_03",
         "northsouth": "geology:blocks/rocks/rock_plutonic/anorthosite_04",
-        "westeast": "geology:blocks/rocks/rock_plutonic/anorthosite_01"
+        "westeast": "geology:blocks/rocks/rock_plutonic/anorthosite_01",
+        "particle": "geology:blocks/rocks/rock_plutonic/anorthosite_03"
     }
 }

@@ -3,6 +3,7 @@
     "textures": {
         "topbottom": "geology:blocks/rocks/rock_plutonic/granite_01",
         "northsouth": "geology:blocks/rocks/rock_plutonic/granite_02",
-        "westeast": "geology:blocks/rocks/rock_plutonic/granite_03"
+        "westeast": "geology:blocks/rocks/rock_plutonic/granite_03",
+        "particle": "geology:blocks/rocks/rock_plutonic/granite_01"
     }
 }

@@ -68,10 +68,16 @@
 			{ "model": "geology:rocks/rock_plutonic_boulder/kimberlite_1", "weight": 50, "y": 90 },
 			{ "model": "geology:rocks/rock_plutonic_boulder/kimberlite_1", "weight": 50, "y": 180 },
 			{ "model": "geology:rocks/rock_plutonic_boulder/kimberlite_1", "weight": 50, "y": 270 },
-			{ "model": "geology:rocks/rock_plutonic_boulder/kimberlite_alternative_1", "weight": 5 },
-			{ "model": "geology:rocks/rock_plutonic_boulder/kimberlite_alternative_1", "weight": 5, "y": 90 },
-			{ "model": "geology:rocks/rock_plutonic_boulder/kimberlite_alternative_1", "weight": 5, "y": 180 },
-			{ "model": "geology:rocks/rock_plutonic_boulder/kimberlite_alternative_1", "weight": 5, "y": 270 }
+			{ "model": "geology:rocks/rock_plutonic_boulder/kimberlite_alternative_1", "weight": 2 },
+			{ "model": "geology:rocks/rock_plutonic_boulder/kimberlite_alternative_1", "weight": 3, "y": 90 },
+			{ "model": "geology:rocks/rock_plutonic_boulder/kimberlite_alternative_1", "weight": 2, "y": 180 },
+			{ "model": "geology:rocks/rock_plutonic_boulder/kimberlite_alternative_1", "weight": 3, "y": 270 }
+		],
+		"type=pyroxenite": [
+			{ "model": "geology:rocks/rock_plutonic_boulder/pyroxenite_1", "weight": 50 },
+			{ "model": "geology:rocks/rock_plutonic_boulder/pyroxenite_1", "weight": 50, "y": 90 },
+			{ "model": "geology:rocks/rock_plutonic_boulder/pyroxenite_1", "weight": 50, "y": 180 },
+			{ "model": "geology:rocks/rock_plutonic_boulder/pyroxenite_1", "weight": 50, "y": 270 }
 		]
 	}
 }

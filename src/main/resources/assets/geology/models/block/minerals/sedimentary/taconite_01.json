@@ -1,0 +1,9 @@
+{
+    "parent": "geology:block/minerals/sedimentary/_sedimentary",
+    "textures": {
+        "topbottom": "geology:blocks/minerals/sedimentary/taconite_01",
+        "northsouth": "geology:blocks/minerals/sedimentary/taconite_01",
+        "westeast": "geology:blocks/minerals/sedimentary/taconite_01",
+        "particle": "geology:blocks/minerals/sedimentary/taconite_01"
+    }
+}

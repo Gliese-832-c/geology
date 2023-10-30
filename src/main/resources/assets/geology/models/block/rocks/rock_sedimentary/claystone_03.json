@@ -3,6 +3,7 @@
     "textures": {
         "topbottom": "geology:blocks/rocks/rock_sedimentary/claystone_03",
         "northsouth": "geology:blocks/rocks/rock_sedimentary/claystone_04",
-        "westeast": "geology:blocks/rocks/rock_sedimentary/claystone_01"
+        "westeast": "geology:blocks/rocks/rock_sedimentary/claystone_01",
+        "particle": "geology:blocks/rocks/rock_sedimentary/claystone_03"
     }
 }

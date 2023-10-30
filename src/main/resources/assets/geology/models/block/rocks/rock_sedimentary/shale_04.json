@@ -3,6 +3,7 @@
     "textures": {
         "topbottom": "geology:blocks/rocks/rock_sedimentary/shale_08",
         "northsouth": "geology:blocks/rocks/rock_sedimentary/shale_04",
-        "westeast": "geology:blocks/rocks/rock_sedimentary/shale_01"
+        "westeast": "geology:blocks/rocks/rock_sedimentary/shale_01",
+        "particle": "geology:blocks/rocks/rock_sedimentary/shale_08"
     }
 }

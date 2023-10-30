@@ -1,0 +1,9 @@
+{
+    "parent": "geology:block/minerals/gravel/_gravel",
+    "textures": {
+        "topbottom": "geology:blocks/minerals/gravel/pyrite_01",
+        "northsouth": "geology:blocks/minerals/gravel/pyrite_01",
+        "westeast": "geology:blocks/minerals/gravel/pyrite_01",
+        "particle": "geology:blocks/minerals/gravel/pyrite_01"
+    }
+}

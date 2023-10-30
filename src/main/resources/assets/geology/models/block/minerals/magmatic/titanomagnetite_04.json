@@ -1,0 +1,9 @@
+{
+    "parent": "geology:block/minerals/magmatic/_magmatic",
+    "textures": {
+        "topbottom": "geology:blocks/minerals/magmatic/titanomagnetite_04",
+        "northsouth": "geology:blocks/minerals/magmatic/titanomagnetite_01",
+        "westeast": "geology:blocks/minerals/magmatic/titanomagnetite_02",
+        "particle": "geology:blocks/minerals/magmatic/titanomagnetite_04"
+    }
+}

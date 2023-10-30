@@ -1,0 +1,9 @@
+{
+    "parent": "geology:block/rocks/rock_unconsolidated/loess",
+    "textures": {
+        "topbottom": "geology:blocks/rocks/rock_unconsolidated/loess_01",
+        "northsouth": "geology:blocks/rocks/rock_unconsolidated/loess_01",
+        "westeast": "geology:blocks/rocks/rock_unconsolidated/loess_01",
+        "particle": "geology:blocks/rocks/rock_unconsolidated/loess_01"
+    }
+}

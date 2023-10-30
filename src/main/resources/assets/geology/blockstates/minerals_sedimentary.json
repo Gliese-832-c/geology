@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "type=banded_iron": [
+      { "model": "geology:minerals/sedimentary/banded_iron_01", "weight": 50 },
+      { "model": "geology:minerals/sedimentary/banded_iron_02", "weight": 50 }
+    ],
+    "type=banded_iron_rich": [
+      { "model": "geology:minerals/sedimentary/banded_iron_rich_01", "weight": 50 },
+      { "model": "geology:minerals/sedimentary/banded_iron_rich_02", "weight": 50 }
+    ],
+    "type=taconite": [
+      { "model": "geology:minerals/sedimentary/taconite_01" }
+    ],
+    "type=bedded_iron": [
+      { "model": "geology:minerals/sedimentary/bedded_iron_01", "weight": 50 },
+      { "model": "geology:minerals/sedimentary/bedded_iron_02", "weight": 50 },
+      { "model": "geology:minerals/sedimentary/bedded_iron_03", "weight": 50 },
+      { "model": "geology:minerals/sedimentary/bedded_iron_04", "weight": 50 }
+    ],
+    "type=siderite": [
+      { "model": "geology:minerals/sedimentary/siderite_01", "weight": 50 },
+      { "model": "geology:minerals/sedimentary/siderite_02", "weight": 50 },
+      { "model": "geology:minerals/sedimentary/siderite_03", "weight": 50 },
+      { "model": "geology:minerals/sedimentary/siderite_04", "weight": 50 }
+    ]
+  }
+}

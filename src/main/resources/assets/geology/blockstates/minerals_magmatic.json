@@ -1,0 +1,48 @@
+{
+  "variants": {
+    "type=titanomagnetite": [
+      { "model": "geology:minerals/magmatic/titanomagnetite_01", "weight": 50 },
+      { "model": "geology:minerals/magmatic/titanomagnetite_02", "weight": 50 },
+      { "model": "geology:minerals/magmatic/titanomagnetite_03", "weight": 50 },
+      { "model": "geology:minerals/magmatic/titanomagnetite_04", "weight": 50 }
+    ],
+    "type=chromitite_merensky": [
+      { "model": "geology:minerals/magmatic/chromitite_merensky_01", "weight": 50 },
+      { "model": "geology:minerals/magmatic/chromitite_merensky_02", "weight": 50 },
+      { "model": "geology:minerals/magmatic/chromitite_merensky_03", "weight": 50 },
+      { "model": "geology:minerals/magmatic/chromitite_merensky_04", "weight": 50 }
+    ],
+    "type=chromitite_pyroxenite_rich": [
+      { "model": "geology:minerals/magmatic/chromitite_pyroxenite_rich_01", "weight": 50 },
+      { "model": "geology:minerals/magmatic/chromitite_pyroxenite_rich_02", "weight": 50 },
+      { "model": "geology:minerals/magmatic/chromitite_pyroxenite_rich_03", "weight": 50 },
+      { "model": "geology:minerals/magmatic/chromitite_pyroxenite_rich_04", "weight": 50 }
+    ],
+    "type=chromitite_anorthosite": [
+      { "model": "geology:minerals/magmatic/chromitite_anorthosite_01", "weight": 50 },
+      { "model": "geology:minerals/magmatic/chromitite_anorthosite_02", "weight": 8 },
+      { "model": "geology:minerals/magmatic/chromitite_anorthosite_03", "weight": 8 },
+      { "model": "geology:minerals/magmatic/chromitite_anorthosite_04", "weight": 8 },
+      { "model": "geology:minerals/magmatic/chromitite_anorthosite_05", "weight": 8 },
+      { "model": "geology:minerals/magmatic/chromitite_anorthosite_06", "weight": 4 },
+      { "model": "geology:minerals/magmatic/chromitite_anorthosite_07", "weight": 4 },
+      { "model": "geology:minerals/magmatic/chromitite_anorthosite_08", "weight": 4 },
+      { "model": "geology:minerals/magmatic/chromitite_anorthosite_09", "weight": 4 },
+      { "model": "geology:minerals/magmatic/chromitite_anorthosite_10", "weight": 4 },
+      { "model": "geology:minerals/magmatic/chromitite_anorthosite_11", "weight": 4 },
+      { "model": "geology:minerals/magmatic/chromitite_anorthosite_12", "weight": 4 }
+    ],
+    "type=chromitite_pyroxenite": [
+      { "model": "geology:minerals/magmatic/chromitite_pyroxenite_01", "weight": 50 },
+      { "model": "geology:minerals/magmatic/chromitite_pyroxenite_02", "weight": 50 },
+      { "model": "geology:minerals/magmatic/chromitite_pyroxenite_03", "weight": 50 },
+      { "model": "geology:minerals/magmatic/chromitite_pyroxenite_04", "weight": 50 }
+    ],
+    "type=chromitite": [
+      { "model": "geology:minerals/magmatic/chromitite_01", "weight": 50 },
+      { "model": "geology:minerals/magmatic/chromitite_02", "weight": 50 },
+      { "model": "geology:minerals/magmatic/chromitite_03", "weight": 50 },
+      { "model": "geology:minerals/magmatic/chromitite_04", "weight": 50 }
+    ]
+  }
+}

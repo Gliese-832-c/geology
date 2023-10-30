@@ -1,0 +1,9 @@
+{
+    "parent": "geology:block/minerals/sedimentary/_sedimentary",
+    "textures": {
+        "topbottom": "geology:blocks/minerals/sedimentary/banded_iron_rich_02",
+        "northsouth": "geology:blocks/minerals/sedimentary/banded_iron_rich_02",
+        "westeast": "geology:blocks/minerals/sedimentary/banded_iron_rich_02",
+        "particle": "geology:blocks/minerals/sedimentary/banded_iron_rich_02"
+    }
+}

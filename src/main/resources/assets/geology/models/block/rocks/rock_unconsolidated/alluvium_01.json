@@ -1,0 +1,9 @@
+{
+    "parent": "geology:block/rocks/rock_unconsolidated/alluvium",
+    "textures": {
+        "topbottom": "geology:blocks/rocks/rock_unconsolidated/alluvium_02",
+        "northsouth": "geology:blocks/rocks/rock_unconsolidated/alluvium_01",
+        "westeast": "geology:blocks/rocks/rock_unconsolidated/alluvium_01",
+        "particle": "geology:blocks/rocks/rock_unconsolidated/alluvium_01"
+    }
+}

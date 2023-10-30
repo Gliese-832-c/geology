@@ -3,6 +3,7 @@
     "textures": {
         "topbottom": "geology:blocks/rocks/rock_sedimentary/siltstone_01",
         "northsouth": "geology:blocks/rocks/rock_sedimentary/siltstone_02",
-        "westeast": "geology:blocks/rocks/rock_sedimentary/siltstone_03"
+        "westeast": "geology:blocks/rocks/rock_sedimentary/siltstone_03",
+        "particle": "geology:blocks/rocks/rock_sedimentary/siltstone_01"
     }
 }

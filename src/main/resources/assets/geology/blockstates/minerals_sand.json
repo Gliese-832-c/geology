@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=magnetite": [
+      { "model": "geology:minerals/sand/magnetite_01", "weight": 50 }
+    ],
+    "type=quartz": [
+      { "model": "geology:minerals/sand/quartz_01", "weight": 50 }
+    ],
+    "type=desert": [
+      { "model": "geology:minerals/sand/desert_01", "weight": 50 }
+    ]
+  }
+}

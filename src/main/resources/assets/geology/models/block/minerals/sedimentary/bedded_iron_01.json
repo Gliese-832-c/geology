@@ -1,0 +1,9 @@
+{
+    "parent": "geology:block/minerals/sedimentary/_sedimentary",
+    "textures": {
+        "topbottom": "geology:blocks/minerals/sedimentary/bedded_iron_01",
+        "northsouth": "geology:blocks/minerals/sedimentary/bedded_iron_02",
+        "westeast": "geology:blocks/minerals/sedimentary/bedded_iron_03",
+        "particle": "geology:blocks/minerals/sedimentary/bedded_iron_01"
+    }
+}

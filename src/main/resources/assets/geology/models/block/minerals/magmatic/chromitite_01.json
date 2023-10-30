@@ -1,0 +1,9 @@
+{
+    "parent": "geology:block/minerals/magmatic/_magmatic",
+    "textures": {
+        "topbottom": "geology:blocks/minerals/magmatic/chromitite_01",
+        "northsouth": "geology:blocks/minerals/magmatic/chromitite_02",
+        "westeast": "geology:blocks/minerals/magmatic/chromitite_03",
+        "particle": "geology:blocks/minerals/magmatic/chromitite_01"
+    }
+}

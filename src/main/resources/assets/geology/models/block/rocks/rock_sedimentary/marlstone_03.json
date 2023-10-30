@@ -3,6 +3,7 @@
     "textures": {
         "topbottom": "geology:blocks/rocks/rock_sedimentary/marlstone_03",
         "northsouth": "geology:blocks/rocks/rock_sedimentary/marlstone_04",
-        "westeast": "geology:blocks/rocks/rock_sedimentary/marlstone_01"
+        "westeast": "geology:blocks/rocks/rock_sedimentary/marlstone_01",
+        "particle": "geology:blocks/rocks/rock_sedimentary/marlstone_03"
     }
 }
